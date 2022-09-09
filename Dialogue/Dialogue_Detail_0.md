@@ -230,7 +230,7 @@
 <ruby>別<rp>(</rp><rt>べつ</rt><rp>)</rp></ruby>に<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>もしていません。<ruby>今<rp>(</rp><rt>いま</rt><rp>)</rp></ruby>、スーさんの<ruby>写<rp>(</rp><rt>しゃ</rt><rp>)</rp></ruby><ruby>真<rp>(</rp><rt>しん</rt><rp>)</rp></ruby>を<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>ています。
 
 **ロバート：是嘛！我现在有一部很有意思的录像节目，如果你喜欢的话，一起看好吗？**
-そうですか。おもしろいビデオがありますから、よかったら見に来ませんか。
+そうですか。おもしろいビデオがありますから、よかったら<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>に来ませんか。
 
 **みちこ：太好啦！阿苏和我一起去行吗？**
 いいですね。スーさんも<ruby>一<rp>(</rp><rt>いっ</rt><rp>)</rp></ruby><ruby>緒<rp>(</rp><rt>しょ</rt><rp>)</rp></ruby>に<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>ってもいいですか。
@@ -310,7 +310,7 @@
 かぶきですか。あまり<ruby>知<rp>(</rp><rt>し</rt><rp>)</rp></ruby>りません。でも、ロバートさんはおもしろかったといっていました。
 
 **たけし：我有两张歌舞伎的票，一起去看好吗?**
-かぶきの切っ符を<ruby>二<rp>(</rp><rt>に</rt><rp>)</rp></ruby><ruby>枚<rp>(</rp><rt>まい</rt><rp>)</rp></ruby>もらったから、見に<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きませんか。
+かぶきの切っ符を<ruby>二<rp>(</rp><rt>に</rt><rp>)</rp></ruby><ruby>枚<rp>(</rp><rt>まい</rt><rp>)</rp></ruby>もらったから、<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>に<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きませんか。
 
 **メアリー：当然，什么时候?**
 ええ、ぜひ。いつですか。
@@ -335,7 +335,7 @@
 いいえ、まだ<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べたいません。
 
 **たけし：那么，我们一起去买好吗?**
-じゃあ、買いに<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きましょう。
+じゃあ、<ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>いに<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きましょう。
 
 **在饭店**
 **たけし：打扰了请给我两个盒饭。**
@@ -446,7 +446,7 @@
 初めまして、どうぞよろしく。
 
 **みちこ：约翰，你从哪儿来？**
-ジョンさん、出<ruby>身<rp>(</rp><rt>み</rt><rp>)</rp></ruby>はどこですか。
+ジョンさん、<ruby>出<rp>(</rp><rt>で</rt><rp>)</rp></ruby><ruby>身<rp>(</rp><rt>み</rt><rp>)</rp></ruby>はどこですか。
 
 **ジョン：我来自澳大利亚的凯恩茨。**
 オーストラリアのケアンズです。
@@ -461,13 +461,13 @@
 いいえ、ありません。
 
 **ジョン：那里有山和海，是个漂亮的地方，它因珊瑚礁而出名。你从哪儿来？**
-<ruby>山<rp>(</rp><rt>やま</rt><rp>)</rp></ruby>や<ruby>海<rp>(</rp><rt>うみ</rt><rp>)</rp></ruby>があって、きれいな<ruby>所<rp>(</rp><rt>ところ</rt><rp>)</rp></ruby>ですよ。グレートバリアリーフで<ruby>有<rp>(</rp><rt>ゆう</rt><rp>)</rp></ruby><ruby>名<rp>(</rp><rt>めい</rt><rp>)</rp></ruby>です。みちこさんはどこの出<ruby>身<rp>(</rp><rt>み</rt><rp>)</rp></ruby>ですか。
+<ruby>山<rp>(</rp><rt>やま</rt><rp>)</rp></ruby>や<ruby>海<rp>(</rp><rt>うみ</rt><rp>)</rp></ruby>があって、きれいな<ruby>所<rp>(</rp><rt>ところ</rt><rp>)</rp></ruby>ですよ。グレートバリアリーフで<ruby>有<rp>(</rp><rt>ゆう</rt><rp>)</rp></ruby><ruby>名<rp>(</rp><rt>めい</rt><rp>)</rp></ruby>です。みちこさんはどこの<ruby>出<rp>(</rp><rt>で</rt><rp>)</rp></ruby><ruby>身<rp>(</rp><rt>み</rt><rp>)</rp></ruby>ですか。
 
 **みちこ：来自长野，以后请到我家玩吧。食物也很好吃的。**
 <ruby>長<rp>(</rp><rt>なが</rt><rp>)</rp></ruby><ruby>野<rp>(</rp><rt>の</rt><rp>)</rp></ruby>です。<ruby>今<rp>(</rp><rt>こん</rt><rp>)</rp></ruby><ruby>度<rp>(</rp><rt>ど</rt><rp>)</rp></ruby><ruby>遊<rp>(</rp><rt>あそ</rt><rp>)</rp></ruby>びに来てください。<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べ<ruby>物<rp>(</rp><rt>もの</rt><rp>)</rp></ruby>もおいしいですよ。
 
 **ジョン：我一定会去的。**
-ぜひ、行きたいです。
+ぜひ、<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きたいです。
 
 ---
 ## 第12课　病気・疾病 #0_9
@@ -487,7 +487,7 @@
 どうしたんですか。
 
 **メアリー：昨天，我和朋友们一块出去吃晚饭，我想可能吃得太多了。**
-きのう<ruby>友<rp>(</rp><rt>とも</rt><rp>)</rp></ruby>だちと<ruby>晩<rp>(</rp><rt>ばん</rt><rp>)</rp></ruby>ごはんを食べに<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>ったんです。たぶん食べすぎたんだと<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>います。
+きのう<ruby>友<rp>(</rp><rt>とも</rt><rp>)</rp></ruby>だちと<ruby>晩<rp>(</rp><rt>ばん</rt><rp>)</rp></ruby>ごはんを<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べに<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>ったんです。たぶん<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べすぎたんだと<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>います。
 
 **みちこ：现在好点了吗?**
 <ruby>大<rp>(</rp><rt>だい</rt><rp>)</rp></ruby><ruby>丈<rp>(</rp><rt>じょう</rt><rp>)</rp></ruby><ruby>夫<rp>(</rp><rt>ぶ</rt><rp>)</rp></ruby>ですか。
@@ -682,7 +682,7 @@
 
 **在长野站**
 **メアリー：我们到早了，想不想四处看看?**
-<ruby>早<rp>(</rp><rt>はや</rt><rp>)</rp></ruby>く<ruby>着<rp>(</rp><rt>つ</rt><rp>)</rp></ruby>いたから、ちょっと<ruby>観<rp>(</rp><rt>かん</rt><rp>)</rp></ruby><ruby>光<rp>(</rp><rt>こう</rt><rp>)</rp></ruby>しない？
+<ruby>早<rp>(</rp><rt>はや</rt><rp>)</rp></ruby>く<ruby>着<rp>(</rp><rt>き</rt><rp>)</rp></ruby>いたから、ちょっと<ruby>観<rp>(</rp><rt>かん</rt><rp>)</rp></ruby><ruby>光<rp>(</rp><rt>こう</rt><rp>)</rp></ruby>しない？
 
 **たけし：好啊。去哪儿呢?**
 うん。どこに<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>く？
@@ -730,7 +730,7 @@
 どうしたんですか。
 
 **ジョン：是这样的，早晨起晚了，没能赶上电车，对不起。**
-<ruby>実<rp>(</rp><rt>じつ</rt><rp>)</rp></ruby>は、<ruby>朝<rp>(</rp><rt>あさ</rt><rp>)</rp></ruby><ruby>寝<rp>(</rp><rt>ね</rt><rp>)</rp></ruby><ruby>坊<rp>(</rp><rt>ぼう</rt><rp>)</rp></ruby>して、<ruby>電<rp>(</rp><rt>でん</rt><rp>)</rp></ruby><ruby>車<rp>(</rp><rt>しゃ</rt><rp>)</rp></ruby>に乗り<ruby>遅<rp>(</rp><rt>おく</rt><rp>)</rp></ruby>れたんです。すみません。
+<ruby>実<rp>(</rp><rt>じつ</rt><rp>)</rp></ruby>は、<ruby>朝<rp>(</rp><rt>あさ</rt><rp>)</rp></ruby><ruby>寝<rp>(</rp><rt>ね</rt><rp>)</rp></ruby><ruby>坊<rp>(</rp><rt>ぼう</rt><rp>)</rp></ruby>して、<ruby>電<rp>(</rp><rt>でん</rt><rp>)</rp></ruby><ruby>車<rp>(</rp><rt>しゃ</rt><rp>)</rp></ruby>に<ruby>乗<rp>(</rp><rt>の</rt><rp>)</rp></ruby>り<ruby>遅<rp>(</rp><rt>おく</rt><rp>)</rp></ruby>れたんです。すみません。
 
 **山下先生：这已经是第三次了。你买个闹钟怎么样？**
 もう<ruby>三<rp>(</rp><rt>さん</rt><rp>)</rp></ruby><ruby>回<rp>(</rp><rt>かい</rt><rp>)</rp></ruby><ruby>目<rp>(</rp><rt>め</rt><rp>)</rp></ruby>ですよ。<ruby>目<rp>(</rp><rt>め</rt><rp>)</rp></ruby><ruby>覚<rp>(</rp><rt>ざ</rt><rp>)</rp></ruby>まし<ruby>時<rp>(</rp><rt>と</rt><rp>)</rp></ruby><ruby>計<rp>(</rp><rt>けい</rt><rp>)</rp></ruby>を<ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>ったらどうですか。
@@ -837,7 +837,7 @@
 はい。がんばります。
 
 **店長：首先，冰箱里放有蔬菜，所以先拿出来。之后呢，外面的灯开着吗?**
-まず、<ruby>冷<rp>(</rp><rt>れい</rt><rp>)</rp></ruby><ruby>蔵<rp>(</rp><rt>ぞう</rt><rp>)</rp></ruby><ruby>庫<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>に<ruby>野<rp>(</rp><rt>や</rt><rp>)</rp></ruby><ruby>菜<rp>(</rp><rt>さい</rt><rp>)</rp></ruby>が<ruby>入<rp>(</rp><rt>はい</rt><rp>)</rp></ruby>っているから、<ruby>出<rp>(</rp><rt>だ</rt><rp>)</rp></ruby>しておいて。それから、<ruby>外<rp>(</rp><rt>よそ</rt><rp>)</rp></ruby>の<ruby>電<rp>(</rp><rt>でん</rt><rp>)</rp></ruby><ruby>機<rp>(</rp><rt>き</rt><rp>)</rp></ruby>はついている？
+まず、<ruby>冷<rp>(</rp><rt>れい</rt><rp>)</rp></ruby><ruby>蔵<rp>(</rp><rt>ぞう</rt><rp>)</rp></ruby><ruby>庫<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>に<ruby>野<rp>(</rp><rt>や</rt><rp>)</rp></ruby><ruby>菜<rp>(</rp><rt>さい</rt><rp>)</rp></ruby>が<ruby>入<rp>(</rp><rt>はい</rt><rp>)</rp></ruby>っているから、<ruby>出<rp>(</rp><rt>で</rt><rp>)</rp></ruby>しておいて。それから、<ruby>外<rp>(</rp><rt>よそ</rt><rp>)</rp></ruby>の<ruby>電<rp>(</rp><rt>でん</rt><rp>)</rp></ruby><ruby>機<rp>(</rp><rt>き</rt><rp>)</rp></ruby>はついている？
 
 **ジョン：没开呢。打开吗?**
 いいえ、ついていません。つけましょうか。
@@ -850,7 +850,7 @@
 
 **顾客与约翰**
 **客：对不起，我弄洒了酱油，真不好意思。**
-しみません。<ruby>醤<rp>(</rp><rt>しょう</rt><rp>)</rp></ruby><ruby>油<rp>(</rp><rt>ゆ</rt><rp>)</rp></ruby>を　落とし　ちゃったんです。ごめんなさい。
+しみません。<ruby>醤<rp>(</rp><rt>しょう</rt><rp>)</rp></ruby><ruby>油<rp>(</rp><rt>ゆ</rt><rp>)</rp></ruby>を　<ruby>落<rp>(</rp><rt>お</rt><rp>)</rp></ruby>とし　ちゃったんです。ごめんなさい。
 
 **ジョン：没关系。哎呀，你的裙子弄脏了。**
 いえ、<ruby>大<rp>(</rp><rt>だい</rt><rp>)</rp></ruby><ruby>丈<rp>(</rp><rt>じょう</rt><rp>)</rp></ruby><ruby>夫<rp>(</rp><rt>ぶ</rt><rp>)</rp></ruby>です。あっ、スカートが<ruby>汚<rp>(</rp><rt>よご</rt><rp>)</rp></ruby>れて　しまいましたね。

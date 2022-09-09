@@ -4,7 +4,7 @@
 # 2级部分综合练习[100题] #10_0
 * [[ N2_Menu_0.md | Menu #10_0 ]]
 
-1. あまり<ruby>信<rp>(</rp><rt>しん</rt><rp>)</rp></ruby>じられないことだが、これだけ<ruby>証<rp>(</rp><rt>しょう</rt><rp>)</rp></ruby><ruby>拠<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>があがっているのだから、<ruby>事<rp>(</rp><rt>じ</rt><rp>)</rp></ruby><ruby>実<rp>(</rp><rt>じつ</rt><rp>)</rp></ruby>_______。
+1. あまり<ruby>信<rp>(</rp><rt>しん</rt><rp>)</rp></ruby>じられないことだが、これだけ<ruby>証<rp>(</rp><rt>しょう</rt><rp>)</rp></ruby><ruby>拠<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>があがっているの　だから、<ruby>事<rp>(</rp><rt>じ</rt><rp>)</rp></ruby><ruby>実<rp>(</rp><rt>じつ</rt><rp>)</rp></ruby>_______。
 A)にちがわない
 B)に<ruby>決<rp>(</rp><rt>き</rt><rp>)</rp></ruby>まっていない
 C)に<ruby>相<rp>(</rp><rt>そう</rt><rp>)</rp></ruby><ruby>違<rp>(</rp><rt>い</rt><rp>)</rp></ruby>ない
@@ -43,11 +43,11 @@ D)とこにきめられた
     **解析**：
     ></details>
 
-4. 李さんは<ruby>日<rp>(</rp><rt>にっ</rt><rp>)</rp></ruby><ruby>本<rp>(</rp><rt>ぽん</rt><rp>)</rp></ruby>に来てから、富士<ruby>山<rp>(</rp><rt>やま</rt><rp>)</rp></ruby>をはじめ、_______。
+4. <ruby>李<rp>(</rp><rt>り</rt><rp>)</rp></ruby>さんは<ruby>日<rp>(</rp><rt>にっ</rt><rp>)</rp></ruby><ruby>本<rp>(</rp><rt>ぽん</rt><rp>)</rp></ruby>に来て　から、富士<ruby>山<rp>(</rp><rt>やま</rt><rp>)</rp></ruby>をはじめ、_______。
 A)<ruby>登<rp>(</rp><rt>のぼ</rt><rp>)</rp></ruby>ったことがある
 B)<ruby>主<rp>(</rp><rt>ぬし</rt><rp>)</rp></ruby>な<ruby>山<rp>(</rp><rt>やま</rt><rp>)</rp></ruby>にはだいたい<ruby>登<rp>(</rp><rt>のぼ</rt><rp>)</rp></ruby>った
 C)<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>て<ruby>美<rp>(</rp><rt>うつく</rt><rp>)</rp></ruby>しいと<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>った
-D)バスで<ruby>途<rp>(</rp><rt>と</rt><rp>)</rp></ruby><ruby>中<rp>(</rp><rt>ちゅう</rt><rp>)</rp></ruby>まで行き、それから<ruby>登<rp>(</rp><rt>のぼ</rt><rp>)</rp></ruby>った
+D)バスで<ruby>途<rp>(</rp><rt>と</rt><rp>)</rp></ruby><ruby>中<rp>(</rp><rt>ちゅう</rt><rp>)</rp></ruby>まで<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>き、それから<ruby>登<rp>(</rp><rt>のぼ</rt><rp>)</rp></ruby>った
     ><details>
     ><summary>
     >详解</summary>
@@ -95,7 +95,7 @@ D)ものだ、ものではない
     **解析**：
     ></details>
 
-8. 黄<ruby>山<rp>(</rp><rt>やま</rt><rp>)</rp></ruby>の<ruby>頂<rp>(</rp><rt>ちょう</rt><rp>)</rp></ruby><ruby>上<rp>(</rp><rt>じょう</rt><rp>)</rp></ruby>に<ruby>近<rp>(</rp><rt>ちか</rt><rp>)</rp></ruby>づくにつれて、_______。
+8. <ruby>黄<rp>(</rp><rt>こう</rt><rp>)</rp></ruby><ruby>山<rp>(</rp><rt>ざん</rt><rp>)</rp></ruby>の<ruby>頂<rp>(</rp><rt>ちょう</rt><rp>)</rp></ruby><ruby>上<rp>(</rp><rt>じょう</rt><rp>)</rp></ruby>に<ruby>近<rp>(</rp><rt>ちか</rt><rp>)</rp></ruby>づくにつれて、_______。
 A)もう<ruby>少<rp>(</rp><rt>すこ</rt><rp>)</rp></ruby>しです
 B)<ruby>高<rp>(</rp><rt>たか</rt><rp>)</rp></ruby>いです
 C)<ruby>寒<rp>(</rp><rt>さむ</rt><rp>)</rp></ruby>くなります
@@ -138,7 +138,7 @@ D)<ruby>親<rp>(</rp><rt>しん</rt><rp>)</rp></ruby><ruby>切<rp>(</rp><rt>せ�
 A)と<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>うより-
 B)と<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>ったら
 C)を<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>えない
-D)を言い
+D)を<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>い
     ><details>
     ><summary>
     >详解</summary>
@@ -177,7 +177,7 @@ D)だけに
 A)<ruby>海<rp>(</rp><rt>かい</rt><rp>)</rp></ruby><ruby>外<rp>(</rp><rt>がい</rt><rp>)</rp></ruby><ruby>出<rp>(</rp><rt>しゅっ</rt><rp>)</rp></ruby><ruby>張<rp>(</rp><rt>ちょう</rt><rp>)</rp></ruby>に<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>った
 B)<ruby>海<rp>(</rp><rt>かい</rt><rp>)</rp></ruby><ruby>外<rp>(</rp><rt>がい</rt><rp>)</rp></ruby><ruby>出<rp>(</rp><rt>しゅっ</rt><rp>)</rp></ruby><ruby>張<rp>(</rp><rt>ちょう</rt><rp>)</rp></ruby>に<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>かなかった
 C)<ruby>海<rp>(</rp><rt>かい</rt><rp>)</rp></ruby><ruby>外<rp>(</rp><rt>がい</rt><rp>)</rp></ruby><ruby>出<rp>(</rp><rt>しゅっ</rt><rp>)</rp></ruby><ruby>張<rp>(</rp><rt>ちょう</rt><rp>)</rp></ruby>に<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>けなかった
-D)<ruby>海<rp>(</rp><rt>かい</rt><rp>)</rp></ruby><ruby>外<rp>(</rp><rt>がい</rt><rp>)</rp></ruby><ruby>出<rp>(</rp><rt>しゅっ</rt><rp>)</rp></ruby><ruby>張<rp>(</rp><rt>ちょう</rt><rp>)</rp></ruby>に行きたかった
+D)<ruby>海<rp>(</rp><rt>かい</rt><rp>)</rp></ruby><ruby>外<rp>(</rp><rt>がい</rt><rp>)</rp></ruby><ruby>出<rp>(</rp><rt>しゅっ</rt><rp>)</rp></ruby><ruby>張<rp>(</rp><rt>ちょう</rt><rp>)</rp></ruby>に<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きたかった
     ><details>
     ><summary>
     >详解</summary>
@@ -225,7 +225,7 @@ D)たばかり
     **解析**：
     ></details>
 
-18. <ruby>学<rp>(</rp><rt>がっ</rt><rp>)</rp></ruby><ruby>校<rp>(</rp><rt>こう</rt><rp>)</rp></ruby>に<ruby>着<rp>(</rp><rt>つ</rt><rp>)</rp></ruby>いたとたん_______。
+18. <ruby>学<rp>(</rp><rt>がっ</rt><rp>)</rp></ruby><ruby>校<rp>(</rp><rt>こう</rt><rp>)</rp></ruby>に<ruby>着<rp>(</rp><rt>き</rt><rp>)</rp></ruby>いたとたん_______。
 A)<ruby>眼<rp>(</rp><rt>め</rt><rp>)</rp></ruby><ruby>鏡<rp>(</rp><rt>がね</rt><rp>)</rp></ruby>を<ruby>忘<rp>(</rp><rt>わす</rt><rp>)</rp></ruby>れてしまった
 B)<ruby>眼<rp>(</rp><rt>め</rt><rp>)</rp></ruby><ruby>鏡<rp>(</rp><rt>がね</rt><rp>)</rp></ruby>を<ruby>忘<rp>(</rp><rt>わす</rt><rp>)</rp></ruby>れようとした
 C)<ruby>眼<rp>(</rp><rt>め</rt><rp>)</rp></ruby><ruby>鏡<rp>(</rp><rt>がね</rt><rp>)</rp></ruby>を<ruby>忘<rp>(</rp><rt>わす</rt><rp>)</rp></ruby>れなければよかった
@@ -238,7 +238,7 @@ D)<ruby>眼<rp>(</rp><rt>め</rt><rp>)</rp></ruby><ruby>鏡<rp>(</rp><rt>がね<
     **解析**：
     ></details>
 
-19. <ruby>日<rp>(</rp><rt>にっ</rt><rp>)</rp></ruby><ruby>本<rp>(</rp><rt>ぽん</rt><rp>)</rp></ruby>への留学_______、<ruby>生<rp>(</rp><rt>う</rt><rp>)</rp></ruby>まれて<ruby>初<rp>(</rp><rt>はじ</rt><rp>)</rp></ruby>めて<ruby>親<rp>(</rp><rt>おや</rt><rp>)</rp></ruby>と離れ、<ruby>一人<rp>(</rp><rt>ひとり</rt><rp>)</rp></ruby><ruby>暮<rp>(</rp><rt>く</rt><rp>)</rp></ruby>らしをするようになった。
+19. <ruby>日<rp>(</rp><rt>にっ</rt><rp>)</rp></ruby><ruby>本<rp>(</rp><rt>ぽん</rt><rp>)</rp></ruby>への留学_______、<ruby>生<rp>(</rp><rt>う</rt><rp>)</rp></ruby>まれて<ruby>初<rp>(</rp><rt>はじ</rt><rp>)</rp></ruby>めて<ruby>親<rp>(</rp><rt>おや</rt><rp>)</rp></ruby>と<ruby>離<rp>(</rp><rt>はな</rt><rp>)</rp></ruby>れ、<ruby>一人<rp>(</rp><rt>ひとり</rt><rp>)</rp></ruby><ruby>暮<rp>(</rp><rt>く</rt><rp>)</rp></ruby>らしをするようになった。
 A)を<ruby>起<rp>(</rp><rt>き</rt><rp>)</rp></ruby><ruby>点<rp>(</rp><rt>てん</rt><rp>)</rp></ruby>
 B)を<ruby>契<rp>(</rp><rt>けい</rt><rp>)</rp></ruby><ruby>機<rp>(</rp><rt>き</rt><rp>)</rp></ruby>に
 C)の<ruby>際<rp>(</rp><rt>さい</rt><rp>)</rp></ruby>
@@ -264,7 +264,7 @@ D)<ruby>北<rp>(</rp><rt>ほく</rt><rp>)</rp></ruby><ruby>海<rp>(</rp><rt>う�
     **解析**：
     ></details>
 
-21. 「<ruby>君<rp>(</rp><rt>きみ</rt><rp>)</rp></ruby>なんか、<ruby>大<rp>(</rp><rt>おお</rt><rp>)</rp></ruby><ruby>嫌<rp>(</rp><rt>きら</rt><rp>)</rp></ruby>い」と<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>って<ruby>別<rp>(</rp><rt>わか</rt><rp>)</rp></ruby>れた_______、<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby><ruby>間<rp>(</rp><rt>かん</rt><rp>)</rp></ruby>が<ruby>経<rp>(</rp><rt>た</rt><rp>)</rp></ruby>つにつれ、だんだん<ruby>後<rp>(</rp><rt>こう</rt><rp>)</rp></ruby><ruby>悔<rp>(</rp><rt>かい</rt><rp>)</rp></ruby>し<ruby>始<rp>(</rp><rt>はじ</rt><rp>)</rp></ruby>めた。
+21. 「<ruby>君<rp>(</rp><rt>きみ</rt><rp>)</rp></ruby>なんか、<ruby>大<rp>(</rp><rt>おお</rt><rp>)</rp></ruby><ruby>嫌<rp>(</rp><rt>きら</rt><rp>)</rp></ruby>い」　と<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>って<ruby>別<rp>(</rp><rt>わか</rt><rp>)</rp></ruby>れた_______、<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby><ruby>間<rp>(</rp><rt>かん</rt><rp>)</rp></ruby>が<ruby>経<rp>(</rp><rt>へ</rt><rp>)</rp></ruby>つにつれ、だんだん<ruby>後<rp>(</rp><rt>こう</rt><rp>)</rp></ruby><ruby>悔<rp>(</rp><rt>かい</rt><rp>)</rp></ruby>し<ruby>始<rp>(</rp><rt>はじ</rt><rp>)</rp></ruby>めた。
 A)ものから
 B)ものの
 C)もので
@@ -304,7 +304,7 @@ D)うえは
     ></details>
 
 24. <ruby>予<rp>(</rp><rt>よ</rt><rp>)</rp></ruby><ruby>定<rp>(</rp><rt>てい</rt><rp>)</rp></ruby>の<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby><ruby>間<rp>(</rp><rt>かん</rt><rp>)</rp></ruby>になったので、<ruby>出<rp>(</rp><rt>で</rt><rp>)</rp></ruby>かけようとしたところへ_______。
-A)<ruby>課<rp>(</rp><rt>か</rt><rp>)</rp></ruby><ruby>長<rp>(</rp><rt>ちょう</rt><rp>)</rp></ruby>も出<ruby>掛<rp>(</rp><rt>か</rt><rp>)</rp></ruby>けた
+A)<ruby>課<rp>(</rp><rt>か</rt><rp>)</rp></ruby><ruby>長<rp>(</rp><rt>ちょう</rt><rp>)</rp></ruby>も<ruby>出<rp>(</rp><rt>で</rt><rp>)</rp></ruby><ruby>掛<rp>(</rp><rt>か</rt><rp>)</rp></ruby>けた
 B)<ruby>課<rp>(</rp><rt>か</rt><rp>)</rp></ruby><ruby>長<rp>(</rp><rt>ちょう</rt><rp>)</rp></ruby>も<ruby>出<rp>(</rp><rt>で</rt><rp>)</rp></ruby>かけようとした
 C)<ruby>課<rp>(</rp><rt>か</rt><rp>)</rp></ruby><ruby>長<rp>(</rp><rt>ちょう</rt><rp>)</rp></ruby>が<ruby>訪<rp>(</rp><rt>たず</rt><rp>)</rp></ruby>ねて来た
 D)<ruby>課<rp>(</rp><rt>か</rt><rp>)</rp></ruby><ruby>長<rp>(</rp><rt>ちょう</rt><rp>)</rp></ruby>が<ruby>訪<rp>(</rp><rt>たず</rt><rp>)</rp></ruby>ねていった
@@ -342,8 +342,8 @@ D)<ruby>友<rp>(</rp><rt>とも</rt><rp>)</rp></ruby><ruby>達<rp>(</rp><rt>だ�
     **解析**：
     ></details>
 
-27. <ruby>今日<rp>(</rp><rt>きょう</rt><rp>)</rp></ruby>はまじめな<ruby>話<rp>(</rp><rt>はなし</rt><rp>)</rp></ruby>だから、<ruby>冗<rp>(</rp><rt>じよう</rt><rp>)</rp></ruby><ruby>談<rp>(</rp><rt>だん</rt><rp>)</rp></ruby>_______でいきたいと<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>う。
-A)抜き
+27. <ruby>今日<rp>(</rp><rt>きょう</rt><rp>)</rp></ruby>はまじめな<ruby>話<rp>(</rp><rt>はなし</rt><rp>)</rp></ruby>　だから、<ruby>冗<rp>(</rp><rt>じよう</rt><rp>)</rp></ruby><ruby>談<rp>(</rp><rt>だん</rt><rp>)</rp></ruby>_______でいきたい　と<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>う。
+A)<ruby>抜<rp>(</rp><rt>ぬ</rt><rp>)</rp></ruby>き
 B)<ruby>抜<rp>(</rp><rt>ぬ</rt><rp>)</rp></ruby>く
 C)<ruby>抜<rp>(</rp><rt>ぬ</rt><rp>)</rp></ruby>いて
 D)<ruby>抜<rp>(</rp><rt>ぬ</rt><rp>)</rp></ruby>かない
@@ -356,10 +356,10 @@ D)<ruby>抜<rp>(</rp><rt>ぬ</rt><rp>)</rp></ruby>かない
     ></details>
 
 28. マカオのホテルに_______<ruby>次<rp>(</rp><rt>し</rt><rp>)</rp></ruby><ruby>第<rp>(</rp><rt>だい</rt><rp>)</rp></ruby>、すぐ<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>に<ruby>連<rp>(</rp><rt>れん</rt><rp>)</rp></ruby><ruby>絡<rp>(</rp><rt>らく</rt><rp>)</rp></ruby>してください
-A)<ruby>着<rp>(</rp><rt>つ</rt><rp>)</rp></ruby>く
-B)<ruby>着<rp>(</rp><rt>つ</rt><rp>)</rp></ruby>いた
-C)着き
-D)<ruby>着<rp>(</rp><rt>つ</rt><rp>)</rp></ruby>こう
+A)<ruby>着<rp>(</rp><rt>き</rt><rp>)</rp></ruby>く
+B)<ruby>着<rp>(</rp><rt>き</rt><rp>)</rp></ruby>いた
+C)<ruby>着<rp>(</rp><rt>き</rt><rp>)</rp></ruby>き
+D)<ruby>着<rp>(</rp><rt>き</rt><rp>)</rp></ruby>こう
     ><details>
     ><summary>
     >详解</summary>
@@ -381,7 +381,7 @@ D)むく
     **解析**：
     ></details>
 
-30. <ruby>昨<rp>(</rp><rt>さく</rt><rp>)</rp></ruby><ruby>夜<rp>(</rp><rt>や</rt><rp>)</rp></ruby><ruby>遅<rp>(</rp><rt>おそ</rt><rp>)</rp></ruby>くまで<ruby>残<rp>(</rp><rt>ざん</rt><rp>)</rp></ruby><ruby>業<rp>(</rp><rt>ぎょう</rt><rp>)</rp></ruby>したものだから、<ruby>今日<rp>(</rp><rt>きょう</rt><rp>)</rp></ruby>は_______。
+30. <ruby>昨<rp>(</rp><rt>さく</rt><rp>)</rp></ruby><ruby>夜<rp>(</rp><rt>や</rt><rp>)</rp></ruby><ruby>遅<rp>(</rp><rt>おそ</rt><rp>)</rp></ruby>くまで<ruby>残<rp>(</rp><rt>ざん</rt><rp>)</rp></ruby><ruby>業<rp>(</rp><rt>ぎょう</rt><rp>)</rp></ruby>したもの　だから、<ruby>今日<rp>(</rp><rt>きょう</rt><rp>)</rp></ruby>は_______。
 A)<ruby>元<rp>(</rp><rt>げん</rt><rp>)</rp></ruby><ruby>気<rp>(</rp><rt>き</rt><rp>)</rp></ruby>になるだろう
 B)<ruby>元<rp>(</rp><rt>げん</rt><rp>)</rp></ruby><ruby>気<rp>(</rp><rt>き</rt><rp>)</rp></ruby>だ
 C)<ruby>眠<rp>(</rp><rt>ねむ</rt><rp>)</rp></ruby>い
@@ -408,7 +408,7 @@ D)の<ruby>際<rp>(</rp><rt>さい</rt><rp>)</rp></ruby>
     ></details>
 
 32. <ruby>去<rp>(</rp><rt>きょ</rt><rp>)</rp></ruby><ruby>年<rp>(</rp><rt>ねん</rt><rp>)</rp></ruby>の<ruby>日<rp>(</rp><rt>に</rt><rp>)</rp></ruby><ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby><ruby>語<rp>(</rp><rt>ご</rt><rp>)</rp></ruby><ruby>能<rp>(</rp><rt>のう</rt><rp>)</rp></ruby><ruby>力<rp>(</rp><rt>りょく</rt><rp>)</rp></ruby><ruby>試<rp>(</rp><rt>し</rt><rp>)</rp></ruby><ruby>験<rp>(</rp><rt>けん</rt><rp>)</rp></ruby>は<ruby>難<rp>(</rp><rt>むずか</rt><rp>)</rp></ruby>しかった、でも<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby><ruby>間<rp>(</rp><rt>かん</rt><rp>)</rp></ruby>さえあれば_______。
-A)できたと<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>う
+A)できたと<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>う 
 B)<ruby>無<rp>(</rp><rt>む</rt><rp>)</rp></ruby><ruby>理<rp>(</rp><rt>り</rt><rp>)</rp></ruby>だった
 C)<ruby>失<rp>(</rp><rt>しっ</rt><rp>)</rp></ruby><ruby>敗<rp>(</rp><rt>ぱい</rt><rp>)</rp></ruby>してしまった
 D)<ruby>半<rp>(</rp><rt>はん</rt><rp>)</rp></ruby><ruby>分<rp>(</rp><rt>ぶん</rt><rp>)</rp></ruby>もできなかった
@@ -436,7 +436,7 @@ D)<ruby>膝<rp>(</rp><rt>ひざ</rt><rp>)</rp></ruby>
 34. <ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>はギターも<ruby>弾<rp>(</rp><rt>はじ</rt><rp>)</rp></ruby>けなければ_______。
 A)あなたは<ruby>歌<rp>(</rp><rt>うた</rt><rp>)</rp></ruby>ってください
 B)あなたが<ruby>弾<rp>(</rp><rt>ひ</rt><rp>)</rp></ruby>いてください
-C)歌も<ruby>歌<rp>(</rp><rt>うた</rt><rp>)</rp></ruby>えません
+C)<ruby>歌<rp>(</rp><rt>うた</rt><rp>)</rp></ruby>も<ruby>歌<rp>(</rp><rt>うた</rt><rp>)</rp></ruby>えません
 D)あなたも<ruby>弾<rp>(</rp><rt>ひ</rt><rp>)</rp></ruby>きません
     ><details>
     ><summary>
@@ -447,10 +447,10 @@ D)あなたも<ruby>弾<rp>(</rp><rt>ひ</rt><rp>)</rp></ruby>きません
     ></details>
 
 35. <ruby>彼<rp>(</rp><rt>かの</rt><rp>)</rp></ruby><ruby>女<rp>(</rp><rt>じょ</rt><rp>)</rp></ruby>はさっきまで<ruby>泣<rp>(</rp><rt>な</rt><rp>)</rp></ruby>いていた_______、もう<ruby>笑<rp>(</rp><rt>わら</rt><rp>)</rp></ruby>っている。
-A)と<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>うなら
+A)と<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>う なら
 B)かと<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>って
 C)かと<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>ったら
-D)と<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>うと
+D)と<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>う と
     ><details>
     ><summary>
     >详解</summary>
@@ -461,7 +461,7 @@ D)と<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>うと
 
 36. たとえお<ruby>金<rp>(</rp><rt>かね</rt><rp>)</rp></ruby>をたくさん<ruby>持<rp>(</rp><rt>も</rt><rp>)</rp></ruby>っても_______。
 A)<ruby>何<rp>(</rp><rt>なん</rt><rp>)</rp></ruby>でも<ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>える
-B)買いたいものがある
+B)<ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>いたいものがある
 C)<ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>えないものがある
 D)<ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>うことができる
     ><details>
@@ -537,7 +537,7 @@ D)として
     **解析**：
     ></details>
 
-42. <ruby>雨<rp>(</rp><rt>あめ</rt><rp>)</rp></ruby>が降り<ruby>出<rp>(</rp><rt>だ</rt><rp>)</rp></ruby>したのもかまわず_______。
+42. <ruby>雨<rp>(</rp><rt>あめ</rt><rp>)</rp></ruby>が<ruby>降<rp>(</rp><rt>お</rt><rp>)</rp></ruby>り<ruby>出<rp>(</rp><rt>で</rt><rp>)</rp></ruby>したのもかまわず_______。
 A)サッカー<ruby>試<rp>(</rp><rt>し</rt><rp>)</rp></ruby><ruby>合<rp>(</rp><rt>あい</rt><rp>)</rp></ruby>は<ruby>中<rp>(</rp><rt>ちゅう</rt><rp>)</rp></ruby><ruby>止<rp>(</rp><rt>し</rt><rp>)</rp></ruby>になった
 B)サッカー<ruby>試<rp>(</rp><rt>し</rt><rp>)</rp></ruby><ruby>合<rp>(</rp><rt>あい</rt><rp>)</rp></ruby>に<ruby>負<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>けてがっかりした
 C)サッカー<ruby>試<rp>(</rp><rt>し</rt><rp>)</rp></ruby><ruby>合<rp>(</rp><rt>あい</rt><rp>)</rp></ruby>は<ruby>続<rp>(</rp><rt>つづ</rt><rp>)</rp></ruby>けられた
@@ -550,7 +550,7 @@ D)サッカー<ruby>試<rp>(</rp><rt>し</rt><rp>)</rp></ruby><ruby>合<rp>(</rp
     **解析**：
     ></details>
 
-43. <ruby>親<rp>(</rp><rt>おや</rt><rp>)</rp></ruby>にさんざん<ruby>迷<rp>(</rp><rt>めい</rt><rp>)</rp></ruby><ruby>惑<rp>(</rp><rt>わく</rt><rp>)</rp></ruby>をかけ_______、飛び降り<ruby>自<rp>(</rp><rt>じ</rt><rp>)</rp></ruby><ruby>殺<rp>(</rp><rt>さつ</rt><rp>)</rp></ruby>してしまった<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>の<ruby>人<rp>(</rp><rt>じん</rt><rp>)</rp></ruby><ruby>生<rp>(</rp><rt>せい</rt><rp>)</rp></ruby>は<ruby>一<rp>(</rp><rt>いっ</rt><rp>)</rp></ruby><ruby>体<rp>(</rp><rt>たい</rt><rp>)</rp></ruby><ruby>何<rp>(</rp><rt>なん</rt><rp>)</rp></ruby>だったんだろう。
+43. <ruby>親<rp>(</rp><rt>おや</rt><rp>)</rp></ruby>にさんざん<ruby>迷<rp>(</rp><rt>めい</rt><rp>)</rp></ruby><ruby>惑<rp>(</rp><rt>わく</rt><rp>)</rp></ruby>をかけ_______、<ruby>飛<rp>(</rp><rt>と</rt><rp>)</rp></ruby>び<ruby>降<rp>(</rp><rt>お</rt><rp>)</rp></ruby>り<ruby>自<rp>(</rp><rt>じ</rt><rp>)</rp></ruby><ruby>殺<rp>(</rp><rt>さつ</rt><rp>)</rp></ruby>して　しまった<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>の<ruby>人<rp>(</rp><rt>じん</rt><rp>)</rp></ruby><ruby>生<rp>(</rp><rt>せい</rt><rp>)</rp></ruby>は<ruby>一<rp>(</rp><rt>いっ</rt><rp>)</rp></ruby><ruby>体<rp>(</rp><rt>たい</rt><rp>)</rp></ruby><ruby>何<rp>(</rp><rt>なん</rt><rp>)</rp></ruby>だったん　だろう。
 A)たので
 B)たからは
 C)たあげく
@@ -592,8 +592,8 @@ D)に関して
 46. <ruby>学<rp>(</rp><rt>がく</rt><rp>)</rp></ruby><ruby>歴<rp>(</rp><rt>れき</rt><rp>)</rp></ruby>があるからといって_______。
 A)<ruby>必<rp>(</rp><rt>かなら</rt><rp>)</rp></ruby>ず適<ruby>任<rp>(</rp><rt>まか</rt><rp>)</rp></ruby>するだろう
 B)<ruby>必<rp>(</rp><rt>かなら</rt><rp>)</rp></ruby>ずしも適<ruby>任<rp>(</rp><rt>まか</rt><rp>)</rp></ruby>するとは<ruby>限<rp>(</rp><rt>かぎ</rt><rp>)</rp></ruby>らない
-C)<ruby>必<rp>(</rp><rt>かなら</rt><rp>)</rp></ruby>ず適任しないだろう
-D)<ruby>必<rp>(</rp><rt>かなら</rt><rp>)</rp></ruby>ずしも適任しないとは<ruby>限<rp>(</rp><rt>かぎ</rt><rp>)</rp></ruby>らない
+C)<ruby>必<rp>(</rp><rt>かなら</rt><rp>)</rp></ruby>ず適<ruby>任<rp>(</rp><rt>まか</rt><rp>)</rp></ruby>しないだろう
+D)<ruby>必<rp>(</rp><rt>かなら</rt><rp>)</rp></ruby>ずしも適<ruby>任<rp>(</rp><rt>まか</rt><rp>)</rp></ruby>しないとは<ruby>限<rp>(</rp><rt>かぎ</rt><rp>)</rp></ruby>らない
     ><details>
     ><summary>
     >详解</summary>
@@ -628,7 +628,7 @@ D)<ruby>何<rp>(</rp><rt>なん</rt><rp>)</rp></ruby><ruby>日<rp>(</rp><rt>に�
     **解析**：
     ></details>
 
-49. こんな<ruby>遅<rp>(</rp><rt>おそ</rt><rp>)</rp></ruby>い<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby><ruby>間<rp>(</rp><rt>かん</rt><rp>)</rp></ruby>になっても<ruby>帰<rp>(</rp><rt>かえ</rt><rp>)</rp></ruby>らないと、<ruby>心<rp>(</rp><rt>しん</rt><rp>)</rp></ruby><ruby>配<rp>(</rp><rt>ぱい</rt><rp>)</rp></ruby>症の母の_______、きっと門を<ruby>出<rp>(</rp><rt>で</rt><rp>)</rp></ruby>たり<ruby>入<rp>(</rp><rt>はい</rt><rp>)</rp></ruby>ったりしているだろう。
+49. こんな<ruby>遅<rp>(</rp><rt>おそ</rt><rp>)</rp></ruby>い<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby><ruby>間<rp>(</rp><rt>かん</rt><rp>)</rp></ruby>になっても<ruby>帰<rp>(</rp><rt>かえ</rt><rp>)</rp></ruby>らないと、<ruby>心<rp>(</rp><rt>しん</rt><rp>)</rp></ruby><ruby>配<rp>(</rp><rt>ぱい</rt><rp>)</rp></ruby>症の母の_______、きっと門を<ruby>出<rp>(</rp><rt>で</rt><rp>)</rp></ruby>たり<ruby>入<rp>(</rp><rt>はい</rt><rp>)</rp></ruby>ったりしている　だろう。
 A)ものだから
 B)はずだから
 C)わけだから
@@ -669,7 +669,7 @@ D)をいれて
 
 52. <ruby>社<rp>(</rp><rt>しゃ</rt><rp>)</rp></ruby><ruby>長<rp>(</rp><rt>ちょう</rt><rp>)</rp></ruby>が<ruby>賛<rp>(</rp><rt>さん</rt><rp>)</rp></ruby><ruby>成<rp>(</rp><rt>せい</rt><rp>)</rp></ruby>しないかぎり_______。
 A)この新<ruby>製<rp>(</rp><rt>せい</rt><rp>)</rp></ruby><ruby>品<rp>(</rp><rt>ひん</rt><rp>)</rp></ruby>の<ruby>開<rp>(</rp><rt>かい</rt><rp>)</rp></ruby><ruby>発<rp>(</rp><rt>はつ</rt><rp>)</rp></ruby>を<ruby>始<rp>(</rp><rt>はじ</rt><rp>)</rp></ruby>めるしかない
-B)この新<ruby>製<rp>(</rp><rt>せい</rt><rp>)</rp></ruby><ruby>品<rp>(</rp><rt>ひん</rt><rp>)</rp></ruby>の<ruby>開<rp>(</rp><rt>かい</rt><rp>)</rp></ruby><ruby>発<rp>(</rp><rt>はつ</rt><rp>)</rp></ruby>を<ruby>始<rp>(</rp><rt>はじ</rt><rp>)</rp></ruby>めてもよいと<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>う
+B)この新<ruby>製<rp>(</rp><rt>せい</rt><rp>)</rp></ruby><ruby>品<rp>(</rp><rt>ひん</rt><rp>)</rp></ruby>の<ruby>開<rp>(</rp><rt>かい</rt><rp>)</rp></ruby><ruby>発<rp>(</rp><rt>はつ</rt><rp>)</rp></ruby>を<ruby>始<rp>(</rp><rt>はじ</rt><rp>)</rp></ruby>めてもよいと<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>う 
 C)この新<ruby>製<rp>(</rp><rt>せい</rt><rp>)</rp></ruby><ruby>品<rp>(</rp><rt>ひん</rt><rp>)</rp></ruby>の<ruby>開<rp>(</rp><rt>かい</rt><rp>)</rp></ruby><ruby>発<rp>(</rp><rt>はつ</rt><rp>)</rp></ruby>は<ruby>始<rp>(</rp><rt>はじ</rt><rp>)</rp></ruby>められない
 D)この新<ruby>製<rp>(</rp><rt>せい</rt><rp>)</rp></ruby><ruby>品<rp>(</rp><rt>ひん</rt><rp>)</rp></ruby>の<ruby>開<rp>(</rp><rt>かい</rt><rp>)</rp></ruby><ruby>発<rp>(</rp><rt>はつ</rt><rp>)</rp></ruby>を<ruby>始<rp>(</rp><rt>はじ</rt><rp>)</rp></ruby>めるだろう
     ><details>
@@ -680,7 +680,7 @@ D)この新<ruby>製<rp>(</rp><rt>せい</rt><rp>)</rp></ruby><ruby>品<rp>(</rp
     **解析**：
     ></details>
 
-53. <ruby>手<rp>(</rp><rt>て</rt><rp>)</rp></ruby><ruby>紙<rp>(</rp><rt>がみ</rt><rp>)</rp></ruby>_______<ruby>電<rp>(</rp><rt>でん</rt><rp>)</rp></ruby><ruby>話<rp>(</rp><rt>わ</rt><rp>)</rp></ruby>_______、<ruby>親<rp>(</rp><rt>おや</rt><rp>)</rp></ruby>に居<ruby>場<rp>(</rp><rt>ば</rt><rp>)</rp></ruby><ruby>所<rp>(</rp><rt>しょ</rt><rp>)</rp></ruby>ぐらい<ruby>知<rp>(</rp><rt>し</rt><rp>)</rp></ruby>らせるべきだ。
+53. <ruby>手<rp>(</rp><rt>て</rt><rp>)</rp></ruby><ruby>紙<rp>(</rp><rt>がみ</rt><rp>)</rp></ruby>_______<ruby>電<rp>(</rp><rt>でん</rt><rp>)</rp></ruby><ruby>話<rp>(</rp><rt>わ</rt><rp>)</rp></ruby>_______、<ruby>親<rp>(</rp><rt>おや</rt><rp>)</rp></ruby>に<ruby>居<rp>(</rp><rt>い</rt><rp>)</rp></ruby><ruby>場<rp>(</rp><rt>ば</rt><rp>)</rp></ruby><ruby>所<rp>(</rp><rt>しょ</rt><rp>)</rp></ruby>ぐらい<ruby>知<rp>(</rp><rt>し</rt><rp>)</rp></ruby>らせるべきだ。
 A)にしろ、にしろ
 B)やら、やら
 C)とか、とか
@@ -693,7 +693,7 @@ D)につけ、につけ
     **解析**：
     ></details>
 
-54. 黄<ruby>山<rp>(</rp><rt>やま</rt><rp>)</rp></ruby>の<ruby>上<rp>(</rp><rt>うえ</rt><rp>)</rp></ruby>から<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>た景<ruby>色<rp>(</rp><rt>いろ</rt><rp>)</rp></ruby>の<ruby>美<rp>(</rp><rt>うつく</rt><rp>)</rp></ruby>しさといったら、_______。
+54. <ruby>黄<rp>(</rp><rt>こう</rt><rp>)</rp></ruby><ruby>山<rp>(</rp><rt>ざん</rt><rp>)</rp></ruby>の<ruby>上<rp>(</rp><rt>うえ</rt><rp>)</rp></ruby>から<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>た景<ruby>色<rp>(</rp><rt>いろ</rt><rp>)</rp></ruby>の<ruby>美<rp>(</rp><rt>うつく</rt><rp>)</rp></ruby>しさといったら、_______。
 A)<ruby>去<rp>(</rp><rt>きょ</rt><rp>)</rp></ruby><ruby>年<rp>(</rp><rt>ねん</rt><rp>)</rp></ruby><ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きました
 B)<ruby>言<rp>(</rp><rt>こと</rt><rp>)</rp></ruby><ruby>葉<rp>(</rp><rt>ば</rt><rp>)</rp></ruby>で<ruby>表<rp>(</rp><rt>あらわ</rt><rp>)</rp></ruby>せません
 C)<ruby>写<rp>(</rp><rt>しゃ</rt><rp>)</rp></ruby><ruby>真<rp>(</rp><rt>しん</rt><rp>)</rp></ruby>を<ruby>撮<rp>(</rp><rt>と</rt><rp>)</rp></ruby>りました
@@ -719,7 +719,7 @@ D)<ruby>期<rp>(</rp><rt>き</rt><rp>)</rp></ruby><ruby>間<rp>(</rp><rt>かん<
     **解析**：
     ></details>
 
-56. 李さんの<ruby>性<rp>(</rp><rt>せい</rt><rp>)</rp></ruby><ruby>格<rp>(</rp><rt>かく</rt><rp>)</rp></ruby>はおとなしいというより、_______。
+56. <ruby>李<rp>(</rp><rt>り</rt><rp>)</rp></ruby>さんの<ruby>性<rp>(</rp><rt>せい</rt><rp>)</rp></ruby><ruby>格<rp>(</rp><rt>かく</rt><rp>)</rp></ruby>はおとなしい　というより、_______。
 A)<ruby>消<rp>(</rp><rt>しょう</rt><rp>)</rp></ruby><ruby>極<rp>(</rp><rt>きょく</rt><rp>)</rp></ruby><ruby>的<rp>(</rp><rt>てき</rt><rp>)</rp></ruby>だ
 B)<ruby>積<rp>(</rp><rt>せっ</rt><rp>)</rp></ruby><ruby>極<rp>(</rp><rt>きょく</rt><rp>)</rp></ruby><ruby>的<rp>(</rp><rt>まと</rt><rp>)</rp></ruby>だ
 C)<ruby>明<rp>(</rp><rt>あか</rt><rp>)</rp></ruby>るい
@@ -745,7 +745,7 @@ D)のくせに
     **解析**：
     ></details>
 
-58. <ruby>弟<rp>(</rp><rt>おとうと</rt><rp>)</rp></ruby>はベッドに<ruby>入<rp>(</rp><rt>はい</rt><rp>)</rp></ruby>ったかと<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>うと、_______。
+58. <ruby>弟<rp>(</rp><rt>おとうと</rt><rp>)</rp></ruby>はベッドに<ruby>入<rp>(</rp><rt>はい</rt><rp>)</rp></ruby>ったか　と<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>う と、_______。
 A)とても<ruby>眠<rp>(</rp><rt>ねむ</rt><rp>)</rp></ruby>そうでした
 B)すぐ<ruby>寝<rp>(</rp><rt>ね</rt><rp>)</rp></ruby>てしまいました
 C)まだ<ruby>起<rp>(</rp><rt>お</rt><rp>)</rp></ruby>きていました
@@ -772,7 +772,7 @@ D)あげくに
     ></details>
 
 60. <ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>には10<ruby>年<rp>(</rp><rt>ねん</rt><rp>)</rp></ruby><ruby>前<rp>(</rp><rt>まえ</rt><rp>)</rp></ruby>に<ruby>別<rp>(</rp><rt>わか</rt><rp>)</rp></ruby>れたきり、_______。
-A)とても<ruby>会<rp>(</rp><rt>かい</rt><rp>)</rp></ruby>いたい
+A)とても<ruby>会<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>いたい
 B)<ruby>手<rp>(</rp><rt>て</rt><rp>)</rp></ruby><ruby>紙<rp>(</rp><rt>がみ</rt><rp>)</rp></ruby>を2通もらいました
 C)<ruby>去<rp>(</rp><rt>きょ</rt><rp>)</rp></ruby><ruby>年<rp>(</rp><rt>ねん</rt><rp>)</rp></ruby><ruby>会<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>いました
 D)その<ruby>後<rp>(</rp><rt>のち</rt><rp>)</rp></ruby><ruby>手<rp>(</rp><rt>て</rt><rp>)</rp></ruby><ruby>紙<rp>(</rp><rt>がみ</rt><rp>)</rp></ruby>をもらっていません
@@ -784,7 +784,7 @@ D)その<ruby>後<rp>(</rp><rt>のち</rt><rp>)</rp></ruby><ruby>手<rp>(</rp><r
     **解析**：
     ></details>
 
-61. <ruby>彼<rp>(</rp><rt>かの</rt><rp>)</rp></ruby><ruby>女<rp>(</rp><rt>じょ</rt><rp>)</rp></ruby>は<ruby>子<rp>(</rp><rt>こど</rt><rp>)</rp></ruby><ruby>供<rp>(</rp><rt>も</rt><rp>)</rp></ruby>の<ruby>話<rp>(</rp><rt>はなし</rt><rp>)</rp></ruby>を<ruby>嘘<rp>(</rp><rt>うそ</rt><rp>)</rp></ruby>と知り_______、お<ruby>金<rp>(</rp><rt>かね</rt><rp>)</rp></ruby>を<ruby>手<rp>(</rp><rt>て</rt><rp>)</rp></ruby><ruby>渡<rp>(</rp><rt>わた</rt><rp>)</rp></ruby>す<ruby>母<rp>(</rp><rt>はは</rt><rp>)</rp></ruby><ruby>親<rp>(</rp><rt>おや</rt><rp>)</rp></ruby>であった。
+61. <ruby>彼<rp>(</rp><rt>かの</rt><rp>)</rp></ruby><ruby>女<rp>(</rp><rt>じょ</rt><rp>)</rp></ruby>は<ruby>子<rp>(</rp><rt>こど</rt><rp>)</rp></ruby><ruby>供<rp>(</rp><rt>も</rt><rp>)</rp></ruby>の<ruby>話<rp>(</rp><rt>はなし</rt><rp>)</rp></ruby>を<ruby>嘘<rp>(</rp><rt>うそ</rt><rp>)</rp></ruby>と<ruby>知<rp>(</rp><rt>し</rt><rp>)</rp></ruby>り_______、お<ruby>金<rp>(</rp><rt>かね</rt><rp>)</rp></ruby>を<ruby>手<rp>(</rp><rt>て</rt><rp>)</rp></ruby><ruby>渡<rp>(</rp><rt>わた</rt><rp>)</rp></ruby>す<ruby>母<rp>(</rp><rt>はは</rt><rp>)</rp></ruby><ruby>親<rp>(</rp><rt>おや</rt><rp>)</rp></ruby>であった。
 A)つつ
 B)まま
 C)たり
@@ -836,7 +836,7 @@ D)なんでも<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べる
     **解析**：
     ></details>
 
-65. <ruby>誠<rp>(</rp><rt>まこと</rt><rp>)</rp></ruby>に<ruby>申<rp>(</rp><rt>もう</rt><rp>)</rp></ruby>し<ruby>訳<rp>(</rp><rt>わけ</rt><rp>)</rp></ruby>ございません、これは<ruby>当<rp>(</rp><rt>とう</rt><rp>)</rp></ruby><ruby>社<rp>(</rp><rt>しゃ</rt><rp>)</rp></ruby>の<ruby>責<rp>(</rp><rt>せき</rt><rp>)</rp></ruby><ruby>任<rp>(</rp><rt>にん</rt><rp>)</rp></ruby>ですから、でき_______のことはさせていただきます。
+65. <ruby>誠<rp>(</rp><rt>まこと</rt><rp>)</rp></ruby>に<ruby>申<rp>(</rp><rt>もう</rt><rp>)</rp></ruby>し<ruby>訳<rp>(</rp><rt>わけ</rt><rp>)</rp></ruby>ございません、これは<ruby>当<rp>(</rp><rt>とう</rt><rp>)</rp></ruby><ruby>社<rp>(</rp><rt>しゃ</rt><rp>)</rp></ruby>の<ruby>責<rp>(</rp><rt>せき</rt><rp>)</rp></ruby><ruby>任<rp>(</rp><rt>にん</rt><rp>)</rp></ruby>です　から、でき_______のことはさせていただきます。
 A)ないかぎり
 B)えないかぎり
 C)うるかぎり
@@ -862,7 +862,7 @@ D)<ruby>図<rp>(</rp><rt>と</rt><rp>)</rp></ruby><ruby>書<rp>(</rp><rt>しょ<
     **解析**：
     ></details>
 
-67. どうしてテストをするかというと、テストがないと、とかく<ruby>学<rp>(</rp><rt>がく</rt><rp>)</rp></ruby><ruby>生<rp>(</rp><rt>せい</rt><rp>)</rp></ruby>は怠け_______になるからだ。
+67. どうしてテストをするか　というと、テストがないと、とかく<ruby>学<rp>(</rp><rt>がく</rt><rp>)</rp></ruby><ruby>生<rp>(</rp><rt>せい</rt><rp>)</rp></ruby>は<ruby>怠<rp>(</rp><rt>なま</rt><rp>)</rp></ruby>け_______になるからだ。
 A)がち
 B)氨<ruby>味<rp>(</rp><rt>み</rt><rp>)</rp></ruby>
 C)げ
@@ -875,7 +875,7 @@ D)ぐせ
     **解析**：
     ></details>
 
-68. <ruby>先<rp>(</rp><rt>せん</rt><rp>)</rp></ruby><ruby>生<rp>(</rp><rt>せい</rt><rp>)</rp></ruby>だからといって、_______。
+68. <ruby>先<rp>(</rp><rt>せん</rt><rp>)</rp></ruby><ruby>生<rp>(</rp><rt>せい</rt><rp>)</rp></ruby>　だからといって、_______。
 A)いつも<ruby>正<rp>(</rp><rt>たた</rt><rp>)</rp></ruby>しいはずだ
 B)いつも<ruby>正<rp>(</rp><rt>たた</rt><rp>)</rp></ruby>しいに<ruby>違<rp>(</rp><rt>ちが</rt><rp>)</rp></ruby>いない
 C)いつも<ruby>正<rp>(</rp><rt>たた</rt><rp>)</rp></ruby>しいわけだ
@@ -888,7 +888,7 @@ D)いつも<ruby>正<rp>(</rp><rt>たた</rt><rp>)</rp></ruby>しいわけでは
     **解析**：
     ></details>
 
-69. <ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>は<ruby>今<rp>(</rp><rt>いま</rt><rp>)</rp></ruby><ruby>手<rp>(</rp><rt>て</rt><rp>)</rp></ruby>がはなせないから、_______に<ruby>電<rp>(</rp><rt>でん</rt><rp>)</rp></ruby><ruby>話<rp>(</rp><rt>わ</rt><rp>)</rp></ruby>に<ruby>出<rp>(</rp><rt>で</rt><rp>)</rp></ruby>て<ruby>下<rp>(</rp><rt>もと</rt><rp>)</rp></ruby>さい。
+69. <ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>は<ruby>今<rp>(</rp><rt>いま</rt><rp>)</rp></ruby><ruby>手<rp>(</rp><rt>て</rt><rp>)</rp></ruby>がはなせない　から、_______に<ruby>電<rp>(</rp><rt>でん</rt><rp>)</rp></ruby><ruby>話<rp>(</rp><rt>わ</rt><rp>)</rp></ruby>に<ruby>出<rp>(</rp><rt>で</rt><rp>)</rp></ruby>て<ruby>下<rp>(</rp><rt>もと</rt><rp>)</rp></ruby>さい。
 A)ついで
 B)かわり
 C)とっく
@@ -914,7 +914,7 @@ D)ちょっと<ruby>変<rp>(</rp><rt>か</rt><rp>)</rp></ruby>わった<ruby>味
     **解析**：
     ></details>
 
-71. <ruby>課<rp>(</rp><rt>か</rt><rp>)</rp></ruby><ruby>長<rp>(</rp><rt>ちょう</rt><rp>)</rp></ruby>の飲み_______のコーヒーは？
+71. <ruby>課<rp>(</rp><rt>か</rt><rp>)</rp></ruby><ruby>長<rp>(</rp><rt>ちょう</rt><rp>)</rp></ruby>の<ruby>飲<rp>(</rp><rt>の</rt><rp>)</rp></ruby>み_______のコーヒーは？
 A)きり
 B)がち
 C)かけ
@@ -992,7 +992,7 @@ D)<ruby>給<rp>(</rp><rt>きゅう</rt><rp>)</rp></ruby><ruby>料<rp>(</rp><rt>�
     **解析**：
     ></details>
 
-77. あの<ruby>子<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>は<ruby>学<rp>(</rp><rt>がっ</rt><rp>)</rp></ruby><ruby>校<rp>(</rp><rt>こう</rt><rp>)</rp></ruby>から<ruby>帰<rp>(</rp><rt>かえ</rt><rp>)</rp></ruby>ってきて、かばんを<ruby>置<rp>(</rp><rt>お</rt><rp>)</rp></ruby>いたか置かない_______、<ruby>外<rp>(</rp><rt>よそ</rt><rp>)</rp></ruby>へ<ruby>遊<rp>(</rp><rt>あそ</rt><rp>)</rp></ruby>びに<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>った。
+77. あの<ruby>子<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>は<ruby>学<rp>(</rp><rt>がっ</rt><rp>)</rp></ruby><ruby>校<rp>(</rp><rt>こう</rt><rp>)</rp></ruby>から<ruby>帰<rp>(</rp><rt>かえ</rt><rp>)</rp></ruby>ってきて、かばんを<ruby>置<rp>(</rp><rt>お</rt><rp>)</rp></ruby>いたか<ruby>置<rp>(</rp><rt>お</rt><rp>)</rp></ruby>かない_______、<ruby>外<rp>(</rp><rt>よそ</rt><rp>)</rp></ruby>へ<ruby>遊<rp>(</rp><rt>あそ</rt><rp>)</rp></ruby>びに<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>った。
 A)とたん
 B)かのうちに
 C)<ruby>間<rp>(</rp><rt>あいだ</rt><rp>)</rp></ruby>に
@@ -1057,7 +1057,7 @@ D)はもとまで
     **解析**：
     ></details>
 
-82. フィリピンは<ruby>熱<rp>(</rp><rt>ねっ</rt><rp>)</rp></ruby><ruby>帯<rp>(</rp><rt>たい</rt><rp>)</rp></ruby><ruby>地<rp>(</rp><rt>ち</rt><rp>)</rp></ruby><ruby>方<rp>(</rp><rt>ほう</rt><rp>)</rp></ruby>だから_______。
+82. フィリピンは<ruby>熱<rp>(</rp><rt>ねっ</rt><rp>)</rp></ruby><ruby>帯<rp>(</rp><rt>たい</rt><rp>)</rp></ruby><ruby>地<rp>(</rp><rt>ち</rt><rp>)</rp></ruby><ruby>方<rp>(</rp><rt>ほう</rt><rp>)</rp></ruby>　だから_______。
 A)<ruby>雪<rp>(</rp><rt>ゆき</rt><rp>)</rp></ruby>が<ruby>降<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby>らないわけがない
 B)<ruby>雪<rp>(</rp><rt>ゆき</rt><rp>)</rp></ruby>が<ruby>降<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby>るわけがない
 C)<ruby>雪<rp>(</rp><rt>ゆき</rt><rp>)</rp></ruby>が<ruby>降<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby>るわけにはいかない
@@ -1070,7 +1070,7 @@ D)<ruby>雪<rp>(</rp><rt>ゆき</rt><rp>)</rp></ruby>が<ruby>降<rp>(</rp><rt>�
     **解析**：
     ></details>
 
-83. あの<ruby>高<rp>(</rp><rt>こう</rt><rp>)</rp></ruby><ruby>級<rp>(</rp><rt>きゅう</rt><rp>)</rp></ruby>マンションはすごいなあ、マンション_______ヨーロッパのお<ruby>城<rp>(</rp><rt>しろ</rt><rp>)</rp></ruby>という<ruby>感<rp>(</rp><rt>かん</rt><rp>)</rp></ruby>じだね。
+83. あの<ruby>高<rp>(</rp><rt>こう</rt><rp>)</rp></ruby><ruby>級<rp>(</rp><rt>きゅう</rt><rp>)</rp></ruby>マンションはすごいなあ、マンション_______ヨーロッパのお<ruby>城<rp>(</rp><rt>しろ</rt><rp>)</rp></ruby>　という<ruby>感<rp>(</rp><rt>かん</rt><rp>)</rp></ruby>じだね。
 A)というより
 B)のほどが
 C)といって
@@ -1083,7 +1083,7 @@ D)のほうが
     **解析**：
     ></details>
 
-84. <ruby>出<rp>(</rp><rt>しゅっ</rt><rp>)</rp></ruby><ruby>張<rp>(</rp><rt>ちょう</rt><rp>)</rp></ruby><ruby>報<rp>(</rp><rt>ほう</rt><rp>)</rp></ruby><ruby>告<rp>(</rp><rt>こく</rt><rp>)</rp></ruby>書がなかなかうまくまとまらない、<ruby>明日<rp>(</rp><rt>あした</rt><rp>)</rp></ruby>までに<ruby>提<rp>(</rp><rt>てい</rt><rp>)</rp></ruby><ruby>出<rp>(</rp><rt>しゅつ</rt><rp>)</rp></ruby>しなければならないから、<ruby>今<rp>(</rp><rt>こん</rt><rp>)</rp></ruby><ruby>夜<rp>(</rp><rt>や</rt><rp>)</rp></ruby>は_______。
+84. <ruby>出<rp>(</rp><rt>しゅっ</rt><rp>)</rp></ruby><ruby>張<rp>(</rp><rt>ちょう</rt><rp>)</rp></ruby><ruby>報<rp>(</rp><rt>ほう</rt><rp>)</rp></ruby><ruby>告<rp>(</rp><rt>こく</rt><rp>)</rp></ruby>書がなかなかうまくまとまらない、<ruby>明日<rp>(</rp><rt>あした</rt><rp>)</rp></ruby>までに<ruby>提<rp>(</rp><rt>てい</rt><rp>)</rp></ruby><ruby>出<rp>(</rp><rt>しゅつ</rt><rp>)</rp></ruby>しなければならない　から、<ruby>今<rp>(</rp><rt>こん</rt><rp>)</rp></ruby><ruby>夜<rp>(</rp><rt>や</rt><rp>)</rp></ruby>は_______。
 A)<ruby>徹<rp>(</rp><rt>てつ</rt><rp>)</rp></ruby><ruby>夜<rp>(</rp><rt>や</rt><rp>)</rp></ruby>するばかりだ
 B)<ruby>徹<rp>(</rp><rt>てつ</rt><rp>)</rp></ruby><ruby>夜<rp>(</rp><rt>や</rt><rp>)</rp></ruby>するしかない
 C)微<ruby>夜<rp>(</rp><rt>よる</rt><rp>)</rp></ruby>するものだ
@@ -1122,7 +1122,7 @@ D)<ruby>心<rp>(</rp><rt>しん</rt><rp>)</rp></ruby><ruby>配<rp>(</rp><rt>ぱ�
     **解析**：
     ></details>
 
-87. <ruby>炒<rp>(</rp><rt>いた</rt><rp>)</rp></ruby>める_______<ruby>煮<rp>(</rp><rt>に</rt><rp>)</rp></ruby>る_______<ruby>中<rp>(</rp><rt>じゅう・なか・なが</rt><rp>)</rp></ruby><ruby>華<rp>(</rp><rt>はな</rt><rp>)</rp></ruby><ruby>料<rp>(</rp><rt>りょう</rt><rp>)</rp></ruby><ruby>理<rp>(</rp><rt>り</rt><rp>)</rp></ruby>に胡<ruby>麻<rp>(</rp><rt>あさ</rt><rp>)</rp></ruby><ruby>油<rp>(</rp><rt>あぶら</rt><rp>)</rp></ruby>は<ruby>欠<rp>(</rp><rt>か</rt><rp>)</rp></ruby>かせない。
+87. <ruby>炒<rp>(</rp><rt>いた</rt><rp>)</rp></ruby>める_______<ruby>煮<rp>(</rp><rt>に</rt><rp>)</rp></ruby>る_______<ruby>中<rp>(</rp><rt>ちゅう</rt><rp>)</rp></ruby><ruby>華<rp>(</rp><rt>か</rt><rp>)</rp></ruby><ruby>料<rp>(</rp><rt>りょう</rt><rp>)</rp></ruby><ruby>理<rp>(</rp><rt>り</rt><rp>)</rp></ruby>に胡<ruby>麻<rp>(</rp><rt>あさ</rt><rp>)</rp></ruby><ruby>油<rp>(</rp><rt>あぶら</rt><rp>)</rp></ruby>は<ruby>欠<rp>(</rp><rt>か</rt><rp>)</rp></ruby>かせない。
 A)たり、たり
 B)につけ、につけ
 C)やら、やら
@@ -1148,7 +1148,7 @@ D)<ruby>企<rp>(</rp><rt>き</rt><rp>)</rp></ruby><ruby>業<rp>(</rp><rt>ぎょ�
     **解析**：
     ></details>
 
-89. <ruby>来<rp>(</rp><rt>らい</rt><rp>)</rp></ruby><ruby>年<rp>(</rp><rt>ねん</rt><rp>)</rp></ruby>9<ruby>月<rp>(</rp><rt>つき</rt><rp>)</rp></ruby>から、<ruby>大<rp>(</rp><rt>だい</rt><rp>)</rp></ruby><ruby>学<rp>(</rp><rt>がく</rt><rp>)</rp></ruby>の<ruby>授<rp>(</rp><rt>じゅ</rt><rp>)</rp></ruby><ruby>業<rp>(</rp><rt>ぎょう</rt><rp>)</rp></ruby><ruby>料<rp>(</rp><rt>りょう</rt><rp>)</rp></ruby>が<ruby>値<rp>(</rp><rt>ね</rt><rp>)</rp></ruby><ruby>上<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>げされる_______。
+89. <ruby>来<rp>(</rp><rt>らい</rt><rp>)</rp></ruby><ruby>年<rp>(</rp><rt>ねん</rt><rp>)</rp></ruby>9<ruby>月<rp>(</rp><rt>つき</rt><rp>)</rp></ruby>　から、<ruby>大<rp>(</rp><rt>だい</rt><rp>)</rp></ruby><ruby>学<rp>(</rp><rt>がく</rt><rp>)</rp></ruby>の<ruby>授<rp>(</rp><rt>じゅ</rt><rp>)</rp></ruby><ruby>業<rp>(</rp><rt>ぎょう</rt><rp>)</rp></ruby><ruby>料<rp>(</rp><rt>りょう</rt><rp>)</rp></ruby>が<ruby>値<rp>(</rp><rt>ね</rt><rp>)</rp></ruby><ruby>上<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>げされる_______。
 A)といえるだろう
 B)ということだ
 C)ということになった
@@ -1161,7 +1161,7 @@ D)といえなくもない
     **解析**：
     ></details>
 
-90. <ruby>中<rp>(</rp><rt>ちゅう</rt><rp>)</rp></ruby><ruby>国<rp>(</rp><rt>ごく</rt><rp>)</rp></ruby>では「<ruby>春<rp>(</rp><rt>はる</rt><rp>)</rp></ruby><ruby>節<rp>(</rp><rt>ふし</rt><rp>)</rp></ruby>」といって、たくさん<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べる<ruby>祭<rp>(</rp><rt>まつ</rt><rp>)</rp></ruby>りだと<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>われている、でも、<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>は<ruby>最<rp>(</rp><rt>さい</rt><rp>)</rp></ruby><ruby>近<rp>(</rp><rt>きん</rt><rp>)</rp></ruby>_______だから、<ruby>気<rp>(</rp><rt>き</rt><rp>)</rp></ruby>を<ruby>付<rp>(</rp><rt>つ</rt><rp>)</rp></ruby>けなければならない。
+90. <ruby>中<rp>(</rp><rt>ちゅう</rt><rp>)</rp></ruby><ruby>国<rp>(</rp><rt>ごく</rt><rp>)</rp></ruby>では「<ruby>春<rp>(</rp><rt>はる</rt><rp>)</rp></ruby><ruby>節<rp>(</rp><rt>ふし</rt><rp>)</rp></ruby>」といって、たくさん<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べる<ruby>祭<rp>(</rp><rt>まつ</rt><rp>)</rp></ruby>りだ　と<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>われている、でも、<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>は<ruby>最<rp>(</rp><rt>さい</rt><rp>)</rp></ruby><ruby>近<rp>(</rp><rt>きん</rt><rp>)</rp></ruby>_______　だから、<ruby>気<rp>(</rp><rt>き</rt><rp>)</rp></ruby>を<ruby>付<rp>(</rp><rt>つ</rt><rp>)</rp></ruby>けなければならない。
 A)<ruby>太<rp>(</rp><rt>ふと</rt><rp>)</rp></ruby>りっぼい
 B)<ruby>太<rp>(</rp><rt>ふと</rt><rp>)</rp></ruby>り<ruby>気<rp>(</rp><rt>き</rt><rp>)</rp></ruby><ruby>味<rp>(</rp><rt>み</rt><rp>)</rp></ruby>
 C)<ruby>太<rp>(</rp><rt>ふと</rt><rp>)</rp></ruby>りかけ
@@ -1226,7 +1226,7 @@ D)わけではない
     **解析**：
     ></details>
 
-95. このような<ruby>大<rp>(</rp><rt>たい</rt><rp>)</rp></ruby><ruby>金<rp>(</rp><rt>きん</rt><rp>)</rp></ruby>は、<ruby>親<rp>(</rp><rt>おや</rt><rp>)</rp></ruby>が<ruby>貸<rp>(</rp><rt>か</rt><rp>)</rp></ruby>してくれる_______。
+95. このような<ruby>大<rp>(</rp><rt>たい</rt><rp>)</rp></ruby><ruby>金<rp>(</rp><rt>きん</rt><rp>)</rp></ruby>は、<ruby>親<rp>(</rp><rt>おや</rt><rp>)</rp></ruby>が<ruby>貸<rp>(</rp><rt>か</rt><rp>)</rp></ruby>して　くれる_______。
 A)わけではない
 B)わけはない
 C)たとえはない
@@ -1265,7 +1265,7 @@ D)ほうだ
     **解析**：
     ></details>
 
-98. <ruby>昨<rp>(</rp><rt>さく</rt><rp>)</rp></ruby><ruby>夜<rp>(</rp><rt>や</rt><rp>)</rp></ruby>、<ruby>高<rp>(</rp><rt>こう</rt><rp>)</rp></ruby><ruby>校<rp>(</rp><rt>こう</rt><rp>)</rp></ruby><ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby><ruby>代<rp>(</rp><rt>だい</rt><rp>)</rp></ruby>の<ruby>友<rp>(</rp><rt>とも</rt><rp>)</rp></ruby><ruby>達<rp>(</rp><rt>だち</rt><rp>)</rp></ruby>が来て、<ruby>遅<rp>(</rp><rt>おそ</rt><rp>)</rp></ruby>くまで<ruby>話<rp>(</rp><rt>はな</rt><rp>)</rp></ruby>していたものだから、_______。
+98. <ruby>昨<rp>(</rp><rt>さく</rt><rp>)</rp></ruby><ruby>夜<rp>(</rp><rt>や</rt><rp>)</rp></ruby>、<ruby>高<rp>(</rp><rt>こう</rt><rp>)</rp></ruby><ruby>校<rp>(</rp><rt>こう</rt><rp>)</rp></ruby><ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby><ruby>代<rp>(</rp><rt>だい</rt><rp>)</rp></ruby>の<ruby>友<rp>(</rp><rt>とも</rt><rp>)</rp></ruby><ruby>達<rp>(</rp><rt>だち</rt><rp>)</rp></ruby>が来て、<ruby>遅<rp>(</rp><rt>おそ</rt><rp>)</rp></ruby>くまで<ruby>話<rp>(</rp><rt>はな</rt><rp>)</rp></ruby>していたもの　だから、_______。
 A)<ruby>楽<rp>(</rp><rt>たの</rt><rp>)</rp></ruby>しかったです
 B)おもしろかったです
 C)<ruby>朝<rp>(</rp><rt>あさ</rt><rp>)</rp></ruby><ruby>寝<rp>(</rp><rt>ね</rt><rp>)</rp></ruby><ruby>坊<rp>(</rp><rt>ぼう</rt><rp>)</rp></ruby>してしまいました
@@ -1291,7 +1291,7 @@ D)ずにはいられない
     **解析**：
     ></details>
 
-100. さあ、<ruby>元<rp>(</rp><rt>げん</rt><rp>)</rp></ruby><ruby>気<rp>(</rp><rt>き</rt><rp>)</rp></ruby>を<ruby>出<rp>(</rp><rt>だ</rt><rp>)</rp></ruby>して、<ruby>今<rp>(</rp><rt>こん</rt><rp>)</rp></ruby><ruby>度<rp>(</rp><rt>ど</rt><rp>)</rp></ruby>こそ、<ruby>勝<rp>(</rp><rt>まさ</rt><rp>)</rp></ruby>ってみせ_______。
+100. さあ、<ruby>元<rp>(</rp><rt>げん</rt><rp>)</rp></ruby><ruby>気<rp>(</rp><rt>き</rt><rp>)</rp></ruby>を<ruby>出<rp>(</rp><rt>で</rt><rp>)</rp></ruby>して、<ruby>今<rp>(</rp><rt>こん</rt><rp>)</rp></ruby><ruby>度<rp>(</rp><rt>ど</rt><rp>)</rp></ruby>こそ、<ruby>勝<rp>(</rp><rt>まさ</rt><rp>)</rp></ruby>ってみせ_______。
 A)ましょうか
 B)るべきでしょう
 C)ようではないか

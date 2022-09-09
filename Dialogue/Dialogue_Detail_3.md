@@ -24,7 +24,7 @@
 <ruby>祐<rp>(</rp><rt>ゆう</rt><rp>)</rp></ruby><ruby>子<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>：ええ、<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>も　そう　<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>います。でも、<ruby>仕<rp>(</rp><rt>し</rt><rp>)</rp></ruby><ruby>事<rp>(</rp><rt>ごと</rt><rp>)</rp></ruby>を　<ruby>始<rp>(</rp><rt>はじ</rt><rp>)</rp></ruby>めて　からは、<ruby>特<rp>(</rp><rt>とく</rt><rp>)</rp></ruby>に　<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby><ruby>間<rp>(</rp><rt>かん</rt><rp>)</rp></ruby>の<ruby>自<rp>(</rp><rt>じ</rt><rp>)</rp></ruby><ruby>由<rp>(</rp><rt>ゆう</rt><rp>)</rp></ruby>が　<ruby>利<rp>(</rp><rt>き</rt><rp>)</rp></ruby>かない　から、なかなか　<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>かれなくって。
 
 **一郎：新年假期、黄金周、孟兰盆节的时候虽然可以去，但旅游旺季买票困难，加上涨价，所以也没心情去了。**
-<ruby>一<rp>(</rp><rt>いち</rt><rp>)</rp></ruby><ruby>郎<rp>(</rp><rt>ろう</rt><rp>)</rp></ruby>：<ruby>正<rp>(</rp><rt>しょう</rt><rp>)</rp></ruby><ruby>月<rp>(</rp><rt>がつ</rt><rp>)</rp></ruby><ruby>休<rp>(</rp><rt>やす</rt><rp>)</rp></ruby>み、ゴールデンウィーク、お<ruby>盆<rp>(</rp><rt>ぼん</rt><rp>)</rp></ruby><ruby>休<rp>(</rp><rt>やす</rt><rp>)</rp></ruby>みに　行っ　てもいいんです　けど、トップ　シーズンは　チケットが　<ruby>入<rp>(</rp><rt>にゅう</rt><rp>)</rp></ruby><ruby>手<rp>(</rp><rt>しゅ</rt><rp>)</rp></ruby>し　にくい　<ruby>上<rp>(</rp><rt>うえ</rt><rp>)</rp></ruby>、<ruby>値<rp>(</rp><rt>ね</rt><rp>)</rp></ruby><ruby>段<rp>(</rp><rt>だん</rt><rp>)</rp></ruby>も　<ruby>高<rp>(</rp><rt>たか</rt><rp>)</rp></ruby>いから、なかなか　<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>く<ruby>気<rp>(</rp><rt>き</rt><rp>)</rp></ruby>に　なれない　ですね。
+<ruby>一<rp>(</rp><rt>いち</rt><rp>)</rp></ruby><ruby>郎<rp>(</rp><rt>ろう</rt><rp>)</rp></ruby>：<ruby>正<rp>(</rp><rt>しょう</rt><rp>)</rp></ruby><ruby>月<rp>(</rp><rt>がつ</rt><rp>)</rp></ruby><ruby>休<rp>(</rp><rt>やす</rt><rp>)</rp></ruby>み、ゴールデンウィーク、お<ruby>盆<rp>(</rp><rt>ぼん</rt><rp>)</rp></ruby><ruby>休<rp>(</rp><rt>やす</rt><rp>)</rp></ruby>みに　<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>っ　てもいいんです　けど、トップ　シーズンは　チケットが　<ruby>入<rp>(</rp><rt>にゅう</rt><rp>)</rp></ruby><ruby>手<rp>(</rp><rt>しゅ</rt><rp>)</rp></ruby>し　にくい　<ruby>上<rp>(</rp><rt>うえ</rt><rp>)</rp></ruby>、<ruby>値<rp>(</rp><rt>ね</rt><rp>)</rp></ruby><ruby>段<rp>(</rp><rt>だん</rt><rp>)</rp></ruby>も　<ruby>高<rp>(</rp><rt>たか</rt><rp>)</rp></ruby>いから、なかなか　<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>く<ruby>気<rp>(</rp><rt>き</rt><rp>)</rp></ruby>に　なれない　ですね。
 
 **裕子：那么，一郎，你是如何度过这些假期的呢？不会每天都呆在家里吗？**
 <ruby>祐<rp>(</rp><rt>ゆう</rt><rp>)</rp></ruby><ruby>子<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>：じゃあ、<ruby>一<rp>(</rp><rt>いち</rt><rp>)</rp></ruby><ruby>郎<rp>(</rp><rt>ろう</rt><rp>)</rp></ruby>さんは　そうした　<ruby>休<rp>(</rp><rt>やす</rt><rp>)</rp></ruby>みの<ruby>時<rp>(</rp><rt>とき</rt><rp>)</rp></ruby>は　<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>をして　<ruby>過<rp>(</rp><rt>す</rt><rp>)</rp></ruby>ごすん　ですか？まさか　<ruby>毎<rp>(</rp><rt>まい</rt><rp>)</rp></ruby><ruby>日<rp>(</rp><rt>にち</rt><rp>)</rp></ruby>　<ruby>家<rp>(</rp><rt>いえ</rt><rp>)</rp></ruby>で　ゴロゴロって　わけ　じゃないですよね？
@@ -33,7 +33,7 @@
 <ruby>一<rp>(</rp><rt>いち</rt><rp>)</rp></ruby><ruby>郎<rp>(</rp><rt>ろう</rt><rp>)</rp></ruby>：せっかくの　<ruby>休<rp>(</rp><rt>やす</rt><rp>)</rp></ruby>みに、<ruby>一<rp>(</rp><rt>いち</rt><rp>)</rp></ruby><ruby>日<rp>(</rp><rt>にっ</rt><rp>)</rp></ruby><ruby>中<rp>(</rp><rt>ちゅう</rt><rp>)</rp></ruby>　<ruby>寝<rp>(</rp><rt>ね</rt><rp>)</rp></ruby>ているなんて　もったいないこと　しません　よ。たいていは　スポーツを　しています。
 
 **祐子：我最近迷上了做点心。对了，下次有机会来尝尝我做的点心吧。虽然不该自夸，但真的很好吃哦。**
-<ruby>祐<rp>(</rp><rt>ゆう</rt><rp>)</rp></ruby><ruby>子<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>：<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>は　<ruby>最<rp>(</rp><rt>さい</rt><rp>)</rp></ruby><ruby>近<rp>(</rp><rt>きん</rt><rp>)</rp></ruby>　お<ruby>菓<rp>(</rp><rt>か</rt><rp>)</rp></ruby><ruby>子<rp>(</rp><rt>し</rt><rp>)</rp></ruby><ruby>作<rp>(</rp><rt>つく</rt><rp>)</rp></ruby>りに　<ruby>凝<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>ってます。そうだ、<ruby>今<rp>(</rp><rt>こん</rt><rp>)</rp></ruby><ruby>度<rp>(</rp><rt>ど</rt><rp>)</rp></ruby>　<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>の<ruby>作<rp>(</rp><rt>つく</rt><rp>)</rp></ruby>った　お<ruby>菓<rp>(</rp><rt>か</rt><rp>)</rp></ruby><ruby>子<rp>(</rp><rt>し</rt><rp>)</rp></ruby>、食べに　来ませんか。<ruby>自<rp>(</rp><rt>じ</rt><rp>)</rp></ruby><ruby>分<rp>(</rp><rt>ぶん</rt><rp>)</rp></ruby>で　<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>うのも　<ruby>変<rp>(</rp><rt>へん</rt><rp>)</rp></ruby>です　けど、<ruby>結<rp>(</rp><rt>けっ</rt><rp>)</rp></ruby><ruby>構<rp>(</rp><rt>こう</rt><rp>)</rp></ruby>　おいしいん　ですよ。
+<ruby>祐<rp>(</rp><rt>ゆう</rt><rp>)</rp></ruby><ruby>子<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>：<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>は　<ruby>最<rp>(</rp><rt>さい</rt><rp>)</rp></ruby><ruby>近<rp>(</rp><rt>きん</rt><rp>)</rp></ruby>　お<ruby>菓<rp>(</rp><rt>か</rt><rp>)</rp></ruby><ruby>子<rp>(</rp><rt>し</rt><rp>)</rp></ruby><ruby>作<rp>(</rp><rt>つく</rt><rp>)</rp></ruby>りに　<ruby>凝<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>ってます。そうだ、<ruby>今<rp>(</rp><rt>こん</rt><rp>)</rp></ruby><ruby>度<rp>(</rp><rt>ど</rt><rp>)</rp></ruby>　<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>の<ruby>作<rp>(</rp><rt>つく</rt><rp>)</rp></ruby>った　お<ruby>菓<rp>(</rp><rt>か</rt><rp>)</rp></ruby><ruby>子<rp>(</rp><rt>し</rt><rp>)</rp></ruby>、<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べに　来ませんか。<ruby>自<rp>(</rp><rt>じ</rt><rp>)</rp></ruby><ruby>分<rp>(</rp><rt>ぶん</rt><rp>)</rp></ruby>で　<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>うのも　<ruby>変<rp>(</rp><rt>へん</rt><rp>)</rp></ruby>です　けど、<ruby>結<rp>(</rp><rt>けっ</rt><rp>)</rp></ruby><ruby>構<rp>(</rp><rt>こう</rt><rp>)</rp></ruby>　おいしいん　ですよ。
 
 **一郎：很期待能早点尝到裕子做的点心。**
 <ruby>一<rp>(</rp><rt>いち</rt><rp>)</rp></ruby><ruby>郎<rp>(</rp><rt>ろう</rt><rp>)</rp></ruby>：それは　<ruby>楽<rp>(</rp><rt>たの</rt><rp>)</rp></ruby>しみです。<ruby>祐<rp>(</rp><rt>ゆう</rt><rp>)</rp></ruby><ruby>子<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>さんの　<ruby>手<rp>(</rp><rt>て</rt><rp>)</rp></ruby><ruby>作<rp>(</rp><rt>づく</rt><rp>)</rp></ruby>りのお<ruby>菓<rp>(</rp><rt>か</rt><rp>)</rp></ruby><ruby>子<rp>(</rp><rt>し</rt><rp>)</rp></ruby>、<ruby>早<rp>(</rp><rt>はや</rt><rp>)</rp></ruby>く　<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べて　みたいです。
@@ -76,7 +76,7 @@
 ![](src/susi_o_taberu_4.JPG)
 
 **田中:佐藤，发奖金了，我们也偶尔去享受一下好吃的寿司怎么样?**
-<ruby>田<rp>(</rp><rt>た</rt><rp>)</rp></ruby><ruby>中<rp>(</rp><rt>なか</rt><rp>)</rp></ruby>:<ruby>佐<rp>(</rp><rt>さ</rt><rp>)</rp></ruby><ruby>藤<rp>(</rp><rt>とう</rt><rp>)</rp></ruby>さん、ボーナスも<ruby>出<rp>(</rp><rt>で</rt><rp>)</rp></ruby>た　ことです　し、たまには　おいしい　お<ruby>寿<rp>(</rp><rt>す</rt><rp>)</rp></ruby><ruby>司<rp>(</rp><rt>し</rt><rp>)</rp></ruby>でも　食べに　<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きませんか。
+<ruby>田<rp>(</rp><rt>た</rt><rp>)</rp></ruby><ruby>中<rp>(</rp><rt>なか</rt><rp>)</rp></ruby>:<ruby>佐<rp>(</rp><rt>さ</rt><rp>)</rp></ruby><ruby>藤<rp>(</rp><rt>とう</rt><rp>)</rp></ruby>さん、ボーナスも<ruby>出<rp>(</rp><rt>で</rt><rp>)</rp></ruby>た　ことです　し、たまには　おいしい　お<ruby>寿<rp>(</rp><rt>す</rt><rp>)</rp></ruby><ruby>司<rp>(</rp><rt>し</rt><rp>)</rp></ruby>でも　<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べに　<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きませんか。
 
 **佐藤:好啊，平时难得吃到高级寿司，发奖金的时候，奢侈一次还是可以的吧。**
 <ruby>佐<rp>(</rp><rt>さ</rt><rp>)</rp></ruby><ruby>藤<rp>(</rp><rt>とう</rt><rp>)</rp></ruby>:いいですね。<ruby>高<rp>(</rp><rt>こう</rt><rp>)</rp></ruby><ruby>級<rp>(</rp><rt>きゅう</rt><rp>)</rp></ruby><ruby>寿<rp>(</rp><rt>す</rt><rp>)</rp></ruby><ruby>司<rp>(</rp><rt>し</rt><rp>)</rp></ruby>なんて　<ruby>普<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby><ruby>段<rp>(</rp><rt>だん</rt><rp>)</rp></ruby>は　<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べられない　ですから、ボーナスが　<ruby>出<rp>(</rp><rt>で</rt><rp>)</rp></ruby>たとき　くらい、<ruby>少<rp>(</rp><rt>すこ</rt><rp>)</rp></ruby>し　<ruby>贅<rp>(</rp><rt>ぜい</rt><rp>)</rp></ruby><ruby>沢<rp>(</rp><rt>たく</rt><rp>)</rp></ruby>しましょうか。
@@ -106,10 +106,10 @@
 <ruby>佐<rp>(</rp><rt>さ</rt><rp>)</rp></ruby><ruby>藤<rp>(</rp><rt>とう</rt><rp>)</rp></ruby>:それなら　<ruby>問<rp>(</rp><rt>もん</rt><rp>)</rp></ruby><ruby>題<rp>(</rp><rt>だい</rt><rp>)</rp></ruby>ないですね。じゃあ、<ruby>金<rp>(</rp><rt>きん</rt><rp>)</rp></ruby><ruby>曜<rp>(</rp><rt>よう</rt><rp>)</rp></ruby><ruby>日<rp>(</rp><rt>び</rt><rp>)</rp></ruby>の<ruby>夜<rp>(</rp><rt>よる</rt><rp>)</rp></ruby>に　しましょうか。
 
 **田中:好的，去一般的店?还是无限量畅食的店?**
-<ruby>田<rp>(</rp><rt>た</rt><rp>)</rp></ruby><ruby>中<rp>(</rp><rt>なか</rt><rp>)</rp></ruby>:そうですね。<ruby>普<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby><ruby>通<rp>(</rp><rt>つう</rt><rp>)</rp></ruby>の<ruby>店<rp>(</rp><rt>みせ</rt><rp>)</rp></ruby>と　食べ<ruby>放<rp>(</rp><rt>ほう</rt><rp>)</rp></ruby><ruby>題<rp>(</rp><rt>だい</rt><rp>)</rp></ruby>、どちらに　しますか。
+<ruby>田<rp>(</rp><rt>た</rt><rp>)</rp></ruby><ruby>中<rp>(</rp><rt>なか</rt><rp>)</rp></ruby>:そうですね。<ruby>普<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby><ruby>通<rp>(</rp><rt>つう</rt><rp>)</rp></ruby>の<ruby>店<rp>(</rp><rt>みせ</rt><rp>)</rp></ruby>と　<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べ<ruby>放<rp>(</rp><rt>ほう</rt><rp>)</rp></ruby><ruby>題<rp>(</rp><rt>だい</rt><rp>)</rp></ruby>、どちらに　しますか。
 
 **佐藤:无限量畅食的店因为有时间等各种限制，不能安心地吃，还是去一般的店慢慢吃吧。**
-<ruby>佐<rp>(</rp><rt>さ</rt><rp>)</rp></ruby><ruby>藤<rp>(</rp><rt>とう</rt><rp>)</rp></ruby>:食べ<ruby>放<rp>(</rp><rt>ほう</rt><rp>)</rp></ruby><ruby>題<rp>(</rp><rt>だい</rt><rp>)</rp></ruby>だと　<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby><ruby>間<rp>(</rp><rt>かん</rt><rp>)</rp></ruby><ruby>制<rp>(</rp><rt>せい</rt><rp>)</rp></ruby><ruby>限<rp>(</rp><rt>げん</rt><rp>)</rp></ruby>とか　あって　<ruby>落<rp>(</rp><rt>お</rt><rp>)</rp></ruby>ち<ruby>着<rp>(</rp><rt>つ</rt><rp>)</rp></ruby>かないから、<ruby>普<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby><ruby>通<rp>(</rp><rt>つう</rt><rp>)</rp></ruby>の<ruby>店<rp>(</rp><rt>みせ</rt><rp>)</rp></ruby>で　ゆっくり　<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べましょう。
+<ruby>佐<rp>(</rp><rt>さ</rt><rp>)</rp></ruby><ruby>藤<rp>(</rp><rt>とう</rt><rp>)</rp></ruby>:<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べ<ruby>放<rp>(</rp><rt>ほう</rt><rp>)</rp></ruby><ruby>題<rp>(</rp><rt>だい</rt><rp>)</rp></ruby>だと　<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby><ruby>間<rp>(</rp><rt>かん</rt><rp>)</rp></ruby><ruby>制<rp>(</rp><rt>せい</rt><rp>)</rp></ruby><ruby>限<rp>(</rp><rt>げん</rt><rp>)</rp></ruby>とか　あって　<ruby>落<rp>(</rp><rt>お</rt><rp>)</rp></ruby>ち<ruby>着<rp>(</rp><rt>つ</rt><rp>)</rp></ruby>かないから、<ruby>普<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby><ruby>通<rp>(</rp><rt>つう</rt><rp>)</rp></ruby>の<ruby>店<rp>(</rp><rt>みせ</rt><rp>)</rp></ruby>で　ゆっくり　<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べましょう。
 
 
 |                                  |                                    |
@@ -136,31 +136,31 @@
 ![](src/sya_sinn_3.jpeg)
 
 **A:不好意思，能帮我们拍张照片吗?**
-A: すみません、シャッターを<ruby>押<rp>(</rp><rt>お</rt><rp>)</rp></ruby>してもらえますか。
+A: すみません、シャッターを　<ruby>押<rp>(</rp><rt>お</rt><rp>)</rp></ruby>して　もらえますか。
 
 **B:可以，按哪里呢?**
-B: いいですよ。どこを<ruby>押<rp>(</rp><rt>お</rt><rp>)</rp></ruby>せばいいんですか。
+B: いいですよ。どこを　<ruby>押<rp>(</rp><rt>お</rt><rp>)</rp></ruby>せば　いいん　ですか。
 
 **A:按这个钮就可以，请把那边的山作为背景拍进去。**
-A: ここのボタンを<ruby>押<rp>(</rp><rt>お</rt><rp>)</rp></ruby>すだけでОKです。バックに<ruby>向<rp>(</rp><rt>む</rt><rp>)</rp></ruby>こうの<ruby>山<rp>(</rp><rt>やま</rt><rp>)</rp></ruby>を<ruby>入<rp>(</rp><rt>い</rt><rp>)</rp></ruby>れるようにしてもらえますか。
+A: ここのボタンを　<ruby>押<rp>(</rp><rt>お</rt><rp>)</rp></ruby>す　だけで　ОKです。バックに　<ruby>向<rp>(</rp><rt>む</rt><rp>)</rp></ruby>こうの<ruby>山<rp>(</rp><rt>やま</rt><rp>)</rp></ruby>を　<ruby>入<rp>(</rp><rt>い</rt><rp>)</rp></ruby>れる　ようにして　もらえますか。
 
 **B:好的，请稍微往中间靠一些。逆光没关系吗?**
-B: わかりました。もう<ruby>少<rp>(</rp><rt>すこ</rt><rp>)</rp></ruby>し<ruby>真<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>ん<ruby>中<rp>(</rp><rt>なか</rt><rp>)</rp></ruby>に<ruby>寄<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>ってもらえますか。それと<ruby>逆<rp>(</rp><rt>ぎゃっ</rt><rp>)</rp></ruby><ruby>光<rp>(</rp><rt>こう</rt><rp>)</rp></ruby>ですが、<ruby>大<rp>(</rp><rt>だい</rt><rp>)</rp></ruby><ruby>丈<rp>(</rp><rt>じょう</rt><rp>)</rp></ruby><ruby>夫<rp>(</rp><rt>ぶ</rt><rp>)</rp></ruby>ですか。
+B: わかりました。もう　<ruby>少<rp>(</rp><rt>すこ</rt><rp>)</rp></ruby>し　<ruby>真<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>ん<ruby>中<rp>(</rp><rt>なか</rt><rp>)</rp></ruby>に　<ruby>寄<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>って　もらえますか。それと　<ruby>逆<rp>(</rp><rt>ぎゃっ</rt><rp>)</rp></ruby><ruby>光<rp>(</rp><rt>こう</rt><rp>)</rp></ruby>ですが、<ruby>大<rp>(</rp><rt>だい</rt><rp>)</rp></ruby><ruby>丈<rp>(</rp><rt>じょう</rt><rp>)</rp></ruby><ruby>夫<rp>(</rp><rt>ぶ</rt><rp>)</rp></ruby>ですか。
 
 **A:这样能拍进去吗?如果逆光的话，请稍微靠右一点拍，可以吗?**
-A: このくらいで<ruby>収<rp>(</rp><rt>おさ</rt><rp>)</rp></ruby>まりますか。それと<ruby>逆<rp>(</rp><rt>ぎゃっ</rt><rp>)</rp></ruby><ruby>光<rp>(</rp><rt>こう</rt><rp>)</rp></ruby>でしたら、<ruby>少<rp>(</rp><rt>すこ</rt><rp>)</rp></ruby>し<ruby>右<rp>(</rp><rt>みぎ</rt><rp>)</rp></ruby>に<ruby>寄<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>って、<ruby>撮<rp>(</rp><rt>と</rt><rp>)</rp></ruby>って<ruby>頂<rp>(</rp><rt>いただ</rt><rp>)</rp></ruby>いても<ruby>宜<rp>(</rp><rt>よろ</rt><rp>)</rp></ruby>しいですか。
+A: このくらいで　<ruby>収<rp>(</rp><rt>おさ</rt><rp>)</rp></ruby>まりますか。それと　<ruby>逆<rp>(</rp><rt>ぎゃっ</rt><rp>)</rp></ruby><ruby>光<rp>(</rp><rt>こう</rt><rp>)</rp></ruby>で　したら、<ruby>少<rp>(</rp><rt>すこ</rt><rp>)</rp></ruby>し　<ruby>右<rp>(</rp><rt>みぎ</rt><rp>)</rp></ruby>に　<ruby>寄<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>って、<ruby>撮<rp>(</rp><rt>と</rt><rp>)</rp></ruby>って　<ruby>頂<rp>(</rp><rt>いただ</rt><rp>)</rp></ruby>いても　<ruby>宜<rp>(</rp><rt>よろ</rt><rp>)</rp></ruby>しいですか。
 
 **B:好的，现在拍了，茄——子!**
-B: はい、わかりました。それでは<ruby>撮<rp>(</rp><rt>と</rt><rp>)</rp></ruby>りますよ。チーズ!
+B: はい、わかりました。それでは　<ruby>撮<rp>(</rp><rt>と</rt><rp>)</rp></ruby>りますよ。チーズ!
 
 **A:谢谢。**
-A: ありがとうでざいました。
+A: ありがとう　ございました。
 
 **B:只拍一张，如果拍得不好就麻烦了，保险起见再来一张吧?**
-B: うまく<ruby>撮<rp>(</rp><rt>と</rt><rp>)</rp></ruby>れていないといけないので、<ruby>念<rp>(</rp><rt>ねん</rt><rp>)</rp></ruby>のためもう1<ruby>枚<rp>(</rp><rt>まい</rt><rp>)</rp></ruby><ruby>撮<rp>(</rp><rt>と</rt><rp>)</rp></ruby>りましょうか。
+B: うまく　<ruby>撮<rp>(</rp><rt>と</rt><rp>)</rp></ruby>れていないと　いけない　ので、<ruby>念<rp>(</rp><rt>ねん</rt><rp>)</rp></ruby>のため　もう1<ruby>枚<rp>(</rp><rt>まい</rt><rp>)</rp></ruby>　<ruby>撮<rp>(</rp><rt>と</rt><rp>)</rp></ruby>りましょうか。
 
 **A:那麻烦你了。**
-A: お<ruby>手<rp>(</rp><rt>て</rt><rp>)</rp></ruby><ruby>数<rp>(</rp><rt>すう</rt><rp>)</rp></ruby>ですけど、お<ruby>願<rp>(</rp><rt>ねが</rt><rp>)</rp></ruby>いします。
+A: お<ruby>手<rp>(</rp><rt>て</rt><rp>)</rp></ruby><ruby>数<rp>(</rp><rt>すう</rt><rp>)</rp></ruby>です　けど、お<ruby>願<rp>(</rp><rt>ねが</rt><rp>)</rp></ruby>いします。
 
 
 |                                |                                           |

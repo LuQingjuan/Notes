@@ -1,7 +1,21 @@
 **[ [[ N2_Detail_4.md | Prev ]] ]　[ [[ ../Menu.md | Home ]] ]　[ [[ N2_Detail_6.md | Next ]] ]**
 
 ---
-## 116.～た末（に）/～た末の/～の末（に） #6_15
+## 115. ～ついでに #6_14
+* [[ N2_Menu_0.md | Menu #6_14 ]]
+
+>**接法**：「動詞簡体+ついでに」「名詞+の+ついでに
+>**用法**：表示在做某一件事时，借此机会再做另一件事。
+>**说明**：「顺便～」
+
+1. **去学校时，顺便给我去一下邮局好吗？)**
+<ruby>学<rp>(</rp><rt>がっ</rt><rp>)</rp></ruby><ruby>校<rp>(</rp><rt>こう</rt><rp>)</rp></ruby>に<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>くついでに、<ruby>郵<rp>(</rp><rt>ゆう</rt><rp>)</rp></ruby><ruby>便<rp>(</rp><rt>びん</rt><rp>)</rp></ruby><ruby>局<rp>(</rp><rt>きょく</rt><rp>)</rp></ruby>に<ruby>寄<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>ってくれないか。
+2. **去了书店顺便还看了新出版的杂志。**
+<ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby><ruby>屋<rp>(</rp><rt>や</rt><rp>)</rp></ruby>へ<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>ったついでに、<ruby>新<rp>(</rp><rt>あたら</rt><rp>)</rp></ruby>しく<ruby>出<rp>(</rp><rt>で</rt><rp>)</rp></ruby>た<ruby>雑<rp>(</rp><rt>ざっ</rt><rp>)</rp></ruby><ruby>誌<rp>(</rp><rt>し</rt><rp>)</rp></ruby>も<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>た。
+3. **回家时顺便去了百货公司。**
+<ruby>帰<rp>(</rp><rt>かえ</rt><rp>)</rp></ruby>りのついでに、デパートに<ruby>寄<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>った。
+
+## 116. ～た末（に）/～た末の/～の末（に） #6_15
 * [[ N2_Menu_0.md | Menu #6_15 ]]
 
 >**接法**：「動詞过去式十末（忆）末①」「名詞+の+末（に）/末の
@@ -15,7 +29,7 @@
 3. **持续多年议论的结果，是决定改善保险制度。**
 <ruby>長<rp>(</rp><rt>なが</rt><rp>)</rp></ruby><ruby>年<rp>(</rp><rt>ねん</rt><rp>)</rp></ruby>にわたる<ruby>議<rp>(</rp><rt>ぎ</rt><rp>)</rp></ruby><ruby>論<rp>(</rp><rt>ろん</rt><rp>)</rp></ruby>の<ruby>末<rp>(</rp><rt>まつ</rt><rp>)</rp></ruby>に、<ruby>保<rp>(</rp><rt>ほ</rt><rp>)</rp></ruby><ruby>険<rp>(</rp><rt>けん</rt><rp>)</rp></ruby><ruby>制<rp>(</rp><rt>せい</rt><rp>)</rp></ruby><ruby>度<rp>(</rp><rt>ど</rt><rp>)</rp></ruby>が<ruby>改<rp>(</rp><rt>かい</rt><rp>)</rp></ruby><ruby>善<rp>(</rp><rt>ぜん</rt><rp>)</rp></ruby>されることになった。
 
-## 117.～ゆえに #6_16
+## 117. ～ゆえに #6_16
 * [[ N2_Menu_0.md | Menu #6_16 ]]
 
 >**接法**：「動詞、形容詞簡体十炒之亿」「形容詞、形容動詞詞干+さ+ゆえに」「形容動詞詞干、名詞十ゆえに
@@ -23,19 +37,19 @@
 >**说明**：「因为～而～」「因为～所以一」
 
 1. **因为她是女性而受到歧视的对待，真是很遗憾的事。**
-<ruby>彼<rp>(</rp><rt>かの</rt><rp>)</rp></ruby><ruby>女<rp>(</rp><rt>じょ</rt><rp>)</rp></ruby>が<ruby>女<rp>(</rp><rt>じょ</rt><rp>)</rp></ruby><ruby>性<rp>(</rp><rt>せい</rt><rp>)</rp></ruby>であるゆえに、<ruby>差<rp>(</rp><rt>さべ</rt><rp>)</rp></ruby><ruby>別<rp>(</rp><rt>つ</rt><rp>)</rp></ruby>な扱いを<ruby>受<rp>(</rp><rt>う</rt><rp>)</rp></ruby>けるのが<ruby>非<rp>(</rp><rt>ひ</rt><rp>)</rp></ruby><ruby>常<rp>(</rp><rt>じょう</rt><rp>)</rp></ruby>に<ruby>残<rp>(</rp><rt>ざん</rt><rp>)</rp></ruby><ruby>念<rp>(</rp><rt>ねん</rt><rp>)</rp></ruby>なことだ。
+<ruby>彼<rp>(</rp><rt>かの</rt><rp>)</rp></ruby><ruby>女<rp>(</rp><rt>じょ</rt><rp>)</rp></ruby>が<ruby>女<rp>(</rp><rt>じょ</rt><rp>)</rp></ruby><ruby>性<rp>(</rp><rt>せい</rt><rp>)</rp></ruby>であるゆえに、<ruby>差<rp>(</rp><rt>さべ</rt><rp>)</rp></ruby><ruby>別<rp>(</rp><rt>つ</rt><rp>)</rp></ruby>な<ruby>扱<rp>(</rp><rt>あつか</rt><rp>)</rp></ruby>いを<ruby>受<rp>(</rp><rt>う</rt><rp>)</rp></ruby>けるのが<ruby>非<rp>(</rp><rt>ひ</rt><rp>)</rp></ruby><ruby>常<rp>(</rp><rt>じょう</rt><rp>)</rp></ruby>に<ruby>残<rp>(</rp><rt>ざん</rt><rp>)</rp></ruby><ruby>念<rp>(</rp><rt>ねん</rt><rp>)</rp></ruby>なことだ。
 2. **因为没听忠告，所以引起了大事故。**
 <ruby>忠<rp>(</rp><rt>ちゅう</rt><rp>)</rp></ruby><ruby>告<rp>(</rp><rt>こく</rt><rp>)</rp></ruby>を<ruby>聞<rp>(</rp><rt>き</rt><rp>)</rp></ruby>かなかったゆえに、<ruby>大<rp>(</rp><rt>おお</rt><rp>)</rp></ruby>きな<ruby>事<rp>(</rp><rt>じ</rt><rp>)</rp></ruby><ruby>故<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>を<ruby>引<rp>(</rp><rt>ひ</rt><rp>)</rp></ruby>き<ruby>起<rp>(</rp><rt>お</rt><rp>)</rp></ruby>こしたのだ。
 3. **因为艰苦，所以登上山顶时才感到喜悦。**
 <ruby>苦<rp>(</rp><rt>くる</rt><rp>)</rp></ruby>しいゆえに、<ruby>頂<rp>(</rp><rt>ちょう</rt><rp>)</rp></ruby><ruby>上<rp>(</rp><rt>じょう</rt><rp>)</rp></ruby>に<ruby>登<rp>(</rp><rt>のぼ</rt><rp>)</rp></ruby>った<ruby>時<rp>(</rp><rt>とき</rt><rp>)</rp></ruby>の<ruby>喜<rp>(</rp><rt>よろこ</rt><rp>)</rp></ruby>びが<ruby>大<rp>(</rp><rt>おお</rt><rp>)</rp></ruby>きいのだ。
 4. **因为家境贫困，所以大学中途退学了。**
-<ruby>家<rp>(</rp><rt>うち・いえ</rt><rp>)</rp></ruby>が<ruby>貧<rp>(</rp><rt>まず</rt><rp>)</rp></ruby>しさゆえに、<ruby>大<rp>(</rp><rt>だい</rt><rp>)</rp></ruby><ruby>学<rp>(</rp><rt>がく</rt><rp>)</rp></ruby>を<ruby>中<rp>(</rp><rt>じゅう・なか・なが</rt><rp>)</rp></ruby>退したのだ。
+<ruby>家<rp>(</rp><rt>うち・いえ</rt><rp>)</rp></ruby>が<ruby>貧<rp>(</rp><rt>まず</rt><rp>)</rp></ruby>しさゆえに、<ruby>大<rp>(</rp><rt>だい</rt><rp>)</rp></ruby><ruby>学<rp>(</rp><rt>がく</rt><rp>)</rp></ruby>を<ruby>中<rp>(</rp><rt>Nじゅう・Vちゅう</rt><rp>)</rp></ruby>退したのだ。
 5. **因为他的认真，所以没有原谅他父亲的不正当的行为。**
 <ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>はそのまじめさゆえに、お<ruby>父<rp>(</rp><rt>とう</rt><rp>)</rp></ruby>さんの<ruby>不<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby><ruby>正<rp>(</rp><rt>せい</rt><rp>)</rp></ruby>を<ruby>許<rp>(</rp><rt>ゆる</rt><rp>)</rp></ruby>さなかった。
 6. **因为贫穷，所以必须马上就业。**
 <ruby>貧<rp>(</rp><rt>びん</rt><rp>)</rp></ruby><ruby>乏<rp>(</rp><rt>ぼう</rt><rp>)</rp></ruby>ゆえに、すぐに<ruby>就<rp>(</rp><rt>しゅう</rt><rp>)</rp></ruby><ruby>職<rp>(</rp><rt>しょく</rt><rp>)</rp></ruby>をしなければならない。
 
-## 118.～たところ #6_17
+## 118. ～たところ #6_17
 * [[ N2_Menu_0.md | Menu #6_17 ]]
 
 >**接法**：「動詞过去式た+ところ
@@ -43,11 +57,11 @@
 >**说明**：「果然～」「便～」
 
 1. **试用了一下新产品的录音电话，果然很好使。**
-新<ruby>発<rp>(</rp><rt>はつ</rt><rp>)</rp></ruby><ruby>売<rp>(</rp><rt>ばい</rt><rp>)</rp></ruby>の<ruby>留<rp>(</rp><rt>る</rt><rp>)</rp></ruby><ruby>守<rp>(</rp><rt>す</rt><rp>)</rp></ruby><ruby>番<rp>(</rp><rt>ばん</rt><rp>)</rp></ruby><ruby>電<rp>(</rp><rt>でん</rt><rp>)</rp></ruby><ruby>話<rp>(</rp><rt>わ</rt><rp>)</rp></ruby>を<ruby>使<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>ってみたところ、とても使いやすかった。
+新<ruby>発<rp>(</rp><rt>はつ</rt><rp>)</rp></ruby><ruby>売<rp>(</rp><rt>ばい</rt><rp>)</rp></ruby>の<ruby>留<rp>(</rp><rt>る</rt><rp>)</rp></ruby><ruby>守<rp>(</rp><rt>す</rt><rp>)</rp></ruby><ruby>番<rp>(</rp><rt>ばん</rt><rp>)</rp></ruby><ruby>電<rp>(</rp><rt>でん</rt><rp>)</rp></ruby><ruby>話<rp>(</rp><rt>わ</rt><rp>)</rp></ruby>を<ruby>使<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>ってみたところ、とても<ruby>使<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>いやすかった。
 2. **和史密斯语言不通，正为难不知如何是好，王先生便给我翻译了。**
-スミスさんと<ruby>言<rp>(</rp><rt>こと</rt><rp>)</rp></ruby><ruby>葉<rp>(</rp><rt>ば</rt><rp>)</rp></ruby>が<ruby>通<rp>(</rp><rt>つう</rt><rp>)</rp></ruby>じなくて、どうしたらいいか<ruby>困<rp>(</rp><rt>こま</rt><rp>)</rp></ruby>っていたところ、王さんが<ruby>通<rp>(</rp><rt>つう</rt><rp>)</rp></ruby><ruby>訳<rp>(</rp><rt>やく</rt><rp>)</rp></ruby>してくれた。
+スミスさん　と<ruby>言<rp>(</rp><rt>こと</rt><rp>)</rp></ruby><ruby>葉<rp>(</rp><rt>ば</rt><rp>)</rp></ruby>が<ruby>通<rp>(</rp><rt>つう</rt><rp>)</rp></ruby>じなくて、どうしたらいいか<ruby>困<rp>(</rp><rt>こま</rt><rp>)</rp></ruby>っていたところ、王さんが<ruby>通<rp>(</rp><rt>つう</rt><rp>)</rp></ruby><ruby>訳<rp>(</rp><rt>やく</rt><rp>)</rp></ruby>してくれた。
 
-## 119.～どころではない/～どころではなく #6_18
+## 119. ～どころではない/～どころではなく #6_18
 * [[ N2_Menu_0.md | Menu #6_18 ]]
 
 >**接法**：「動詞ます形、名詞+どころではない/どころではなく
@@ -59,11 +73,11 @@
 2. **出差前夜，哪里是喝酒的时候，必须整理行李。**
 <ruby>出<rp>(</rp><rt>しゅっ</rt><rp>)</rp></ruby><ruby>張<rp>(</rp><rt>ちょう</rt><rp>)</rp></ruby><ruby>前<rp>(</rp><rt>まえ</rt><rp>)</rp></ruby>の<ruby>夜<rp>(</rp><rt>よる</rt><rp>)</rp></ruby>は、お<ruby>酒<rp>(</rp><rt>さけ</rt><rp>)</rp></ruby>を<ruby>飲<rp>(</rp><rt>の</rt><rp>)</rp></ruby>むどころではなく、<ruby>荷<rp>(</rp><rt>に</rt><rp>)</rp></ruby><ruby>作<rp>(</rp><rt>つく</rt><rp>)</rp></ruby>りをしなければならない。
 3. **因妻子生病，所以现在哪里是赏花的时候。**
-<ruby>妻<rp>(</rp><rt>つま</rt><rp>)</rp></ruby>が<ruby>病<rp>(</rp><rt>びょう</rt><rp>)</rp></ruby><ruby>気<rp>(</rp><rt>き</rt><rp>)</rp></ruby>になって、<ruby>今<rp>(</rp><rt>いま</rt><rp>)</rp></ruby>はお<ruby>花<rp>(</rp><rt>はな</rt><rp>)</rp></ruby>見どころではない。
+<ruby>妻<rp>(</rp><rt>つま</rt><rp>)</rp></ruby>が<ruby>病<rp>(</rp><rt>びょう</rt><rp>)</rp></ruby><ruby>気<rp>(</rp><rt>き</rt><rp>)</rp></ruby>になって、<ruby>今<rp>(</rp><rt>いま</rt><rp>)</rp></ruby>はお<ruby>花<rp>(</rp><rt>はな</rt><rp>)</rp></ruby><ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>どころではない。
 4. **因发生了交通事故，所以哪里是吃饭的时候，正处于毫无头绪的状态。**
 <ruby>交<rp>(</rp><rt>こう</rt><rp>)</rp></ruby><ruby>通<rp>(</rp><rt>つう</rt><rp>)</rp></ruby><ruby>事<rp>(</rp><rt>じ</rt><rp>)</rp></ruby><ruby>故<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>があって、<ruby>食<rp>(</rp><rt>しょく</rt><rp>)</rp></ruby><ruby>事<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>どころではなく、ごちゃごちゃしてるんだ。
 
-## 120.～っけ #6_19
+## 120. ～っけ #6_19
 * [[ N2_Menu_0.md | Menu #6_19 ]]
 
 >**接法**：「用言簡体十っけ」也用「でしたっけ/ましたっけ
@@ -121,7 +135,7 @@ D)ほかない
     **解析**：
     ></details>
 
-4. <ruby>母<rp>(</rp><rt>はは</rt><rp>)</rp></ruby><ruby>親<rp>(</rp><rt>おや</rt><rp>)</rp></ruby>は<ruby>離<rp>(</rp><rt>はな</rt><rp>)</rp></ruby>れている<ruby>息<rp>(</rp><rt>むす</rt><rp>)</rp></ruby><ruby>子<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>のことを<ruby>心<rp>(</rp><rt>しん</rt><rp>)</rp></ruby><ruby>配<rp>(</rp><rt>ぱい</rt><rp>)</rp></ruby>しているのだから、<ruby>少<rp>(</rp><rt>すく</rt><rp>)</rp></ruby>なくても<ruby>月<rp>(</rp><rt>つき</rt><rp>)</rp></ruby>に1<ruby>回<rp>(</rp><rt>かい</rt><rp>)</rp></ruby>ぐらいは<ruby>連<rp>(</rp><rt>れん</rt><rp>)</rp></ruby><ruby>絡<rp>(</rp><rt>らく</rt><rp>)</rp></ruby>する_______。
+4. <ruby>母<rp>(</rp><rt>はは</rt><rp>)</rp></ruby><ruby>親<rp>(</rp><rt>おや</rt><rp>)</rp></ruby>は<ruby>離<rp>(</rp><rt>はな</rt><rp>)</rp></ruby>れている<ruby>息<rp>(</rp><rt>むす</rt><rp>)</rp></ruby><ruby>子<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>のことを<ruby>心<rp>(</rp><rt>しん</rt><rp>)</rp></ruby><ruby>配<rp>(</rp><rt>ぱい</rt><rp>)</rp></ruby>しているの　だから、<ruby>少<rp>(</rp><rt>すく</rt><rp>)</rp></ruby>なくても<ruby>月<rp>(</rp><rt>つき</rt><rp>)</rp></ruby>に1<ruby>回<rp>(</rp><rt>かい</rt><rp>)</rp></ruby>ぐらいは<ruby>連<rp>(</rp><rt>れん</rt><rp>)</rp></ruby><ruby>絡<rp>(</rp><rt>らく</rt><rp>)</rp></ruby>する_______。
 A)ほかない
 B)わけだ
 C)べきだ
@@ -134,7 +148,7 @@ D)ものか
     **解析**：
     ></details>
 
-5. <ruby>君<rp>(</rp><rt>きみ</rt><rp>)</rp></ruby>の<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>ったとおり、それは<ruby>素<rp>(</rp><rt>す</rt><rp>)</rp></ruby><ruby>晴<rp>(</rp><rt>ば</rt><rp>)</rp></ruby>らしい<ruby>計<rp>(</rp><rt>けい</rt><rp>)</rp></ruby><ruby>画<rp>(</rp><rt>かく</rt><rp>)</rp></ruby>には_______が、<ruby>実<rp>(</rp><rt>じっ</rt><rp>)</rp></ruby><ruby>行<rp>(</rp><rt>こう</rt><rp>)</rp></ruby>は<ruby>難<rp>(</rp><rt>むずか</rt><rp>)</rp></ruby>しいと<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>う。
+5. <ruby>君<rp>(</rp><rt>きみ</rt><rp>)</rp></ruby>の<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>ったとおり、それは<ruby>素<rp>(</rp><rt>す</rt><rp>)</rp></ruby><ruby>晴<rp>(</rp><rt>ば</rt><rp>)</rp></ruby>らしい<ruby>計<rp>(</rp><rt>けい</rt><rp>)</rp></ruby><ruby>画<rp>(</rp><rt>かく</rt><rp>)</rp></ruby>には_______が、<ruby>実<rp>(</rp><rt>じっ</rt><rp>)</rp></ruby><ruby>行<rp>(</rp><rt>こう</rt><rp>)</rp></ruby>は<ruby>難<rp>(</rp><rt>むずか</rt><rp>)</rp></ruby>しい　と<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>う。
 A)ほかない
 B)すぎない
 C)<ruby>違<rp>(</rp><rt>ちが</rt><rp>)</rp></ruby>いない
@@ -148,7 +162,7 @@ D)しようがない
     ></details>
 
 6. 浦<ruby>東<rp>(</rp><rt>ひがし</rt><rp>)</rp></ruby>の<ruby>桜<rp>(</rp><rt>さくら</rt><rp>)</rp></ruby>の<ruby>花<rp>(</rp><rt>はな</rt><rp>)</rp></ruby>が<ruby>散<rp>(</rp><rt>ち</rt><rp>)</rp></ruby>って、<ruby>雪<rp>(</rp><rt>ゆき</rt><rp>)</rp></ruby>でも<ruby>降<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby>った_______、<ruby>一<rp>(</rp><rt>いち</rt><rp>)</rp></ruby><ruby>面<rp>(</rp><rt>めん</rt><rp>)</rp></ruby><ruby>真<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>っ<ruby>白<rp>(</rp><rt>しろ</rt><rp>)</rp></ruby>になっていた。
-A)かと<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>うと
+A)かと<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>う と
 B)かのように
 C)ことから
 D)というより
@@ -172,7 +186,7 @@ D)とか
     **解析**：
     ></details>
 
-8. <ruby>技<rp>(</rp><rt>ぎ</rt><rp>)</rp></ruby><ruby>術<rp>(</rp><rt>じゅつ</rt><rp>)</rp></ruby><ruby>担<rp>(</rp><rt>たん</rt><rp>)</rp></ruby><ruby>当<rp>(</rp><rt>とう</rt><rp>)</rp></ruby>が<ruby>嫌<rp>(</rp><rt>きら</rt><rp>)</rp></ruby>だという_______のですが、<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>の<ruby>能<rp>(</rp><rt>のう</rt><rp>)</rp></ruby><ruby>力<rp>(</rp><rt>りょく</rt><rp>)</rp></ruby>ではとても<ruby>無<rp>(</rp><rt>む</rt><rp>)</rp></ruby><ruby>理<rp>(</rp><rt>り</rt><rp>)</rp></ruby>だと<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>いますので、お断りしました。
+8. <ruby>技<rp>(</rp><rt>ぎ</rt><rp>)</rp></ruby><ruby>術<rp>(</rp><rt>じゅつ</rt><rp>)</rp></ruby><ruby>担<rp>(</rp><rt>たん</rt><rp>)</rp></ruby><ruby>当<rp>(</rp><rt>とう</rt><rp>)</rp></ruby>が<ruby>嫌<rp>(</rp><rt>いや</rt><rp>)</rp></ruby>だ　という_______のですが、<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>の<ruby>能<rp>(</rp><rt>のう</rt><rp>)</rp></ruby><ruby>力<rp>(</rp><rt>りょく</rt><rp>)</rp></ruby>ではとても<ruby>無<rp>(</rp><rt>む</rt><rp>)</rp></ruby><ruby>理<rp>(</rp><rt>り</rt><rp>)</rp></ruby>だ　と<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>いますので、お<ruby>断<rp>(</rp><rt>ことわ</rt><rp>)</rp></ruby>りしました。
 A)どころではない
 B)わけではない
 C)ものではない
@@ -198,7 +212,7 @@ D)はずです
     **解析**：
     ></details>
 
-10. いつも<ruby>約<rp>(</rp><rt>やく</rt><rp>)</rp></ruby><ruby>束<rp>(</rp><rt>そく</rt><rp>)</rp></ruby>の<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby><ruby>間<rp>(</rp><rt>かん</rt><rp>)</rp></ruby>を<ruby>守<rp>(</rp><rt>まも</rt><rp>)</rp></ruby>る李さんがこんなに<ruby>遅<rp>(</rp><rt>おそ</rt><rp>)</rp></ruby>いとは、<ruby>途<rp>(</rp><rt>と</rt><rp>)</rp></ruby><ruby>中<rp>(</rp><rt>ちゅう</rt><rp>)</rp></ruby>で<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>かあった_______。
+10. いつも<ruby>約<rp>(</rp><rt>やく</rt><rp>)</rp></ruby><ruby>束<rp>(</rp><rt>そく</rt><rp>)</rp></ruby>の<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby><ruby>間<rp>(</rp><rt>かん</rt><rp>)</rp></ruby>を<ruby>守<rp>(</rp><rt>まも</rt><rp>)</rp></ruby>る<ruby>李<rp>(</rp><rt>り</rt><rp>)</rp></ruby>さんがこんなに<ruby>遅<rp>(</rp><rt>おそ</rt><rp>)</rp></ruby>いとは、<ruby>途<rp>(</rp><rt>と</rt><rp>)</rp></ruby><ruby>中<rp>(</rp><rt>ちゅう</rt><rp>)</rp></ruby>で<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>かあった_______。
 A)に<ruby>違<rp>(</rp><rt>ちが</rt><rp>)</rp></ruby>いない
 B)にすぎない
 C)ものだ
@@ -224,7 +238,7 @@ D)して
     **解析**：
     ></details>
 
-12. <ruby>手<rp>(</rp><rt>しゅ</rt><rp>)</rp></ruby><ruby>術<rp>(</rp><rt>じゅつ</rt><rp>)</rp></ruby>をしたばかりだから、<ruby>体<rp>(</rp><rt>からだ</rt><rp>)</rp></ruby><ruby>力<rp>(</rp><rt>ちから</rt><rp>)</rp></ruby>が<ruby>完<rp>(</rp><rt>かん</rt><rp>)</rp></ruby><ruby>全<rp>(</rp><rt>ぜん</rt><rp>)</rp></ruby>に<ruby>回<rp>(</rp><rt>かい</rt><rp>)</rp></ruby><ruby>復<rp>(</rp><rt>ふく</rt><rp>)</rp></ruby>するまで<ruby>仕<rp>(</rp><rt>し</rt><rp>)</rp></ruby><ruby>事<rp>(</rp><rt>ごと</rt><rp>)</rp></ruby>を_______べきではない。
+12. <ruby>手<rp>(</rp><rt>しゅ</rt><rp>)</rp></ruby><ruby>術<rp>(</rp><rt>じゅつ</rt><rp>)</rp></ruby>をしたばかり　だから、<ruby>体<rp>(</rp><rt>からだ</rt><rp>)</rp></ruby><ruby>力<rp>(</rp><rt>ちから</rt><rp>)</rp></ruby>が<ruby>完<rp>(</rp><rt>かん</rt><rp>)</rp></ruby><ruby>全<rp>(</rp><rt>ぜん</rt><rp>)</rp></ruby>に<ruby>回<rp>(</rp><rt>かい</rt><rp>)</rp></ruby><ruby>復<rp>(</rp><rt>ふく</rt><rp>)</rp></ruby>するまで<ruby>仕<rp>(</rp><rt>し</rt><rp>)</rp></ruby><ruby>事<rp>(</rp><rt>ごと</rt><rp>)</rp></ruby>を_______べきではない。
 A) し
 B)せ
 C)する
@@ -290,10 +304,10 @@ D)した
     ></details>
 
 17. <ruby>若<rp>(</rp><rt>わか</rt><rp>)</rp></ruby>いころはアメリカへ_______たまらなかった。
-A)行きたい
-B)行きたかった
-C)行きたくて
-D)行きたく
+A)<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きたい
+B)<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きたかった
+C)<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きたくて
+D)<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きたく
     ><details>
     ><summary>
     >详解</summary>
@@ -302,7 +316,7 @@ D)行きたく
     **解析**：
     ></details>
 
-18. 黄<ruby>山<rp>(</rp><rt>やま</rt><rp>)</rp></ruby>は<ruby>上<rp>(</rp><rt>うえ</rt><rp>)</rp></ruby>へ<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>く_______、<ruby>気<rp>(</rp><rt>き</rt><rp>)</rp></ruby><ruby>温<rp>(</rp><rt>おん</rt><rp>)</rp></ruby>が<ruby>下<rp>(</rp><rt>さ</rt><rp>)</rp></ruby>がる。
+18. <ruby>黄<rp>(</rp><rt>こう</rt><rp>)</rp></ruby><ruby>山<rp>(</rp><rt>ざん</rt><rp>)</rp></ruby>は<ruby>上<rp>(</rp><rt>うえ</rt><rp>)</rp></ruby>へ<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>く_______、<ruby>気<rp>(</rp><rt>き</rt><rp>)</rp></ruby><ruby>温<rp>(</rp><rt>おん</rt><rp>)</rp></ruby>が<ruby>下<rp>(</rp><rt>さ</rt><rp>)</rp></ruby>がる。
 A)たび
 B)かぎり
 C)ほど
@@ -341,7 +355,7 @@ D)ことになっている
     **解析**：
     ></details>
 
-21. <ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>がアジアを<ruby>旅<rp>(</rp><rt>りょ</rt><rp>)</rp></ruby><ruby>行<rp>(</rp><rt>こう</rt><rp>)</rp></ruby>したといっても香<ruby>港<rp>(</rp><rt>みなと</rt><rp>)</rp></ruby>とタイは<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>った_______。
+21. <ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>がアジアを<ruby>旅<rp>(</rp><rt>りょ</rt><rp>)</rp></ruby><ruby><ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby><rp>(</rp><rt>こう</rt><rp>)</rp></ruby>したといっても香<ruby>港<rp>(</rp><rt>みなと</rt><rp>)</rp></ruby>とタイは<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>った_______。
 A)わけだ
 B)にきまっている
 C)しかない
@@ -393,7 +407,7 @@ D)<ruby>続<rp>(</rp><rt>つづ</rt><rp>)</rp></ruby>けようがない
     **解析**：
     ></details>
 
-25. <ruby>山<rp>(</rp><rt>やま</rt><rp>)</rp></ruby>田<ruby>君<rp>(</rp><rt>きみ</rt><rp>)</rp></ruby>の<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>ったとおりにやった_______、とてもうまくできた。
+25. <ruby>山<rp>(</rp><rt>やま</rt><rp>)</rp></ruby><ruby>田<rp>(</rp><rt>だ</rt><rp>)</rp></ruby><ruby>君<rp>(</rp><rt>きみ</rt><rp>)</rp></ruby>の<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>ったとおりにやった_______、とてもうまくできた。
 A)ばかりに
 B)ところ
 C)ところで
@@ -432,7 +446,7 @@ D)ものか
     **解析**：
     ></details>
 
-28. <ruby>上<rp>(</rp><rt>しゃん</rt><rp>)</rp></ruby><ruby>海<rp>(</rp><rt>はい</rt><rp>)</rp></ruby>の<ruby>女<rp>(</rp><rt>じょ</rt><rp>)</rp></ruby><ruby>子<rp>(</rp><rt>し</rt><rp>)</rp></ruby>サッカーチームが<ruby>強<rp>(</rp><rt>つよ</rt><rp>)</rp></ruby>いから、<ruby>今年<rp>(</rp><rt>ことし</rt><rp>)</rp></ruby>もまた<ruby>勝<rp>(</rp><rt>か</rt><rp>)</rp></ruby>つ_______よ。
+28. <ruby>上<rp>(</rp><rt>しゃん</rt><rp>)</rp></ruby><ruby>海<rp>(</rp><rt>はい</rt><rp>)</rp></ruby>の<ruby>女<rp>(</rp><rt>じょ</rt><rp>)</rp></ruby><ruby>子<rp>(</rp><rt>し</rt><rp>)</rp></ruby>サッカーチームが<ruby>強<rp>(</rp><rt>し</rt><rp>)</rp></ruby>い　から、<ruby>今年<rp>(</rp><rt>ことし</rt><rp>)</rp></ruby>もまた<ruby>勝<rp>(</rp><rt>か</rt><rp>)</rp></ruby>つ_______よ。
 A)にすぎない
 B)にきまっている
 C)に<ruby>限<rp>(</rp><rt>かぎ</rt><rp>)</rp></ruby>る
@@ -451,7 +465,7 @@ D)しかない
 * [[ N2_Menu_0.md | Menu #7_0 ]]
 
 
-## 121.～（より）ほか（は）ない/～ほかしかたがない #7_1
+## 121. ～（より）ほか（は）ない/～ほかしかたがない #7_1
 * [[ N2_Menu_0.md | Menu #7_1 ]]
 
 >**接法**：「動詞原形+（より）ほか（は）ない/ほかしかたがない
@@ -459,15 +473,15 @@ D)しかない
 >**说明**：「只有～」「只能～」
 
 1. **因为谁都不帮我，所以只能自己做。**
-<ruby>誰<rp>(</rp><rt>だれ</rt><rp>)</rp></ruby>でも<ruby>手<rp>(</rp><rt>て</rt><rp>)</rp></ruby><ruby>伝<rp>(</rp><rt>つだ</rt><rp>)</rp></ruby>ってくれないから、<ruby>自<rp>(</rp><rt>じ</rt><rp>)</rp></ruby><ruby>分<rp>(</rp><rt>ぶん</rt><rp>)</rp></ruby>でやるほかはない。
+<ruby>誰<rp>(</rp><rt>だれ</rt><rp>)</rp></ruby>でも<ruby>手<rp>(</rp><rt>て</rt><rp>)</rp></ruby><ruby>伝<rp>(</rp><rt>つだ</rt><rp>)</rp></ruby>ってくれない　から、<ruby>自<rp>(</rp><rt>じ</rt><rp>)</rp></ruby><ruby>分<rp>(</rp><rt>ぶん</rt><rp>)</rp></ruby>でやるほかはない。
 2. **因为是我不好，所以只能道歉。**
-<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>のほうが<ruby>悪<rp>(</rp><rt>わる</rt><rp>)</rp></ruby>いのだから、<ruby>謝<rp>(</rp><rt>あやま</rt><rp>)</rp></ruby>るほかない。
+<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>のほうが<ruby>悪<rp>(</rp><rt>わる</rt><rp>)</rp></ruby>いの　だから、<ruby>謝<rp>(</rp><rt>あやま</rt><rp>)</rp></ruby>るほかない。
 3. **因为已经如此努力了，所以只能放弃。**
-あれだけ<ruby>努<rp>(</rp><rt>ど</rt><rp>)</rp></ruby><ruby>力<rp>(</rp><rt>りょく</rt><rp>)</rp></ruby>したのだから、あきらめるよりほかない。
+あれだけ<ruby>努<rp>(</rp><rt>ど</rt><rp>)</rp></ruby><ruby>力<rp>(</rp><rt>りょく</rt><rp>)</rp></ruby>したの　だから、あきらめるよりほかない。
 4. **为了健康，只有戒烟吧。**
-<ruby>健<rp>(</rp><rt>けん</rt><rp>)</rp></ruby><ruby>康<rp>(</rp><rt>こう</rt><rp>)</rp></ruby>のためには、タバコをやめるほかしかたがないだろう。
+<ruby>健<rp>(</rp><rt>けん</rt><rp>)</rp></ruby><ruby>康<rp>(</rp><rt>こう</rt><rp>)</rp></ruby>のためには、タバコをやめるほかしかたがない　だろう。
 
-## 122.～からすると/～からすれば #7_2
+## 122. ～からすると/～からすれば #7_2
 * [[ N2_Menu_0.md | Menu #7_2 ]]
 
 >**接法**：「名詞+からすると/からすれば 
@@ -477,16 +491,17 @@ D)しかない
 1. **丛妈妈的立场来看，他无论到了几岁也还是孩子。**
 <ruby>母<rp>(</rp><rt>はは</rt><rp>)</rp></ruby><ruby>親<rp>(</rp><rt>おや</rt><rp>)</rp></ruby>からすると、<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>はいくつになってもやっぱり<ruby>子<rp>(</rp><rt>こど</rt><rp>)</rp></ruby><ruby>供<rp>(</rp><rt>も</rt><rp>)</rp></ruby>だ。
 2. **即便丛日本人的立场来看是理所当然的，但对外国人来说，有时会认为怪怪的。**
-<ruby>日<rp>(</rp><rt>に</rt><rp>)</rp></ruby><ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby><ruby>人<rp>(</rp><rt>じん</rt><rp>)</rp></ruby>からすれば<ruby>当<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>たり<ruby>前<rp>(</rp><rt>まえ</rt><rp>)</rp></ruby>なことでも、<ruby>外<rp>(</rp><rt>がい</rt><rp>)</rp></ruby><ruby>国<rp>(</rp><rt>こく</rt><rp>)</rp></ruby><ruby>人<rp>(</rp><rt>じん</rt><rp>)</rp></ruby>にとっては<ruby>変<rp>(</rp><rt>へん</rt><rp>)</rp></ruby>だと<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>うこともある。
+<ruby>日<rp>(</rp><rt>に</rt><rp>)</rp></ruby><ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby><ruby>人<rp>(</rp><rt>じん</rt><rp>)</rp></ruby>からすれば<ruby>当<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>たり<ruby>前<rp>(</rp><rt>まえ</rt><rp>)</rp></ruby>なことでも、<ruby>外<rp>(</rp><rt>がい</rt><rp>)</rp></ruby><ruby>国<rp>(</rp><rt>こく</rt><rp>)</rp></ruby><ruby>人<rp>(</rp><rt>じん</rt><rp>)</rp></ruby>にとっては<ruby>変<rp>(</rp><rt>へん</rt><rp>)</rp></ruby>だ　と<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>う こともある。
+
 >**用法2**：表示推测的依据。
 >**说明**：「从～来判断」
 
 1. **从他的年龄来判断，我认为已经结婚了吧。**
-<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>の<ruby>年<rp>(</rp><rt>ねん</rt><rp>)</rp></ruby><ruby>齢<rp>(</rp><rt>れい</rt><rp>)</rp></ruby>からすると、もう<ruby>結<rp>(</rp><rt>けっ</rt><rp>)</rp></ruby><ruby>婚<rp>(</rp><rt>こん</rt><rp>)</rp></ruby>しているだろうと<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>う。
+<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>の<ruby>年<rp>(</rp><rt>ねん</rt><rp>)</rp></ruby><ruby>齢<rp>(</rp><rt>れい</rt><rp>)</rp></ruby>からすると、もう<ruby>結<rp>(</rp><rt>けっ</rt><rp>)</rp></ruby><ruby>婚<rp>(</rp><rt>こん</rt><rp>)</rp></ruby>しているだろう　と<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>う。
 2. **丛他的实力来判断，能考上交通大学吧。**
-<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>の<ruby>実<rp>(</rp><rt>じつ</rt><rp>)</rp></ruby><ruby>力<rp>(</rp><rt>りょく</rt><rp>)</rp></ruby>からすれば、<ruby>交<rp>(</rp><rt>こう</rt><rp>)</rp></ruby><ruby>通<rp>(</rp><rt>つう</rt><rp>)</rp></ruby><ruby>大<rp>(</rp><rt>だい</rt><rp>)</rp></ruby><ruby>学<rp>(</rp><rt>がく</rt><rp>)</rp></ruby>に<ruby>合<rp>(</rp><rt>ごう</rt><rp>)</rp></ruby><ruby>格<rp>(</rp><rt>かく</rt><rp>)</rp></ruby>できるだろう。
+<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>の<ruby>実<rp>(</rp><rt>じつ</rt><rp>)</rp></ruby><ruby>力<rp>(</rp><rt>りょく</rt><rp>)</rp></ruby>からすれば、<ruby>交<rp>(</rp><rt>こう</rt><rp>)</rp></ruby><ruby>通<rp>(</rp><rt>つう</rt><rp>)</rp></ruby><ruby>大<rp>(</rp><rt>だい</rt><rp>)</rp></ruby><ruby>学<rp>(</rp><rt>がく</rt><rp>)</rp></ruby>に<ruby>合<rp>(</rp><rt>ごう</rt><rp>)</rp></ruby><ruby>格<rp>(</rp><rt>かく</rt><rp>)</rp></ruby>できる　だろう。
 
-## 123.～からして #7_3
+## 123. ～からして #7_3
 * [[ N2_Menu_0.md | Menu #7_3 ]]
 
 >**接法**：「名詞+からして
@@ -496,18 +511,19 @@ D)しかない
 1. **那人不懂礼貌，就是打招呼也没做好。**
 あの<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>は<ruby>礼<rp>(</rp><rt>れい</rt><rp>)</rp></ruby><ruby>儀<rp>(</rp><rt>ぎ</rt><rp>)</rp></ruby>を<ruby>知<rp>(</rp><rt>し</rt><rp>)</rp></ruby>らないんだ、あいさつからして、きちんとしていない。
 2. **虽说东京物价高，但就是收入也不同啊。**
-<ruby>東<rp>(</rp><rt>とう</rt><rp>)</rp></ruby><ruby>京<rp>(</rp><rt>きょう</rt><rp>)</rp></ruby>は<ruby>物<rp>(</rp><rt>ぶっ</rt><rp>)</rp></ruby><ruby>価<rp>(</rp><rt>か</rt><rp>)</rp></ruby>が<ruby>高<rp>(</rp><rt>たか</rt><rp>)</rp></ruby>いと<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>われているが、<ruby>収<rp>(</rp><rt>しゅう</rt><rp>)</rp></ruby><ruby>入<rp>(</rp><rt>にゅう</rt><rp>)</rp></ruby>からして<ruby>違<rp>(</rp><rt>ちが</rt><rp>)</rp></ruby>うんだ。
+<ruby>東<rp>(</rp><rt>とう</rt><rp>)</rp></ruby><ruby>京<rp>(</rp><rt>きょう</rt><rp>)</rp></ruby>は<ruby>物<rp>(</rp><rt>ぶっ</rt><rp>)</rp></ruby><ruby>価<rp>(</rp><rt>か</rt><rp>)</rp></ruby>が<ruby>高<rp>(</rp><rt>たか</rt><rp>)</rp></ruby>い　と<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>われているが、<ruby>収<rp>(</rp><rt>しゅう</rt><rp>)</rp></ruby><ruby>入<rp>(</rp><rt>にゅう</rt><rp>)</rp></ruby>からして<ruby>違<rp>(</rp><rt>ちが</rt><rp>)</rp></ruby>うんだ。
 3. **听说那社长很可怕，不说别的就是那说话的腔调看上去好像很可怕。**
-あの<ruby>社<rp>(</rp><rt>しゃ</rt><rp>)</rp></ruby><ruby>長<rp>(</rp><rt>ちょう</rt><rp>)</rp></ruby>が恐いそうだ、喋りかたからして恐そうだ。
+あの<ruby>社<rp>(</rp><rt>しゃ</rt><rp>)</rp></ruby><ruby>長<rp>(</rp><rt>ちょう</rt><rp>)</rp></ruby>が恐いそうだ、<ruby>喋<rp>(</rp><rt>しゃべ</rt><rp>)</rp></ruby>りかたからして恐　そうだ。
+
 >**用法2**：表示推测的依据。 和No.122.～からすると/～からすれば」的「用法2」相同。
 >**说明**：「从～来判断」
 
 1. **从她的健康状况来判断，这工作不行吧。**
-<ruby>彼<rp>(</rp><rt>かの</rt><rp>)</rp></ruby><ruby>女<rp>(</rp><rt>じょ</rt><rp>)</rp></ruby>の<ruby>健<rp>(</rp><rt>けん</rt><rp>)</rp></ruby><ruby>康<rp>(</rp><rt>こう</rt><rp>)</rp></ruby><ruby>状<rp>(</rp><rt>じょう</rt><rp>)</rp></ruby><ruby>態<rp>(</rp><rt>たい</rt><rp>)</rp></ruby>からして、この<ruby>仕<rp>(</rp><rt>し</rt><rp>)</rp></ruby><ruby>事<rp>(</rp><rt>ごと</rt><rp>)</rp></ruby>は<ruby>無<rp>(</rp><rt>む</rt><rp>)</rp></ruby><ruby>理<rp>(</rp><rt>り</rt><rp>)</rp></ruby>だろう。
+<ruby>彼<rp>(</rp><rt>かの</rt><rp>)</rp></ruby><ruby>女<rp>(</rp><rt>じょ</rt><rp>)</rp></ruby>の<ruby>健<rp>(</rp><rt>けん</rt><rp>)</rp></ruby><ruby>康<rp>(</rp><rt>こう</rt><rp>)</rp></ruby><ruby>状<rp>(</rp><rt>じょう</rt><rp>)</rp></ruby><ruby>態<rp>(</rp><rt>たい</rt><rp>)</rp></ruby>からして、この<ruby>仕<rp>(</rp><rt>し</rt><rp>)</rp></ruby><ruby>事<rp>(</rp><rt>ごと</rt><rp>)</rp></ruby>は<ruby>無<rp>(</rp><rt>む</rt><rp>)</rp></ruby><ruby>理<rp>(</rp><rt>り</rt><rp>)</rp></ruby>　だろう。
 2. **丛没开灯来判断，他不在家吧。**
-<ruby>電<rp>(</rp><rt>でん</rt><rp>)</rp></ruby><ruby>気<rp>(</rp><rt>き</rt><rp>)</rp></ruby>がついていないことからして、<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>は<ruby>家<rp>(</rp><rt>うち・いえ</rt><rp>)</rp></ruby>にいないだろう。
+<ruby>電<rp>(</rp><rt>でん</rt><rp>)</rp></ruby><ruby>気<rp>(</rp><rt>き</rt><rp>)</rp></ruby>がついていないことからして、<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>は<ruby>家<rp>(</rp><rt>うち・いえ</rt><rp>)</rp></ruby>にいない　だろう。
 
-## 124.～からには/からは #7_4
+## 124. ～からには/からは #7_4
 * [[ N2_Menu_0.md | Menu #7_4 ]]
 
 >**接法**：「用言簡体+からには/からは
@@ -525,21 +541,21 @@ D)しかない
 5. **旺状来留党了就请认直兰习。**
 留学に来たからには、<ruby>勉<rp>(</rp><rt>べん</rt><rp>)</rp></ruby><ruby>強<rp>(</rp><rt>きょう</rt><rp>)</rp></ruby>に<ruby>専<rp>(</rp><rt>せん</rt><rp>)</rp></ruby><ruby>念<rp>(</rp><rt>ねん</rt><rp>)</rp></ruby>してください。
 
-## 125.～ことだから #7_5
+## 125. ～こと　だから #7_5
 * [[ N2_Menu_0.md | Menu #7_5 ]]
 
->**接法**：「名詞+の+ことだから
+>**接法**：「名詞+の+こと　だから
 >**用法**：前项是大家所知的理由，后项用推量结句。
 >**说明**：「因为是～嘛」
 
 1. **因为是心地善良的李先生嘛，肯定会帮我拿主意的吧。**
-<ruby>心<rp>(</rp><rt>こころ</rt><rp>)</rp></ruby>の<ruby>優<rp>(</rp><rt>やさ</rt><rp>)</rp></ruby>しい李<ruby>先<rp>(</rp><rt>せん</rt><rp>)</rp></ruby><ruby>生<rp>(</rp><rt>せい</rt><rp>)</rp></ruby>のことだから、きっと<ruby>相<rp>(</rp><rt>そう</rt><rp>)</rp></ruby><ruby>談<rp>(</rp><rt>だん</rt><rp>)</rp></ruby>に<ruby>乗<rp>(</rp><rt>の</rt><rp>)</rp></ruby>ってくださるだろう。
+<ruby>心<rp>(</rp><rt>こころ</rt><rp>)</rp></ruby>の<ruby>優<rp>(</rp><rt>やさ</rt><rp>)</rp></ruby>しい李<ruby>先<rp>(</rp><rt>せん</rt><rp>)</rp></ruby><ruby>生<rp>(</rp><rt>せい</rt><rp>)</rp></ruby>のこと　だから、きっと<ruby>相<rp>(</rp><rt>そう</rt><rp>)</rp></ruby><ruby>談<rp>(</rp><rt>だん</rt><rp>)</rp></ruby>に<ruby>乗<rp>(</rp><rt>の</rt><rp>)</rp></ruby>ってくださる　だろう。
 2. **因为是脑子聪明的她嘛，这件事肯定会顺利进行吧。**
-<ruby>頭<rp>(</rp><rt>かしら</rt><rp>)</rp></ruby>のきれる<ruby>彼<rp>(</rp><rt>かの</rt><rp>)</rp></ruby><ruby>女<rp>(</rp><rt>じょ</rt><rp>)</rp></ruby>のことだから、この<ruby>事<rp>(</rp><rt>こと</rt><rp>)</rp></ruby>はきっとうまく<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>くだろう。
+<ruby>頭<rp>(</rp><rt>かしら</rt><rp>)</rp></ruby>のきれる<ruby>彼<rp>(</rp><rt>かの</rt><rp>)</rp></ruby><ruby>女<rp>(</rp><rt>じょ</rt><rp>)</rp></ruby>のこと　だから、この<ruby>事<rp>(</rp><rt>こと</rt><rp>)</rp></ruby>はきっとうまく<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>く　だろう。
 3. **因为还是孩子嘛，休息日睡懒觉也无奈。**
-まだ<ruby>子<rp>(</rp><rt>こど</rt><rp>)</rp></ruby><ruby>供<rp>(</rp><rt>も</rt><rp>)</rp></ruby>のことだから、<ruby>休<rp>(</rp><rt>やす</rt><rp>)</rp></ruby>みの<ruby>日<rp>(</rp><rt>ひ</rt><rp>)</rp></ruby>に<ruby>朝<rp>(</rp><rt>あさ</rt><rp>)</rp></ruby><ruby>寝<rp>(</rp><rt>ね</rt><rp>)</rp></ruby><ruby>坊<rp>(</rp><rt>ぼう</rt><rp>)</rp></ruby>じてもしかたがないだろう。
+まだ<ruby>子<rp>(</rp><rt>こど</rt><rp>)</rp></ruby><ruby>供<rp>(</rp><rt>も</rt><rp>)</rp></ruby>のこと　だから、<ruby>休<rp>(</rp><rt>やす</rt><rp>)</rp></ruby>みの<ruby>日<rp>(</rp><rt>ひ</rt><rp>)</rp></ruby>に<ruby>朝<rp>(</rp><rt>あさ</rt><rp>)</rp></ruby><ruby>寝<rp>(</rp><rt>ね</rt><rp>)</rp></ruby><ruby>坊<rp>(</rp><rt>ぼう</rt><rp>)</rp></ruby>じてもしかたがない　だろう。
 
-## 126.～だけ/～だけあって/～だけに/だけの～ #7_6
+## 126. ～だけ/～だけあって/～だけに/だけの～ #7_6
 * [[ N2_Menu_0.md | Menu #7_6 ]]
 
 >**接法**：「用言連体形+だけ/だけあって/だけに/だけの～」「名詞+だけ/だけあって/だけに/だけの～ 
@@ -553,9 +569,10 @@ D)しかない
 3. **他正因为长久在日本住过，所以日语也颇具实力。**
 <ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>は<ruby>日<rp>(</rp><rt>にっ</rt><rp>)</rp></ruby><ruby>本<rp>(</rp><rt>ぽん</rt><rp>)</rp></ruby>に<ruby>長<rp>(</rp><rt>なが</rt><rp>)</rp></ruby>く<ruby>住<rp>(</rp><rt>す</rt><rp>)</rp></ruby>んだだけに<ruby>日<rp>(</rp><rt>に</rt><rp>)</rp></ruby><ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby><ruby>語<rp>(</rp><rt>ご</rt><rp>)</rp></ruby>がうまいね。
 4. **正因为铃木是推销员，所以口才也相应地好。**
-<ruby>鈴<rp>(</rp><rt>すず</rt><rp>)</rp></ruby><ruby>木<rp>(</rp><rt>もく</rt><rp>)</rp></ruby>さんはセールスマンだけに喋りが<ruby>上<rp>(</rp><rt>じょう</rt><rp>)</rp></ruby><ruby>手<rp>(</rp><rt>ず</rt><rp>)</rp></ruby>だ。
+<ruby>鈴<rp>(</rp><rt>すず</rt><rp>)</rp></ruby><ruby>木<rp>(</rp><rt>き</rt><rp>)</rp></ruby>さんはセールスマンだけに<ruby>喋<rp>(</rp><rt>しゃべ</rt><rp>)</rp></ruby>りが<ruby>上<rp>(</rp><rt>じょう</rt><rp>)</rp></ruby><ruby>手<rp>(</rp><rt>ず</rt><rp>)</rp></ruby>だ。
 5. **正因为被誉为是最高级宾馆，所以设施和服务也都是一流的。**
-さすがに最<ruby>高<rp>(</rp><rt>こう</rt><rp>)</rp></ruby><ruby>級<rp>(</rp><rt>きゅう</rt><rp>)</rp></ruby>と<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>われるホテルだけのことはある。<ruby>施<rp>(</rp><rt>し</rt><rp>)</rp></ruby><ruby>設<rp>(</rp><rt>せつ</rt><rp>)</rp></ruby>もサービスも<ruby>一<rp>(</rp><rt>いち</rt><rp>)</rp></ruby><ruby>流<rp>(</rp><rt>りゅう</rt><rp>)</rp></ruby>だ。
+さすがに最<ruby>高<rp>(</rp><rt>こう</rt><rp>)</rp></ruby><ruby>級<rp>(</rp><rt>きゅう</rt><rp>)</rp></ruby>　と<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>われるホテルだけのことはある。<ruby>施<rp>(</rp><rt>し</rt><rp>)</rp></ruby><ruby>設<rp>(</rp><rt>せつ</rt><rp>)</rp></ruby>もサービスも<ruby>一<rp>(</rp><rt>いち</rt><rp>)</rp></ruby><ruby>流<rp>(</rp><rt>りゅう</rt><rp>)</rp></ruby>だ。
+
 >**用法2**：表示就因为此原因，加深了后项的程度。用「龙付之
 >**说明**：「正因为～所以更～」
 
@@ -565,6 +582,7 @@ D)しかない
 <ruby>去<rp>(</rp><rt>きょ</rt><rp>)</rp></ruby><ruby>年<rp>(</rp><rt>ねん</rt><rp>)</rp></ruby>は<ruby>西<rp>(</rp><rt>すい</rt><rp>)</rp></ruby><ruby>瓜<rp>(</rp><rt>か</rt><rp>)</rp></ruby>が不作で、<ruby>値<rp>(</rp><rt>ね</rt><rp>)</rp></ruby><ruby>段<rp>(</rp><rt>だん</rt><rp>)</rp></ruby>が<ruby>高<rp>(</rp><rt>たか</rt><rp>)</rp></ruby>かっただけに<ruby>今年<rp>(</rp><rt>ことし</rt><rp>)</rp></ruby>の<ruby>豊<rp>(</rp><rt>ほう</rt><rp>)</rp></ruby><ruby>作<rp>(</rp><rt>さく</rt><rp>)</rp></ruby>がうれしい。
 3. **正因为她是超级模特，所以更使许多人拥到了会场。**
 <ruby>彼<rp>(</rp><rt>かの</rt><rp>)</rp></ruby><ruby>女<rp>(</rp><rt>じょ</rt><rp>)</rp></ruby>はスーパーモデルだけに<ruby>大<rp>(</rp><rt>おお</rt><rp>)</rp></ruby><ruby>勢<rp>(</rp><rt>ぜい</rt><rp>)</rp></ruby>の<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>が<ruby>来<rp>(</rp><rt>らい</rt><rp>)</rp></ruby><ruby>場<rp>(</rp><rt>じょう</rt><rp>)</rp></ruby>した。
+
 >**用法3**：表示限于某种程度或范围。用「だけ/だけの”
 >**说明**：「尽量～」「所有～都」「～能～都～」
 
@@ -573,11 +591,11 @@ D)しかない
 2. **所有想要的，都拿回去。**
 ほしいだけ<ruby>持<rp>(</rp><rt>も</rt><rp>)</rp></ruby>って<ruby>帰<rp>(</rp><rt>かえ</rt><rp>)</rp></ruby>りなさい。
 3. **因为平时总是睡不足，所以休息天尽情地睡。**
-<ruby>普<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby><ruby>段<rp>(</rp><rt>だん</rt><rp>)</rp></ruby>はいつも寝<ruby>不<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby><ruby>足<rp>(</rp><rt>そく</rt><rp>)</rp></ruby>だから、<ruby>休<rp>(</rp><rt>やす</rt><rp>)</rp></ruby>みの<ruby>日<rp>(</rp><rt>ひ</rt><rp>)</rp></ruby>は<ruby>好<rp>(</rp><rt>す</rt><rp>)</rp></ruby>きなだけ<ruby>寝<rp>(</rp><rt>ね</rt><rp>)</rp></ruby>ている。
+<ruby>普<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby><ruby>段<rp>(</rp><rt>だん</rt><rp>)</rp></ruby>はいつも<ruby>寝<rp>(</rp><rt>ね</rt><rp>)</rp></ruby><ruby>不<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby><ruby>足<rp>(</rp><rt>そく</rt><rp>)</rp></ruby>　だから、<ruby>休<rp>(</rp><rt>やす</rt><rp>)</rp></ruby>みの<ruby>日<rp>(</rp><rt>ひ</rt><rp>)</rp></ruby>は<ruby>好<rp>(</rp><rt>す</rt><rp>)</rp></ruby>きなだけ<ruby>寝<rp>(</rp><rt>ね</rt><rp>)</rp></ruby>ている。
 4. **能考虑的都考虑了，还是没得出结论。**
 <ruby>考<rp>(</rp><rt>かんが</rt><rp>)</rp></ruby>えるだけ<ruby>考<rp>(</rp><rt>かんが</rt><rp>)</rp></ruby>えたが、<ruby>結<rp>(</rp><rt>けつ</rt><rp>)</rp></ruby><ruby>論<rp>(</rp><rt>ろん</rt><rp>)</rp></ruby>が<ruby>出<rp>(</rp><rt>で</rt><rp>)</rp></ruby>なかった。
 
-## 127.～に際して/～に際しての #7_7
+## 127. ～に際して/～に際しての #7_7
 * [[ N2_Menu_0.md | Menu #7_7 ]]
 
 >**接法**：「動詞ます形、名詞十に際して/に際しての
@@ -593,9 +611,9 @@ D)しかない
 </details>
 
 <details><summary>
-类似句<ruby>型<rp>(</rp><rt>かた</rt><rp>)</rp></ruby>：「～にあたって
+类<ruby>似<rp>(</rp><rt>に</rt><rp>)</rp></ruby>句<ruby>型<rp>(</rp><rt>かた</rt><rp>)</rp></ruby>：「～にあたって
 
-## 128.～につき #7_8
+## 128. ～につき #7_8
 * [[ N2_Menu_0.md | Menu #7_8 ]]
 
 >**接法**：「名詞+につき
@@ -609,7 +627,7 @@ D)しかない
 3. **因店内装修暂时休业。**
 <ruby>店<rp>(</rp><rt>てん</rt><rp>)</rp></ruby><ruby>内<rp>(</rp><rt>ない</rt><rp>)</rp></ruby><ruby>装<rp>(</rp><rt>そう</rt><rp>)</rp></ruby><ruby>飾<rp>(</rp><rt>しょく</rt><rp>)</rp></ruby>につき、しばらく<ruby>休<rp>(</rp><rt>きゅう</rt><rp>)</rp></ruby><ruby>業<rp>(</rp><rt>ぎょう</rt><rp>)</rp></ruby><ruby>致<rp>(</rp><rt>いた</rt><rp>)</rp></ruby>します。
 
-## 129.～にあたって/～にあたり #7_9
+## 129. ～にあたって/～にあたり #7_9
 * [[ N2_Menu_0.md | Menu #7_9 ]]
 
 >**接法**：「動詞ます形、名詞十にあたって/にあたり
@@ -617,11 +635,11 @@ D)しかない
 >**说明**：「在～之际」
 
 1. **在开业之际，让我简单地向诸位致谢。**
-<ruby>開<rp>(</rp><rt>かい</rt><rp>)</rp></ruby><ruby>業<rp>(</rp><rt>ぎょう</rt><rp>)</rp></ruby>にあたって、<ruby>一<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby><ruby>言<rp>(</rp><rt>こと</rt><rp>)</rp></ruby>ご<ruby>挨<rp>(</rp><rt>あい</rt><rp>)</rp></ruby><ruby>拶<rp>(</rp><rt>さつ</rt><rp>)</rp></ruby>を申し<ruby>上<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>げます。
+<ruby>開<rp>(</rp><rt>かい</rt><rp>)</rp></ruby><ruby>業<rp>(</rp><rt>ぎょう</rt><rp>)</rp></ruby>にあたって、<ruby>一<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby><ruby>言<rp>(</rp><rt>こと</rt><rp>)</rp></ruby>ご<ruby>挨<rp>(</rp><rt>あい</rt><rp>)</rp></ruby><ruby>拶<rp>(</rp><rt>さつ</rt><rp>)</rp></ruby>を<ruby>申<rp>(</rp><rt>もう</rt><rp>)</rp></ruby>し<ruby>上<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>げます。
 2. **在重新开张之际，实行10%的打折。**
 新装<ruby>開<rp>(</rp><rt>かい</rt><rp>)</rp></ruby><ruby>店<rp>(</rp><rt>てん</rt><rp>)</rp></ruby>にあたり、10%<ruby>割<rp>(</rp><rt>わり</rt><rp>)</rp></ruby><ruby>引<rp>(</rp><rt>びき</rt><rp>)</rp></ruby>を<ruby>実<rp>(</rp><rt>じっ</rt><rp>)</rp></ruby><ruby>施<rp>(</rp><rt>し</rt><rp>)</rp></ruby>する。
 
-## 130.～にかけては/～にかけても #7_10
+## 130. ～にかけては/～にかけても #7_10
 * [[ N2_Menu_0.md | Menu #7_10 ]]
 
 >**接法**：「名詞十にかけては/にかけても
@@ -635,7 +653,7 @@ D)しかない
 3. **他虽然是个经营者，但在烹饪方面也很擅长。**
 <ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>は<ruby>経<rp>(</rp><rt>けい</rt><rp>)</rp></ruby><ruby>営<rp>(</rp><rt>えい</rt><rp>)</rp></ruby><ruby>者<rp>(</rp><rt>もの</rt><rp>)</rp></ruby>であるが、<ruby>料<rp>(</rp><rt>りょう</rt><rp>)</rp></ruby><ruby>理<rp>(</rp><rt>り</rt><rp>)</rp></ruby>を<ruby>作<rp>(</rp><rt>つく</rt><rp>)</rp></ruby>ることにかけても<ruby>上<rp>(</rp><rt>じょう</rt><rp>)</rp></ruby><ruby>手<rp>(</rp><rt>ず</rt><rp>)</rp></ruby>だ。
 
-## 131.～にしたら/～にすれば/～にしても #7_11
+## 131. ～にしたら/～にすれば/～にしても #7_11
 * [[ N2_Menu_0.md | Menu #7_11 ]]
 
 >**接法**：「名詞+にしたら/にすれば/にしても
@@ -645,13 +663,13 @@ D)しかない
 1. **丛她的角度说，我的好意也许反而是麻烦。**
 <ruby>彼<rp>(</rp><rt>かの</rt><rp>)</rp></ruby><ruby>女<rp>(</rp><rt>じょ</rt><rp>)</rp></ruby>にしたら、<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>の<ruby>好<rp>(</rp><rt>こう</rt><rp>)</rp></ruby><ruby>意<rp>(</rp><rt>い</rt><rp>)</rp></ruby>はかえって<ruby>迷<rp>(</rp><rt>めい</rt><rp>)</rp></ruby><ruby>惑<rp>(</rp><rt>わく</rt><rp>)</rp></ruby>かもしれない。
 2. **从就业的角度说，待遇越好就越好吧。**
-<ruby>就<rp>(</rp><rt>しゅう</rt><rp>)</rp></ruby><ruby>職<rp>(</rp><rt>しょく</rt><rp>)</rp></ruby>にすれば、<ruby>待<rp>(</rp><rt>たい</rt><rp>)</rp></ruby><ruby>遇<rp>(</rp><rt>ぐう</rt><rp>)</rp></ruby>が良ければ<ruby>良<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>いほどいいだろう。
+<ruby>就<rp>(</rp><rt>しゅう</rt><rp>)</rp></ruby><ruby>職<rp>(</rp><rt>しょく</rt><rp>)</rp></ruby>にすれば、<ruby>待<rp>(</rp><rt>たい</rt><rp>)</rp></ruby><ruby>遇<rp>(</rp><rt>ぐう</rt><rp>)</rp></ruby>が<ruby>良<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>ければ<ruby>良<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>いほどいい　だろう。
 3. **丛你的角度说，也许是微乎其微，但对我来说很重要。**
 <ruby>君<rp>(</rp><rt>きみ</rt><rp>)</rp></ruby>にすれば、つまらないことかもしれないが、<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>にとって<ruby>大<rp>(</rp><rt>たい</rt><rp>)</rp></ruby><ruby>切<rp>(</rp><rt>せつ</rt><rp>)</rp></ruby>なのだ。
 4. **遵守社会秩序，从孩子的角度说也是很重要的。**
 <ruby>社<rp>(</rp><rt>しゃ</rt><rp>)</rp></ruby><ruby>会<rp>(</rp><rt>かい</rt><rp>)</rp></ruby>ルールを<ruby>守<rp>(</rp><rt>まも</rt><rp>)</rp></ruby>ることは、<ruby>小<rp>(</rp><rt>ちい</rt><rp>)</rp></ruby>さな<ruby>子<rp>(</rp><rt>こど</rt><rp>)</rp></ruby><ruby>供<rp>(</rp><rt>も</rt><rp>)</rp></ruby>にしても<ruby>大<rp>(</rp><rt>たい</rt><rp>)</rp></ruby><ruby>切<rp>(</rp><rt>せつ</rt><rp>)</rp></ruby>なんだ。
 
-## 132.～に先立って/～に先立ち/に先立つ～ #7_12
+## 132. ～に先立って/～に先立ち/に先立つ～ #7_12
 * [[ N2_Menu_0.md | Menu #7_12 ]]
 
 >**接法**：「名詞十に先立って/に先立ち/に先立つ～
@@ -663,34 +681,9 @@ D)しかない
 2. **在电影公演之前，举行了主演演员的影迷签字仪式。**
 <ruby>映<rp>(</rp><rt>えい</rt><rp>)</rp></ruby><ruby>画<rp>(</rp><rt>が</rt><rp>)</rp></ruby>の<ruby>一<rp>(</rp><rt>いっ</rt><rp>)</rp></ruby><ruby>般<rp>(</rp><rt>ぱん</rt><rp>)</rp></ruby><ruby>公<rp>(</rp><rt>こう</rt><rp>)</rp></ruby><ruby>開<rp>(</rp><rt>かい</rt><rp>)</rp></ruby>に<ruby>先<rp>(</rp><rt>さき</rt><rp>)</rp></ruby><ruby>立<rp>(</rp><rt>だ</rt><rp>)</rp></ruby>って、<ruby>主<rp>(</rp><rt>しゅ</rt><rp>)</rp></ruby><ruby>演<rp>(</rp><rt>えん</rt><rp>)</rp></ruby><ruby>俳<rp>(</rp><rt>はい</rt><rp>)</rp></ruby><ruby>優<rp>(</rp><rt>ゆう</rt><rp>)</rp></ruby>のサイン<ruby>会<rp>(</rp><rt>かい</rt><rp>)</rp></ruby>が<ruby>開<rp>(</rp><rt>ひら</rt><rp>)</rp></ruby>かれた。
 3. **在入会之前，举行了说明会。**
-<ruby>入<rp>(</rp><rt>にゅう</rt><rp>)</rp></ruby><ruby>会<rp>(</rp><rt>かい</rt><rp>)</rp></ruby>に<ruby>先<rp>(</rp><rt>さっき</rt><rp>)</rp></ruby>立ち、<ruby>説<rp>(</rp><rt>せつ</rt><rp>)</rp></ruby><ruby>明<rp>(</rp><rt>めい</rt><rp>)</rp></ruby><ruby>会<rp>(</rp><rt>かい</rt><rp>)</rp></ruby>が<ruby>行<rp>(</rp><rt>おこな</rt><rp>)</rp></ruby>われた。
+<ruby>入<rp>(</rp><rt>にゅう</rt><rp>)</rp></ruby><ruby>会<rp>(</rp><rt>かい</rt><rp>)</rp></ruby>に<ruby>先<rp>(</rp><rt>さき</rt><rp>)</rp></ruby><ruby>立<rp>(</rp><rt>だ</rt><rp>)</rp></ruby>ち、<ruby>説<rp>(</rp><rt>せつ</rt><rp>)</rp></ruby><ruby>明<rp>(</rp><rt>めい</rt><rp>)</rp></ruby><ruby>会<rp>(</rp><rt>かい</rt><rp>)</rp></ruby>が<ruby>行<rp>(</rp><rt>おこな</rt><rp>)</rp></ruby>われた。
 4. **在首脑会议之前的事务级协议里，拟定了共同宣言的草案。**
 <ruby>首<rp>(</rp><rt>しゅ</rt><rp>)</rp></ruby><ruby>脳<rp>(</rp><rt>のう</rt><rp>)</rp></ruby><ruby>会<rp>(</rp><rt>かい</rt><rp>)</rp></ruby><ruby>議<rp>(</rp><rt>ぎ</rt><rp>)</rp></ruby>に<ruby>先<rp>(</rp><rt>さき</rt><rp>)</rp></ruby><ruby>立<rp>(</rp><rt>だ</rt><rp>)</rp></ruby>つ<ruby>事<rp>(</rp><rt>じ</rt><rp>)</rp></ruby><ruby>務<rp>(</rp><rt>む</rt><rp>)</rp></ruby>レベルの<ruby>協<rp>(</rp><rt>きょう</rt><rp>)</rp></ruby><ruby>議<rp>(</rp><rt>ぎ</rt><rp>)</rp></ruby>で、<ruby>共<rp>(</rp><rt>とも</rt><rp>)</rp></ruby>同<ruby>宣<rp>(</rp><rt>せん</rt><rp>)</rp></ruby><ruby>言<rp>(</rp><rt>げん</rt><rp>)</rp></ruby>の<ruby>案<rp>(</rp><rt>あん</rt><rp>)</rp></ruby>が<ruby>作<rp>(</rp><rt>つく</rt><rp>)</rp></ruby>られた。
-
-## 133.～につけ/～につけても」A。 #7_13
-* [[ N2_Menu_0.md | Menu #7_13 ]]
-
->**接法**：「動詞ます形+につけ/につけても 
->**用法1**：表示每次遇到前项情况时，总是出现后项的情况。
->**说明**：「每当～时，总是～」前置疑问词时「无论时总是～」
-
-1. **每当看她照片时，总是很想见她。**
-<ruby>彼<rp>(</rp><rt>かの</rt><rp>)</rp></ruby><ruby>女<rp>(</rp><rt>じょ</rt><rp>)</rp></ruby>の<ruby>写<rp>(</rp><rt>しゃ</rt><rp>)</rp></ruby><ruby>真<rp>(</rp><rt>しん</rt><rp>)</rp></ruby>を<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>るにつけ、<ruby>会<rp>(</rp><rt>かい</rt><rp>)</rp></ruby>いたくてたまらない。
-2. **每当听到地震的报道时，总是感到恐惧。**
-<ruby>地<rp>(</rp><rt>じ</rt><rp>)</rp></ruby><ruby>震<rp>(</rp><rt>しん</rt><rp>)</rp></ruby>のニュースを<ruby>聞<rp>(</rp><rt>き</rt><rp>)</rp></ruby>くにつけ、恐く<ruby>感<rp>(</rp><rt>かん</rt><rp>)</rp></ruby>じる。
-3. **她是个无论遇到什么事时，总是忧虑忡忡的人。**
-<ruby>彼<rp>(</rp><rt>かの</rt><rp>)</rp></ruby><ruby>女<rp>(</rp><rt>じょ</rt><rp>)</rp></ruby>は<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby><ruby>事<rp>(</rp><rt>こと</rt><rp>)</rp></ruby>につけても<ruby>注<rp>(</rp><rt>ちゅう</rt><rp>)</rp></ruby><ruby>意<rp>(</rp><rt>い</rt><rp>)</rp></ruby><ruby>深<rp>(</rp><rt>ぶか</rt><rp>)</rp></ruby>い<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>だ。
-
->**B.接法**：「動詞、形容詞連体形+につけ、動詞、形容詞連体形+につけ」「名詞+につけ、名詞+につけ
->**用法2**：表示无论在什么场合。
->**说明**：「无论是一还是～」
-
-1. **无论是看到还是听到丈夫的成功，总是信心倍增。**
-<ruby>夫<rp>(</rp><rt>おっと</rt><rp>)</rp></ruby>の<ruby>活<rp>(</rp><rt>かつ</rt><rp>)</rp></ruby><ruby>躍<rp>(</rp><rt>やく</rt><rp>)</rp></ruby>を<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>るにつけ<ruby>聞<rp>(</rp><rt>き</rt><rp>)</rp></ruby>くにつけ、<ruby>心<rp>(</rp><rt>こころ</rt><rp>)</rp></ruby>が<ruby>強<rp>(</rp><rt>つよ</rt><rp>)</rp></ruby>くなる。
-2. **无论成绩是好还是不好，妈妈总是鼓励我。**
-<ruby>成<rp>(</rp><rt>せい</rt><rp>)</rp></ruby><ruby>績<rp>(</rp><rt>せき</rt><rp>)</rp></ruby>が<ruby>良<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>いにつけ<ruby>悪<rp>(</rp><rt>わる</rt><rp>)</rp></ruby>いにつけ、母はいつも<ruby>励<rp>(</rp><rt>はげ</rt><rp>)</rp></ruby>ましてくれる。
-3. **无论下雨还是下雪，总是担心工程的进度。**
-<ruby>雨<rp>(</rp><rt>あめ</rt><rp>)</rp></ruby>につけ<ruby>雪<rp>(</rp><rt>ゆき</rt><rp>)</rp></ruby>につけ、<ruby>工<rp>(</rp><rt>こう</rt><rp>)</rp></ruby><ruby>事<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>の<ruby>進<rp>(</rp><rt>しん</rt><rp>)</rp></ruby><ruby>度<rp>(</rp><rt>ど</rt><rp>)</rp></ruby>が<ruby>心<rp>(</rp><rt>しん</rt><rp>)</rp></ruby><ruby>配<rp>(</rp><rt>ぱい</rt><rp>)</rp></ruby>された。
 
 
 ---

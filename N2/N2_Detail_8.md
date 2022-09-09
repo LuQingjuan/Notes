@@ -1,7 +1,7 @@
 **[ [[ N2_Detail_7.md | Prev ]] ]　[ [[ ../Menu.md | Home ]] ]　[ [[ N2_Detail_9.md | Next ]] ]**
 
 ---
-## 179.～にほかならない #9_19
+## 179. ～にほかならない #9_19
 * [[ N2_Menu_0.md | Menu #9_19 ]]
 
 >**接法**：「動詞簡体十にほかならない」「名詞+にほかならない
@@ -11,13 +11,13 @@
 1. **这封信无非是向她表明了我的心情。**
 この<ruby>手<rp>(</rp><rt>て</rt><rp>)</rp></ruby><ruby>紙<rp>(</rp><rt>がみ</rt><rp>)</rp></ruby>は<ruby>彼<rp>(</rp><rt>かの</rt><rp>)</rp></ruby><ruby>女<rp>(</rp><rt>じょ</rt><rp>)</rp></ruby>に<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>の<ruby>気<rp>(</rp><rt>き</rt><rp>)</rp></ruby><ruby>持<rp>(</rp><rt>も</rt><rp>)</rp></ruby>ちを<ruby>表<rp>(</rp><rt>ひょう</rt><rp>)</rp></ruby>明したにほかならない。
 2. **战争无非是出现大量死亡者。**
-<ruby>戦<rp>(</rp><rt>せん</rt><rp>)</rp></ruby><ruby>争<rp>(</rp><rt>そう</rt><rp>)</rp></ruby>というものは<ruby>死<rp>(</rp><rt>し</rt><rp>)</rp></ruby><ruby>亡<rp>(</rp><rt>ぼう</rt><rp>)</rp></ruby><ruby>者<rp>(</rp><rt>しゃ</rt><rp>)</rp></ruby>が<ruby>大<rp>(</rp><rt>おお</rt><rp>)</rp></ruby>量<ruby>出<rp>(</rp><rt>で</rt><rp>)</rp></ruby>るにほかならない。
+<ruby>戦<rp>(</rp><rt>せん</rt><rp>)</rp></ruby><ruby>争<rp>(</rp><rt>そう</rt><rp>)</rp></ruby>　というものは<ruby>死<rp>(</rp><rt>し</rt><rp>)</rp></ruby><ruby>亡<rp>(</rp><rt>ぼう</rt><rp>)</rp></ruby><ruby>者<rp>(</rp><rt>しゃ</rt><rp>)</rp></ruby>が<ruby>大<rp>(</rp><rt>おお</rt><rp>)</rp></ruby>量<ruby>出<rp>(</rp><rt>で</rt><rp>)</rp></ruby>るにほかならない。
 3. **这次成功无非是诸位鼎力相助的结果。**
 <ruby>今<rp>(</rp><rt>こん</rt><rp>)</rp></ruby><ruby>度<rp>(</rp><rt>ど</rt><rp>)</rp></ruby><ruby>成<rp>(</rp><rt>せい</rt><rp>)</rp></ruby><ruby>功<rp>(</rp><rt>こう</rt><rp>)</rp></ruby>したのは、<ruby>皆<rp>(</rp><rt>みな</rt><rp>)</rp></ruby><ruby>様<rp>(</rp><rt>さま</rt><rp>)</rp></ruby>のご<ruby>協<rp>(</rp><rt>きょう</rt><rp>)</rp></ruby><ruby>力<rp>(</rp><rt>りょく</rt><rp>)</rp></ruby>の<ruby>結<rp>(</rp><rt>けっ</rt><rp>)</rp></ruby><ruby>果<rp>(</rp><rt>か</rt><rp>)</rp></ruby>にほかならない。
 4. **父母对孩子唠叨，无非是因为担心着孩子。**
 <ruby>親<rp>(</rp><rt>おや</rt><rp>)</rp></ruby>は<ruby>子<rp>(</rp><rt>こど</rt><rp>)</rp></ruby><ruby>供<rp>(</rp><rt>も</rt><rp>)</rp></ruby>にうるさいのは、<ruby>子<rp>(</rp><rt>こど</rt><rp>)</rp></ruby><ruby>供<rp>(</rp><rt>も</rt><rp>)</rp></ruby>を<ruby>心<rp>(</rp><rt>しん</rt><rp>)</rp></ruby><ruby>配<rp>(</rp><rt>ぱい</rt><rp>)</rp></ruby>しているからにほかならない。
 
-## 180.～てばかりはいられない #9_20
+## 180. ～てばかりはいられない #9_20
 * [[ N2_Menu_0.md | Menu #9_20 ]]
 
 >**接法**：「動詞連用形て+ばかりはいられない
@@ -25,7 +25,7 @@
 >**说明**：「不能只是～」
 
 1. **因为还不知道留学生活会怎么样，虽说签证下来了，也不能只是高兴。**
-<ruby>留<rp>(</rp><rt>りゅう</rt><rp>)</rp></ruby><ruby>学<rp>(</rp><rt>がく</rt><rp>)</rp></ruby><ruby>生<rp>(</rp><rt>せい</rt><rp>)</rp></ruby>活はどうなるかは、まだわからないから、ビザが<ruby>下<rp>(</rp><rt>お</rt><rp>)</rp></ruby>りたからといって、<ruby>喜<rp>(</rp><rt>よろこ</rt><rp>)</rp></ruby>んでばかりはいられない。
+<ruby>留<rp>(</rp><rt>りゅう</rt><rp>)</rp></ruby><ruby>学<rp>(</rp><rt>がく</rt><rp>)</rp></ruby><ruby>生<rp>(</rp><rt>せい</rt><rp>)</rp></ruby>活はどうなるかは、まだわからない　から、ビザが<ruby>下<rp>(</rp><rt>お</rt><rp>)</rp></ruby>りたからといって、<ruby>喜<rp>(</rp><rt>よろこ</rt><rp>)</rp></ruby>んでばかりはいられない。
 
 ## 单元练习 #9_21
 * [[ N2_Menu_0.md | Menu #9_21 ]]
@@ -121,7 +121,7 @@ D)っこない
     **解析**：
     ></details>
 
-8. <ruby>試<rp>(</rp><rt>し</rt><rp>)</rp></ruby><ruby>験<rp>(</rp><rt>けん</rt><rp>)</rp></ruby>はあまり<ruby>好<rp>(</rp><rt>す</rt><rp>)</rp></ruby>きではないが、<ruby>将<rp>(</rp><rt>しょう</rt><rp>)</rp></ruby><ruby>来<rp>(</rp><rt>らい</rt><rp>)</rp></ruby>のために受け_______。
+8. <ruby>試<rp>(</rp><rt>し</rt><rp>)</rp></ruby><ruby>験<rp>(</rp><rt>けん</rt><rp>)</rp></ruby>はあまり<ruby>好<rp>(</rp><rt>す</rt><rp>)</rp></ruby>きではないが、<ruby>将<rp>(</rp><rt>しょう</rt><rp>)</rp></ruby><ruby>来<rp>(</rp><rt>らい</rt><rp>)</rp></ruby>のために<ruby>受<rp>(</rp><rt>う</rt><rp>)</rp></ruby>け_______。
 A)<ruby>得<rp>(</rp><rt>え</rt><rp>)</rp></ruby>ない
 B)ようがない
 C)かねる
@@ -186,8 +186,8 @@ D)しなかった
     **解析**：
     ></details>
 
-13. これは<ruby>他<rp>(</rp><rt>た</rt><rp>)</rp></ruby><ruby>人<rp>(</rp><rt>にん</rt><rp>)</rp></ruby>のプライバシーのことだから、ここでは_______かねます。
-A)<ruby>話<rp>(</rp><rt>はなし</rt><rp>)</rp></ruby>し
+13. これは<ruby>他<rp>(</rp><rt>た</rt><rp>)</rp></ruby><ruby>人<rp>(</rp><rt>にん</rt><rp>)</rp></ruby>のプライバシーのこと　だから、ここでは_______かねます。
+A)<ruby>話<rp>(</rp><rt>はな</rt><rp>)</rp></ruby>し
 B)<ruby>話<rp>(</rp><rt>はな</rt><rp>)</rp></ruby>す
 C)<ruby>話<rp>(</rp><rt>はな</rt><rp>)</rp></ruby>さない
 D)<ruby>話<rp>(</rp><rt>はな</rt><rp>)</rp></ruby>して
@@ -277,7 +277,7 @@ D)<ruby>次<rp>(</rp><rt>し</rt><rp>)</rp></ruby><ruby>第<rp>(</rp><rt>だい<
     **解析**：
     ></details>
 
-20. 「あの<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>が<ruby>退<rp>(</rp><rt>たい</rt><rp>)</rp></ruby><ruby>職<rp>(</rp><rt>しょく</rt><rp>)</rp></ruby>するなんて<ruby>信<rp>(</rp><rt>しん</rt><rp>)</rp></ruby>じられないよ。」「だけど、あり_______ことじゃないと<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>うよ。」
+20. 「あの<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>が<ruby>退<rp>(</rp><rt>たい</rt><rp>)</rp></ruby><ruby>職<rp>(</rp><rt>しょく</rt><rp>)</rp></ruby>するなんて<ruby>信<rp>(</rp><rt>しん</rt><rp>)</rp></ruby>じられないよ。」「だけど、あり_______ことじゃない　と<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>う よ。」
 A)かねない
 B)かねる
 C)ようがない
@@ -303,7 +303,7 @@ D)ところ
     **解析**：
     ></details>
 
-22. <ruby>友<rp>(</rp><rt>とも</rt><rp>)</rp></ruby><ruby>達<rp>(</rp><rt>だち</rt><rp>)</rp></ruby>の<ruby>林<rp>(</rp><rt>はやし</rt><rp>)</rp></ruby>さんが<ruby>毎<rp>(</rp><rt>まい</rt><rp>)</rp></ruby><ruby>朝<rp>(</rp><rt>あさ</rt><rp>)</rp></ruby>ジョギングを<ruby>始<rp>(</rp><rt>はじ</rt><rp>)</rp></ruby>めた、<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>は<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>をやっても<ruby>長<rp>(</rp><rt>なが</rt><rp>)</rp></ruby><ruby>続<rp>(</rp><rt>つづ</rt><rp>)</rp></ruby>きしないので、<ruby>今<rp>(</rp><rt>こん</rt><rp>)</rp></ruby><ruby>回<rp>(</rp><rt>かい</rt><rp>)</rp></ruby>もすぐ<ruby>止<rp>(</rp><rt>や</rt><rp>)</rp></ruby>めるだろうというみんなの<ruby>想<rp>(</rp><rt>そう</rt><rp>)</rp></ruby><ruby>像<rp>(</rp><rt>ぞう</rt><rp>)</rp></ruby>_______、もう1<ruby>ヶ<rp>(</rp><rt>か</rt><rp>)</rp></ruby><ruby>月<rp>(</rp><rt>げつ</rt><rp>)</rp></ruby>も<ruby>続<rp>(</rp><rt>つづ</rt><rp>)</rp></ruby>いている。
+22. <ruby>友<rp>(</rp><rt>とも</rt><rp>)</rp></ruby><ruby>達<rp>(</rp><rt>だち</rt><rp>)</rp></ruby>の<ruby>林<rp>(</rp><rt>りん</rt><rp>)</rp></ruby>さんが<ruby>毎<rp>(</rp><rt>まい</rt><rp>)</rp></ruby><ruby>朝<rp>(</rp><rt>あさ</rt><rp>)</rp></ruby>ジョギングを<ruby>始<rp>(</rp><rt>はじ</rt><rp>)</rp></ruby>めた、<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>は<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>をやっても<ruby>長<rp>(</rp><rt>なが</rt><rp>)</rp></ruby><ruby>続<rp>(</rp><rt>つづ</rt><rp>)</rp></ruby>きしないので、<ruby>今<rp>(</rp><rt>こん</rt><rp>)</rp></ruby><ruby>回<rp>(</rp><rt>かい</rt><rp>)</rp></ruby>もすぐ<ruby>止<rp>(</rp><rt>や</rt><rp>)</rp></ruby>めるだろう　というみんなの<ruby>想<rp>(</rp><rt>そう</rt><rp>)</rp></ruby><ruby>像<rp>(</rp><rt>ぞう</rt><rp>)</rp></ruby>_______、もう1<ruby>ヶ<rp>(</rp><rt>か</rt><rp>)</rp></ruby><ruby>月<rp>(</rp><rt>げつ</rt><rp>)</rp></ruby>も<ruby>続<rp>(</rp><rt>つづ</rt><rp>)</rp></ruby>いている。
 A)に反して
 B)に反した
 C)に反する

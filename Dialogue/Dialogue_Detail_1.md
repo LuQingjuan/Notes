@@ -12,7 +12,7 @@
 <ruby>部<rp>(</rp><rt>ぶ</rt><rp>)</rp></ruby><ruby>長<rp>(</rp><rt>ちょう</rt><rp>)</rp></ruby>、<ruby>出<rp>(</rp><rt>しゅっ</rt><rp>)</rp></ruby><ruby>張<rp>(</rp><rt>ちょう</rt><rp>)</rp></ruby>　お<ruby>疲<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>れ<ruby>様<rp>(</rp><rt>よう</rt><rp>)</rp></ruby>でした。
 
 **部長：木村你来接我谢谢。我本来应该1点从西雅图出发的，但是却晚点了。**
-<ruby>木<rp>(</rp><rt>き</rt><rp>)</rp></ruby><ruby>村<rp>(</rp><rt>むら</rt><rp>)</rp></ruby>くん、<ruby>迎<rp>(</rp><rt>むか</rt><rp>)</rp></ruby>えに　来てくれて　ありがとう。<ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby><ruby>当<rp>(</rp><rt>とう</rt><rp>)</rp></ruby>は　シアトルを　<ruby>一<rp>(</rp><rt>いち</rt><rp>)</rp></ruby><ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>に　<ruby>出<rp>(</rp><rt>で</rt><rp>)</rp></ruby>る　はずだったんだ　けど、<ruby>遅<rp>(</rp><rt>おそ</rt><rp>)</rp></ruby>れちゃって　ね。
+<ruby>木<rp>(</rp><rt>き</rt><rp>)</rp></ruby><ruby>村<rp>(</rp><rt>むら</rt><rp>)</rp></ruby>くん、<ruby>迎<rp>(</rp><rt>むか</rt><rp>)</rp></ruby>えに　来てくれて　ありがとう。<ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby><ruby>当<rp>(</rp><rt>とう</rt><rp>)</rp></ruby>は　シアトルを　<ruby>一<rp>(</rp><rt>いち</rt><rp>)</rp></ruby><ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>に　<ruby>出<rp>(</rp><rt>で</rt><rp>)</rp></ruby>る　はずだったんだ　けど、<ruby>遅<rp>(</rp><rt>おく</rt><rp>)</rp></ruby>れちゃって　ね。
 
 **たけし：那您累了吧。**
 じゃあ、お<ruby>疲<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>れになった　でしょう。
@@ -34,13 +34,13 @@
 <ruby>二人<rp>(</rp><rt>ふたり</rt><rp>)</rp></ruby>です。
 
 **ウエートレス：吸烟吗?**
-おタバコを　お吸いに　なりますか。
+おタバコを　お<ruby>吸<rp>(</rp><rt>す</rt><rp>)</rp></ruby>いに　なりますか。
 
 **部長：不吸。**
 いいえ。
 
 **ウエートレス：请到这边，您决定好了请叫我。**
-こちらへ　どうぞ。お<ruby>決<rp>(</rp><rt>き</rt><rp>)</rp></ruby>まりに　なりまし　たら、お呼び　ください。
+こちらへ　どうぞ。お<ruby>決<rp>(</rp><rt>き</rt><rp>)</rp></ruby>まりに　なりまし　たら、お<ruby>呼<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>び　ください。
 
 **在部长家门前**
 **部長：谢谢你把我一直送回家。**
@@ -59,7 +59,7 @@
 この<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby><ruby>間<rp>(</rp><rt>かん</rt><rp>)</rp></ruby>なら　まで<ruby>起<rp>(</rp><rt>お</rt><rp>)</rp></ruby>きている　はずだよ。
 
 **たけし：不过，今天就不打扰了，请向您夫人问好。**
-でも、<ruby>今日<rp>(</rp><rt>きょう</rt><rp>)</rp></ruby>は　<ruby>遠<rp>(</rp><rt>えん</rt><rp>)</rp></ruby><ruby>慮<rp>(</rp><rt>りょ</rt><rp>)</rp></ruby>して　おきます。<ruby>奥<rp>(</rp><rt>おく</rt><rp>)</rp></ruby><ruby>様<rp>(</rp><rt>さま</rt><rp>)</rp></ruby>に　よろしく　お伝え　ください。
+でも、<ruby>今日<rp>(</rp><rt>きょう</rt><rp>)</rp></ruby>は　<ruby>遠<rp>(</rp><rt>えん</rt><rp>)</rp></ruby><ruby>慮<rp>(</rp><rt>りょ</rt><rp>)</rp></ruby>して　おきます。<ruby>奥<rp>(</rp><rt>おく</rt><rp>)</rp></ruby><ruby>様<rp>(</rp><rt>さま</rt><rp>)</rp></ruby>に　よろしく　お<ruby>伝<rp>(</rp><rt>つた</rt><rp>)</rp></ruby>え　ください。
 
 ---
 ## 第20课　メアリーさんの買い物・玛丽购物 #0_17
@@ -73,7 +73,7 @@
 すみません。この<ruby>間<rp>(</rp><rt>あいだ</rt><rp>)</rp></ruby>　このウォークマンを　<ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>ったんですが、<ruby>音<rp>(</rp><rt>おと</rt><rp>)</rp></ruby>が　<ruby>聞<rp>(</rp><rt>き</rt><rp>)</rp></ruby>こえないんです。
 
 **店員：请您稍候我立刻去找负责人。**
-<ruby>少<rp>(</rp><rt>しょう</rt><rp>)</rp></ruby><ruby>々<rp>(</rp><rt>しょう</rt><rp>)</rp></ruby>、お待ちください。<ruby>今<rp>(</rp><rt>いま</rt><rp>)</rp></ruby>、<ruby>係<rp>(</rp><rt>かかり</rt><rp>)</rp></ruby>の<ruby>者<rp>(</rp><rt>もの</rt><rp>)</rp></ruby>を　<ruby>呼<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>んで<ruby>参<rp>(</rp><rt>まい</rt><rp>)</rp></ruby>ります。
+<ruby>少<rp>(</rp><rt>しょう</rt><rp>)</rp></ruby><ruby>々<rp>(</rp><rt>しょう</rt><rp>)</rp></ruby>、お<ruby>待<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>ちください。<ruby>今<rp>(</rp><rt>いま</rt><rp>)</rp></ruby>、<ruby>係<rp>(</rp><rt>かかり</rt><rp>)</rp></ruby>の<ruby>者<rp>(</rp><rt>もの</rt><rp>)</rp></ruby>を　<ruby>呼<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>んで<ruby>参<rp>(</rp><rt>まい</rt><rp>)</rp></ruby>ります。
 
 **田中：让您久等了，我叫田中，给我看一下随身听好吗?......好像是坏了。对不起，如果您愿意，我们给您换一个。**
 お<ruby>待<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>たせ　いたしました。<ruby>田<rp>(</rp><rt>た</rt><rp>)</rp></ruby><ruby>中<rp>(</rp><rt>なか</rt><rp>)</rp></ruby>と　<ruby>申<rp>(</rp><rt>もう</rt><rp>)</rp></ruby>します。ウォークマンを　<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>せて　いただけますか。……<ruby>壊<rp>(</rp><rt>こわ</rt><rp>)</rp></ruby>れている　みたいですね。<ruby>失<rp>(</rp><rt>しつ</rt><rp>)</rp></ruby><ruby>礼<rp>(</rp><rt>れい</rt><rp>)</rp></ruby>　いたしました。よろしたっ　たら、<ruby>交<rp>(</rp><rt>こう</rt><rp>)</rp></ruby><ruby>換<rp>(</rp><rt>かん</rt><rp>)</rp></ruby>　いたしますが。
@@ -95,7 +95,7 @@
 すみません。にしき<ruby>屋<rp>(</rp><rt>や</rt><rp>)</rp></ruby>と　ういう<ruby>店<rp>(</rp><rt>みせ</rt><rp>)</rp></ruby>は　どこに　あるか　<ruby>教<rp>(</rp><rt>おし</rt><rp>)</rp></ruby>えて　いただけ　ませんか。<ruby>地<rp>(</rp><rt>ち</rt><rp>)</rp></ruby><ruby>図<rp>(</rp><rt>ず</rt><rp>)</rp></ruby>が　あるんです　けど、わかり　にくいんです。
 
 **おじいさん：是一家卖扇子的店吧。在前面的拐弯处往左一拐就能看到了，你要去买扇子吗?**
-<ruby>扇<rp>(</rp><rt>せん</rt><rp>)</rp></ruby><ruby>子<rp>(</rp><rt>す</rt><rp>)</rp></ruby>の　<ruby>店<rp>(</rp><rt>みせ</rt><rp>)</rp></ruby>ですね。<ruby>次<rp>(</rp><rt>つぎ</rt><rp>)</rp></ruby>の<ruby>角<rp>(</rp><rt>つの</rt><rp>)</rp></ruby>を　<ruby>左<rp>(</rp><rt>ひだり</rt><rp>)</rp></ruby>に　<ruby>曲<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>がったら　<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>えますよ。<ruby>扇<rp>(</rp><rt>せん</rt><rp>)</rp></ruby><ruby>子<rp>(</rp><rt>す</rt><rp>)</rp></ruby>を　買いに　<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>くん　ですか。
+<ruby>扇<rp>(</rp><rt>せん</rt><rp>)</rp></ruby><ruby>子<rp>(</rp><rt>す</rt><rp>)</rp></ruby>の　<ruby>店<rp>(</rp><rt>みせ</rt><rp>)</rp></ruby>ですね。<ruby>次<rp>(</rp><rt>つぎ</rt><rp>)</rp></ruby>の<ruby>角<rp>(</rp><rt>つの</rt><rp>)</rp></ruby>を　<ruby>左<rp>(</rp><rt>ひだり</rt><rp>)</rp></ruby>に　<ruby>曲<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>がったら　<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>えますよ。<ruby>扇<rp>(</rp><rt>せん</rt><rp>)</rp></ruby><ruby>子<rp>(</rp><rt>す</rt><rp>)</rp></ruby>を　<ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>いに　<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>くん　ですか。
 
 **メアリー：是的。我想买扇子作礼物。**
 ええ。おみやげに　<ruby>扇<rp>(</rp><rt>せん</rt><rp>)</rp></ruby><ruby>子<rp>(</rp><rt>す</rt><rp>)</rp></ruby>を　<ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>おう　と<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>っているんです。
@@ -104,13 +104,13 @@
 いい　おみやげに　なりますよ。おや、<ruby>雨<rp>(</rp><rt>あめ</rt><rp>)</rp></ruby>ですね。かさを　<ruby>持<rp>(</rp><rt>も</rt><rp>)</rp></ruby>っていますか。
 
 **メアリー：没有，太着急了，忘带伞了。**
-いいえ。<ruby>急<rp>(</rp><rt>きゅう</rt><rp>)</rp></ruby>いで　いたから、かさを　持た　ないで、きちゃったんです。
+いいえ。<ruby>急<rp>(</rp><rt>きゅう</rt><rp>)</rp></ruby>いで　いたから、かさを　<ruby>持<rp>(</rp><rt>も</rt><rp>)</rp></ruby>た　ないで、きちゃったんです。
 
 **おじいさん：那我们一起去那家店吧。**
 じゃあ、<ruby>一<rp>(</rp><rt>いっ</rt><rp>)</rp></ruby><ruby>緒<rp>(</rp><rt>しょ</rt><rp>)</rp></ruby>に　<ruby>店<rp>(</rp><rt>みせ</rt><rp>)</rp></ruby>まで　<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きましょう。
 
 **メアリー：真不好意思，您的包好像挺重的，我来拿吧。**
-どうも　すみません。<ruby>荷<rp>(</rp><rt>に</rt><rp>)</rp></ruby><ruby>物<rp>(</rp><rt>もつ</rt><rp>)</rp></ruby>が　<ruby>重<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>そう　ですね。お持ちします。
+どうも　すみません。<ruby>荷<rp>(</rp><rt>に</rt><rp>)</rp></ruby><ruby>物<rp>(</rp><rt>もつ</rt><rp>)</rp></ruby>が　<ruby>重<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>そう　ですね。お<ruby>持<rp>(</rp><rt>も</rt><rp>)</rp></ruby>ちします。
 
 **おじいさん：谢谢。**
 ありがとう。
@@ -171,7 +171,7 @@
 それから、かざを　<ruby>新<rp>(</rp><rt>あたら</rt><rp>)</rp></ruby>しくしました　から、どうぞ。<ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby><ruby>当<rp>(</rp><rt>とう</rt><rp>)</rp></ruby>に<ruby>大<rp>(</rp><rt>たい</rt><rp>)</rp></ruby><ruby>変<rp>(</rp><rt>へん</rt><rp>)</rp></ruby>でしたね。
 
 **ジョン：是啊，不过，因此也有不少令我高兴的事情，例如：大家给我送各种东西，请我吃饭等等。**
-ええ。でも、そのおかげで、いいことも　ありました。みんな　いろいろな<ruby>物<rp>(</rp><rt>もの</rt><rp>)</rp></ruby>をくれたり、おごってくれたり　したんです。
+ええ。でも、そのおかげで、いいことも　ありました。みんな　いろいろな　<ruby>物<rp>(</rp><rt>もの</rt><rp>)</rp></ruby>をくれたり、おごってくれたり　したんです。
 
 **大家：约翰，仰真幸运有这么多好朋友。**
 ジョンさんは、いい<ruby>友<rp>(</rp><rt>とも</rt><rp>)</rp></ruby>だちが　たくさんいて、<ruby>幸<rp>(</rp><rt>しあわ</rt><rp>)</rp></ruby>せですね。
@@ -197,7 +197,7 @@
 <ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>、<ruby>別<rp>(</rp><rt>べつ</rt><rp>)</rp></ruby>にいい<ruby>大<rp>(</rp><rt>だい</rt><rp>)</rp></ruby><ruby>学<rp>(</rp><rt>がく</rt><rp>)</rp></ruby>に　<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>けなくてもいい。
 
 **お母さん：爸爸妈妈想让你进好大学。妈妈家里穷，所以没让我上大学。**
-お<ruby>父<rp>(</rp><rt>とう</rt><rp>)</rp></ruby>さんと　お<ruby>母<rp>(</rp><rt>かあ</rt><rp>)</rp></ruby>さんは　あなたを　いい<ruby>大<rp>(</rp><rt>だい</rt><rp>)</rp></ruby><ruby>学<rp>(</rp><rt>がく</rt><rp>)</rp></ruby>に　<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>かせてあげたいの。お<ruby>母<rp>(</rp><rt>かあ</rt><rp>)</rp></ruby>さんのうちは　<ruby>貧<rp>(</rp><rt>びん</rt><rp>)</rp></ruby><ruby>乏<rp>(</rp><rt>ぼう</rt><rp>)</rp></ruby>だった　から、<ruby>大<rp>(</rp><rt>だい</rt><rp>)</rp></ruby><ruby>学<rp>(</rp><rt>がく</rt><rp>)</rp></ruby>に<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>かせて　くれなかったのよ。
+お<ruby>父<rp>(</rp><rt>とう</rt><rp>)</rp></ruby>さんと　お<ruby>母<rp>(</rp><rt>かあ</rt><rp>)</rp></ruby>さんは　あなたを　いい<ruby>大<rp>(</rp><rt>だい</rt><rp>)</rp></ruby><ruby>学<rp>(</rp><rt>がく</rt><rp>)</rp></ruby>に　<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>かせて　あげたいの。お<ruby>母<rp>(</rp><rt>かあ</rt><rp>)</rp></ruby>さんのうちは　<ruby>貧<rp>(</rp><rt>びん</rt><rp>)</rp></ruby><ruby>乏<rp>(</rp><rt>ぼう</rt><rp>)</rp></ruby>だった　から、<ruby>大<rp>(</rp><rt>だい</rt><rp>)</rp></ruby><ruby>学<rp>(</rp><rt>がく</rt><rp>)</rp></ruby>に<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>かせて　くれなかったのよ。
 
 **ゆみ：知道了，知道了。我已经听了好多遍了。**
 わかった、わかった。その<ruby>話<rp>(</rp><rt>はなし</rt><rp>)</rp></ruby>、もう　<ruby>何<rp>(</rp><rt>なん</rt><rp>)</rp></ruby><ruby>度<rp>(</rp><rt>ど</rt><rp>)</rp></ruby>も<ruby>聞<rp>(</rp><rt>き</rt><rp>)</rp></ruby>いた。
@@ -315,7 +315,7 @@
 <ruby>客<rp>(</rp><rt>きゃく</rt><rp>)</rp></ruby>: このパンはいくらですか。
 
 **店员:定价是100日元，减价30%，现在是 70 日元。**
-<ruby>店<rp>(</rp><rt>みせ</rt><rp>)</rp></ruby>员:<ruby>定<rp>(</rp><rt>てい</rt><rp>)</rp></ruby><ruby>価<rp>(</rp><rt>か</rt><rp>)</rp></ruby>は100<ruby>円<rp>(</rp><rt>まる</rt><rp>)</rp></ruby>ですが、30%引きですから、70<ruby>円<rp>(</rp><rt>まる</rt><rp>)</rp></ruby>です。
+<ruby>店<rp>(</rp><rt>みせ</rt><rp>)</rp></ruby>员:<ruby>定<rp>(</rp><rt>てい</rt><rp>)</rp></ruby><ruby>価<rp>(</rp><rt>か</rt><rp>)</rp></ruby>は100<ruby>円<rp>(</rp><rt>まる</rt><rp>)</rp></ruby>ですが、30%<ruby>引<rp>(</rp><rt>ひ</rt><rp>)</rp></ruby>きですから、70<ruby>円<rp>(</rp><rt>まる</rt><rp>)</rp></ruby>です。
 
 **顾客:好的。**
 <ruby>客<rp>(</rp><rt>きゃく</rt><rp>)</rp></ruby>: わかりました。
@@ -364,7 +364,7 @@
 しかし、<ruby>結<rp>(</rp><rt>けっ</rt><rp>)</rp></ruby><ruby>局<rp>(</rp><rt>きょく</rt><rp>)</rp></ruby><ruby>二<rp>(</rp><rt>ふた</rt><rp>)</rp></ruby>つも<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べられずに<ruby>捨<rp>(</rp><rt>す</rt><rp>)</rp></ruby>ててしまうこともあるのではないか。
 
 **如果能以这种方式出售的话，难道就不能为顾客从一开始就把价格减半吗。**
-こんな売り<ruby>方<rp>(</rp><rt>ほう</rt><rp>)</rp></ruby>ができるのなら、<ruby>客<rp>(</rp><rt>きゃく</rt><rp>)</rp></ruby>のために初めから值段を<ruby>半<rp>(</rp><rt>はん</rt><rp>)</rp></ruby><ruby>分<rp>(</rp><rt>ぶん</rt><rp>)</rp></ruby>にできないものだろうか。
+こんな<ruby>売<rp>(</rp><rt>う</rt><rp>)</rp></ruby>り<ruby>方<rp>(</rp><rt>ほう</rt><rp>)</rp></ruby>ができるのなら、<ruby>客<rp>(</rp><rt>きゃく</rt><rp>)</rp></ruby>のために初めから值段を<ruby>半<rp>(</rp><rt>はん</rt><rp>)</rp></ruby><ruby>分<rp>(</rp><rt>ぶん</rt><rp>)</rp></ruby>にできないものだろうか。
 
 ---
 ## 実用会話「バスに乗る」对话的读音 #0_23
@@ -401,7 +401,7 @@
 ![](src/shanghai_2.JPG)
 
 **佐藤：小李，在上海，晚上，女性即便一个人乘出租车也很安全吗？**
-李さん、<ruby>上<rp>(</rp><rt>しゃん</rt><rp>)</rp></ruby><ruby>海<rp>(</rp><rt>はい</rt><rp>)</rp></ruby>では<ruby>夜<rp>(</rp><rt>よる</rt><rp>)</rp></ruby><ruby>女<rp>(</rp><rt>じょ</rt><rp>)</rp></ruby><ruby>性<rp>(</rp><rt>せい</rt><rp>)</rp></ruby>が<ruby>一人<rp>(</rp><rt>ひとり</rt><rp>)</rp></ruby>でタクシーに<ruby>乗<rp>(</rp><rt>の</rt><rp>)</rp></ruby>っても<ruby>平<rp>(</rp><rt>へい</rt><rp>)</rp></ruby><ruby>気<rp>(</rp><rt>き</rt><rp>)</rp></ruby>ですか。
+<ruby>李<rp>(</rp><rt>り</rt><rp>)</rp></ruby>さん、<ruby>上<rp>(</rp><rt>しゃん</rt><rp>)</rp></ruby><ruby>海<rp>(</rp><rt>はい</rt><rp>)</rp></ruby>では<ruby>夜<rp>(</rp><rt>よる</rt><rp>)</rp></ruby><ruby>女<rp>(</rp><rt>じょ</rt><rp>)</rp></ruby><ruby>性<rp>(</rp><rt>せい</rt><rp>)</rp></ruby>が<ruby>一人<rp>(</rp><rt>ひとり</rt><rp>)</rp></ruby>でタクシーに<ruby>乗<rp>(</rp><rt>の</rt><rp>)</rp></ruby>っても<ruby>平<rp>(</rp><rt>へい</rt><rp>)</rp></ruby><ruby>気<rp>(</rp><rt>き</rt><rp>)</rp></ruby>ですか。
 
 **李　：在市里面的话没有关系的哟，但是，最好还是乘大公司的出租车。东京的话怎么样呢？**
 <ruby>市<rp>(</rp><rt>し</rt><rp>)</rp></ruby><ruby>内<rp>(</rp><rt>うち</rt><rp>)</rp></ruby>なら<ruby>大<rp>(</rp><rt>だい</rt><rp>)</rp></ruby><ruby>丈<rp>(</rp><rt>じょう</rt><rp>)</rp></ruby><ruby>夫<rp>(</rp><rt>ぶ</rt><rp>)</rp></ruby>ですよ。ただ、やはり<ruby>大<rp>(</rp><rt>おお</rt><rp>)</rp></ruby><ruby>手<rp>(</rp><rt>て</rt><rp>)</rp></ruby>のタクシーに<ruby>乗<rp>(</rp><rt>の</rt><rp>)</rp></ruby>った<ruby>方<rp>(</rp><rt>ほう</rt><rp>)</rp></ruby>が<ruby>無<rp>(</rp><rt>ぶ</rt><rp>)</rp></ruby><ruby>難<rp>(</rp><rt>なん</rt><rp>)</rp></ruby>ですね。<ruby>東<rp>(</rp><rt>とう</rt><rp>)</rp></ruby><ruby>京<rp>(</rp><rt>きょう</rt><rp>)</rp></ruby>ではどうですか。
@@ -435,7 +435,7 @@
 ![](src/denwa_2.JPG)
 
 **顾客:对不起。我想打国际电话，请告诉我怎么打。**
-<ruby>客<rp>(</rp><rt>きゃく</rt><rp>)</rp></ruby>：すみません。<ruby>国<rp>(</rp><rt>こく</rt><rp>)</rp></ruby><ruby>際<rp>(</rp><rt>さい</rt><rp>)</rp></ruby><ruby>電<rp>(</rp><rt>でん</rt><rp>)</rp></ruby><ruby>話<rp>(</rp><rt>わ</rt><rp>)</rp></ruby>をかけたいのですが、掛け<ruby>方<rp>(</rp><rt>ほう</rt><rp>)</rp></ruby>を<ruby>教<rp>(</rp><rt>おし</rt><rp>)</rp></ruby>えてください。
+<ruby>客<rp>(</rp><rt>きゃく</rt><rp>)</rp></ruby>：すみません。<ruby>国<rp>(</rp><rt>こく</rt><rp>)</rp></ruby><ruby>際<rp>(</rp><rt>さい</rt><rp>)</rp></ruby><ruby>電<rp>(</rp><rt>でん</rt><rp>)</rp></ruby><ruby>話<rp>(</rp><rt>わ</rt><rp>)</rp></ruby>をかけたいのですが、<ruby>掛<rp>(</rp><rt>か</rt><rp>)</rp></ruby>け<ruby>方<rp>(</rp><rt>ほう</rt><rp>)</rp></ruby>を<ruby>教<rp>(</rp><rt>おし</rt><rp>)</rp></ruby>えてください。
 
 **前台:首先，请按0，这样做了的话，就能打外线了。之后，拨号。**
 フロント：まず、０を<ruby>押<rp>(</rp><rt>お</rt><rp>)</rp></ruby>してください。そうしますと、<ruby>外<rp>(</rp><rt>よそ</rt><rp>)</rp></ruby><ruby>線<rp>(</rp><rt>せん</rt><rp>)</rp></ruby>が<ruby>掛<rp>(</rp><rt>か</rt><rp>)</rp></ruby>けられるようになります。その<ruby>後<rp>(</rp><rt>のち</rt><rp>)</rp></ruby>ダイヤルします。
@@ -450,13 +450,13 @@
 <ruby>客<rp>(</rp><rt>きゃく</rt><rp>)</rp></ruby>：わかぃました。ありがどうございます。
 
 **前台:顾客，如果不着急的话，使用国际电话卡打怎么样？因为通话费用相当划算，在酒店内的自动售货机上也可以购买。**
-フロント：お<ruby>客<rp>(</rp><rt>きゃく</rt><rp>)</rp></ruby><ruby>様<rp>(</rp><rt>よう</rt><rp>)</rp></ruby>、もしお<ruby>急<rp>(</rp><rt>きゅう</rt><rp>)</rp></ruby>ぎでないようでしたら、<ruby>国<rp>(</rp><rt>こく</rt><rp>)</rp></ruby><ruby>際<rp>(</rp><rt>さい</rt><rp>)</rp></ruby><ruby>電<rp>(</rp><rt>でん</rt><rp>)</rp></ruby><ruby>話<rp>(</rp><rt>わ</rt><rp>)</rp></ruby>カードをお<ruby>使<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>いになってお掛けになったらいかがですか。<ruby>通<rp>(</rp><rt>つう</rt><rp>)</rp></ruby><ruby>話<rp>(</rp><rt>わ</rt><rp>)</rp></ruby><ruby>料<rp>(</rp><rt>りょう</rt><rp>)</rp></ruby><ruby>金<rp>(</rp><rt>きん</rt><rp>)</rp></ruby>がかなりお<ruby>得<rp>(</rp><rt>とく</rt><rp>)</rp></ruby>になりますし、ホテル<ruby>内<rp>(</rp><rt>うち</rt><rp>)</rp></ruby>の<ruby>自<rp>(</rp><rt>じ</rt><rp>)</rp></ruby><ruby>動<rp>(</rp><rt>どう</rt><rp>)</rp></ruby><ruby>販<rp>(</rp><rt>はん</rt><rp>)</rp></ruby><ruby>売<rp>(</rp><rt>ばい</rt><rp>)</rp></ruby><ruby>機<rp>(</rp><rt>き</rt><rp>)</rp></ruby>でもお買求めいただけますから。
+フロント：お<ruby>客<rp>(</rp><rt>きゃく</rt><rp>)</rp></ruby><ruby>様<rp>(</rp><rt>よう</rt><rp>)</rp></ruby>、もしお<ruby>急<rp>(</rp><rt>きゅう</rt><rp>)</rp></ruby>ぎでないようでしたら、<ruby>国<rp>(</rp><rt>こく</rt><rp>)</rp></ruby><ruby>際<rp>(</rp><rt>さい</rt><rp>)</rp></ruby><ruby>電<rp>(</rp><rt>でん</rt><rp>)</rp></ruby><ruby>話<rp>(</rp><rt>わ</rt><rp>)</rp></ruby>カードをお<ruby>使<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>いになってお<ruby>掛<rp>(</rp><rt>か</rt><rp>)</rp></ruby>けになったらいかがですか。<ruby>通<rp>(</rp><rt>つう</rt><rp>)</rp></ruby><ruby>話<rp>(</rp><rt>わ</rt><rp>)</rp></ruby><ruby>料<rp>(</rp><rt>りょう</rt><rp>)</rp></ruby><ruby>金<rp>(</rp><rt>きん</rt><rp>)</rp></ruby>がかなりお<ruby>得<rp>(</rp><rt>え</rt><rp>)</rp></ruby>になりますし、ホテル<ruby>内<rp>(</rp><rt>うち</rt><rp>)</rp></ruby>の<ruby>自<rp>(</rp><rt>じ</rt><rp>)</rp></ruby><ruby>動<rp>(</rp><rt>どう</rt><rp>)</rp></ruby><ruby>販<rp>(</rp><rt>はん</rt><rp>)</rp></ruby><ruby>売<rp>(</rp><rt>ばい</rt><rp>)</rp></ruby><ruby>機<rp>(</rp><rt>き</rt><rp>)</rp></ruby>でもお買<ruby>求<rp>(</rp><rt>もと</rt><rp>)</rp></ruby>めいただけますから。
 
 **顾客:不麻烦吗？**
 <ruby>客<rp>(</rp><rt>きゃく</rt><rp>)</rp></ruby>：<ruby>面<rp>(</rp><rt>めん</rt><rp>)</rp></ruby><ruby>倒<rp>(</rp><rt>どう</rt><rp>)</rp></ruby>ではないですか。
 
 **前台:是的，只要输入密码就可以打了。**
-フロント：ええ、<ruby>暗<rp>(</rp><rt>くら</rt><rp>)</rp></ruby><ruby>証<rp>(</rp><rt>あかし</rt><rp>)</rp></ruby><ruby>番<rp>(</rp><rt>ばん</rt><rp>)</rp></ruby><ruby>号<rp>(</rp><rt>ごう</rt><rp>)</rp></ruby><ruby>等<rp>(</rp><rt>など</rt><rp>)</rp></ruby>を<ruby>入<rp>(</rp><rt>にゅう</rt><rp>)</rp></ruby><ruby>力<rp>(</rp><rt>りょく</rt><rp>)</rp></ruby>するだけでお掛けになれます。
+フロント：ええ、<ruby>暗<rp>(</rp><rt>くら</rt><rp>)</rp></ruby><ruby>証<rp>(</rp><rt>あかし</rt><rp>)</rp></ruby><ruby>番<rp>(</rp><rt>ばん</rt><rp>)</rp></ruby><ruby>号<rp>(</rp><rt>ごう</rt><rp>)</rp></ruby><ruby>等<rp>(</rp><rt>など</rt><rp>)</rp></ruby>を<ruby>入<rp>(</rp><rt>にゅう</rt><rp>)</rp></ruby><ruby>力<rp>(</rp><rt>りょく</rt><rp>)</rp></ruby>するだけでお<ruby>掛<rp>(</rp><rt>か</rt><rp>)</rp></ruby>けになれます。
 
 **顾客:是吗？谢谢您的好意。那种卡在发传真时也能用吗？**
 <ruby>客<rp>(</rp><rt>きゃく</rt><rp>)</rp></ruby>：そうですか。ご<ruby>親<rp>(</rp><rt>しん</rt><rp>)</rp></ruby><ruby>切<rp>(</rp><rt>せつ</rt><rp>)</rp></ruby>にありがとうございます。そのカードは、ファックスを<ruby>送<rp>(</rp><rt>そう</rt><rp>)</rp></ruby><ruby>信<rp>(</rp><rt>し</rt><rp>)</rp></ruby>する<ruby>際<rp>(</rp><rt>さい</rt><rp>)</rp></ruby>にも<ruby>使<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>えますか。
