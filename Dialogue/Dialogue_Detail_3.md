@@ -142,13 +142,13 @@ A: すみません、シャッターを　<ruby>押<rp>(</rp><rt>お</rt><rp>)</
 B: いいですよ。どこを　<ruby>押<rp>(</rp><rt>お</rt><rp>)</rp></ruby>せば　いいん　ですか。
 
 **A:按这个钮就可以，请把那边的山作为背景拍进去。**
-A: ここのボタンを　<ruby>押<rp>(</rp><rt>お</rt><rp>)</rp></ruby>す　だけで　ОKです。バックに　<ruby>向<rp>(</rp><rt>む</rt><rp>)</rp></ruby>こうの<ruby>山<rp>(</rp><rt>やま</rt><rp>)</rp></ruby>を　<ruby>入<rp>(</rp><rt>い</rt><rp>)</rp></ruby>れる　ようにして　もらえますか。
+A: ここのボタンを　<ruby>押<rp>(</rp><rt>お</rt><rp>)</rp></ruby>す　だけで　ОKです。バックに　<ruby>向<rp>(</rp><rt>む</rt><rp>)</rp></ruby>こうの<ruby>山<rp>(</rp><rt>やま</rt><rp>)</rp></ruby>を　<ruby>入<rp>(</rp><rt>い</rt><rp>)</rp></ruby>れる　ように　して　もらえますか。
 
 **B:好的，请稍微往中间靠一些。逆光没关系吗?**
 B: わかりました。もう　<ruby>少<rp>(</rp><rt>すこ</rt><rp>)</rp></ruby>し　<ruby>真<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>ん<ruby>中<rp>(</rp><rt>なか</rt><rp>)</rp></ruby>に　<ruby>寄<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>って　もらえますか。それと　<ruby>逆<rp>(</rp><rt>ぎゃっ</rt><rp>)</rp></ruby><ruby>光<rp>(</rp><rt>こう</rt><rp>)</rp></ruby>ですが、<ruby>大<rp>(</rp><rt>だい</rt><rp>)</rp></ruby><ruby>丈<rp>(</rp><rt>じょう</rt><rp>)</rp></ruby><ruby>夫<rp>(</rp><rt>ぶ</rt><rp>)</rp></ruby>ですか。
 
 **A:这样能拍进去吗?如果逆光的话，请稍微靠右一点拍，可以吗?**
-A: このくらいで　<ruby>収<rp>(</rp><rt>おさ</rt><rp>)</rp></ruby>まりますか。それと　<ruby>逆<rp>(</rp><rt>ぎゃっ</rt><rp>)</rp></ruby><ruby>光<rp>(</rp><rt>こう</rt><rp>)</rp></ruby>で　したら、<ruby>少<rp>(</rp><rt>すこ</rt><rp>)</rp></ruby>し　<ruby>右<rp>(</rp><rt>みぎ</rt><rp>)</rp></ruby>に　<ruby>寄<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>って、<ruby>撮<rp>(</rp><rt>と</rt><rp>)</rp></ruby>って　<ruby>頂<rp>(</rp><rt>いただ</rt><rp>)</rp></ruby>いても　<ruby>宜<rp>(</rp><rt>よろ</rt><rp>)</rp></ruby>しいですか。
+A: この　くらいで　<ruby>収<rp>(</rp><rt>おさ</rt><rp>)</rp></ruby>まりますか。それと　<ruby>逆<rp>(</rp><rt>ぎゃっ</rt><rp>)</rp></ruby><ruby>光<rp>(</rp><rt>こう</rt><rp>)</rp></ruby>でし　たら、<ruby>少<rp>(</rp><rt>すこ</rt><rp>)</rp></ruby>し　<ruby>右<rp>(</rp><rt>みぎ</rt><rp>)</rp></ruby>に　<ruby>寄<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>って、<ruby>撮<rp>(</rp><rt>と</rt><rp>)</rp></ruby>って　<ruby>頂<rp>(</rp><rt>いただ</rt><rp>)</rp></ruby>い　ても　<ruby>宜<rp>(</rp><rt>よろ</rt><rp>)</rp></ruby>しいですか。
 
 **B:好的，现在拍了，茄——子!**
 B: はい、わかりました。それでは　<ruby>撮<rp>(</rp><rt>と</rt><rp>)</rp></ruby>りますよ。チーズ!
@@ -157,7 +157,7 @@ B: はい、わかりました。それでは　<ruby>撮<rp>(</rp><rt>と</rt><
 A: ありがとう　ございました。
 
 **B:只拍一张，如果拍得不好就麻烦了，保险起见再来一张吧?**
-B: うまく　<ruby>撮<rp>(</rp><rt>と</rt><rp>)</rp></ruby>れていないと　いけない　ので、<ruby>念<rp>(</rp><rt>ねん</rt><rp>)</rp></ruby>のため　もう1<ruby>枚<rp>(</rp><rt>まい</rt><rp>)</rp></ruby>　<ruby>撮<rp>(</rp><rt>と</rt><rp>)</rp></ruby>りましょうか。
+B: うまく　<ruby>撮<rp>(</rp><rt>と</rt><rp>)</rp></ruby>れてい　ないと　いけない　ので、<ruby>念<rp>(</rp><rt>ねん</rt><rp>)</rp></ruby>のため　もう1<ruby>枚<rp>(</rp><rt>まい</rt><rp>)</rp></ruby>　<ruby>撮<rp>(</rp><rt>と</rt><rp>)</rp></ruby>り　ましょうか。
 
 **A:那麻烦你了。**
 A: お<ruby>手<rp>(</rp><rt>て</rt><rp>)</rp></ruby><ruby>数<rp>(</rp><rt>すう</rt><rp>)</rp></ruby>です　けど、お<ruby>願<rp>(</rp><rt>ねが</rt><rp>)</rp></ruby>いします。

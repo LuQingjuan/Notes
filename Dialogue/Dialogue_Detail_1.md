@@ -130,7 +130,7 @@
 えっ。<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>か　とられたん　ですか。
 
 **ジョン：电脑和·····打工攒的钱也没了。**
-コンピューターと……バイトで　ためたお<ruby>金<rp>(</rp><rt>かね</rt><rp>)</rp></ruby>　もありません。
+コンピューターと……バイトで　ためた　お<ruby>金<rp>(</rp><rt>かね</rt><rp>)</rp></ruby>　もありません。
 
 **大家：总之，最好叫警察。**
 とにかく、<ruby>警<rp>(</rp><rt>けい</rt><rp>)</rp></ruby><ruby>察<rp>(</rp><rt>さつ</rt><rp>)</rp></ruby>に　<ruby>連<rp>(</rp><rt>れん</rt><rp>)</rp></ruby><ruby>絡<rp>(</rp><rt>らく</rt><rp>)</rp></ruby>した　ほうがいいですよ。
@@ -140,40 +140,40 @@
 かぎは　かけてあったん　ですか。
 
 **ジョン：呀，昨天晚上因为喝完酒回来，所以不记得是不是锁门了。**
-さあ……ゆうべは<ruby>飲<rp>(</rp><rt>の</rt><rp>)</rp></ruby>んで<ruby>帰<rp>(</rp><rt>かえ</rt><rp>)</rp></ruby>ったから、かぎをかけた　かどうか　よく<ruby>覚<rp>(</rp><rt>おぼ</rt><rp>)</rp></ruby>えていないんです。
+さあ……ゆうべは　<ruby>飲<rp>(</rp><rt>の</rt><rp>)</rp></ruby>んで<ruby>帰<rp>(</rp><rt>かえ</rt><rp>)</rp></ruby>ったから、かぎを　かけた　かどうか　よく<ruby>覚<rp>(</rp><rt>おぼ</rt><rp>)</rp></ruby>えてい　ないんです。
 
 **警察：那么，你记不记得几点回来的？**
 じゃあ、<ruby>何<rp>(</rp><rt>なん</rt><rp>)</rp></ruby><ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>ごろ<ruby>帰<rp>(</rp><rt>かえ</rt><rp>)</rp></ruby>ったか　<ruby>覚<rp>(</rp><rt>おぼ</rt><rp>)</rp></ruby>えていますか。
 
 **ジョン：因为是末班车····,大概是一点半左右。**
-<ruby>終<rp>(</rp><rt>しゅう</rt><rp>)</rp></ruby><ruby>電<rp>(</rp><rt>でん</rt><rp>)</rp></ruby>だったから……たぶん、<ruby>一<rp>(</rp><rt>いち</rt><rp>)</rp></ruby><ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby><ruby>半<rp>(</rp><rt>はん</rt><rp>)</rp></ruby>ごろです。
+<ruby>終<rp>(</rp><rt>しゅう</rt><rp>)</rp></ruby><ruby>電<rp>(</rp><rt>でん</rt><rp>)</rp></ruby>だった　から……たぶん、<ruby>一<rp>(</rp><rt>いち</rt><rp>)</rp></ruby><ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby><ruby>半<rp>(</rp><rt>はん</rt><rp>)</rp></ruby>ごろです。
 
 **警察：小偷是在那之后进来的，对吧？**
-どろぼうは、その<ruby>後<rp>(</rp><rt>のち</rt><rp>)</rp></ruby>　<ruby>入<rp>(</rp><rt>はい</rt><rp>)</rp></ruby>ったんですね。
+どろぼうは、その<ruby>後<rp>(</rp><rt>あと</rt><rp>)</rp></ruby>　<ruby>入<rp>(</rp><rt>はい</rt><rp>)</rp></ruby>ったん　ですね。
 
 **ジョン：对，早上房间是乱七八糟的，令我大吃一惊。**
-ええ。<ruby>朝<rp>(</rp><rt>あさ</rt><rp>)</rp></ruby>、<ruby>部<rp>(</rp><rt>へ</rt><rp>)</rp></ruby><ruby>屋<rp>(</rp><rt>や</rt><rp>)</rp></ruby>が　めちゃく　ちゃだったんで、びっくり　したんです。
+ええ。<ruby>朝<rp>(</rp><rt>あさ</rt><rp>)</rp></ruby>、<ruby>部<rp>(</rp><rt>へ</rt><rp>)</rp></ruby><ruby>屋<rp>(</rp><rt>や</rt><rp>)</rp></ruby>が　めちゃくちゃ　だったんで、びっくり　したんです。
 
 **警察：你睡觉时没有觉察有小偷进来吗？**
-<ruby>寝<rp>(</rp><rt>ね</rt><rp>)</rp></ruby>ている<ruby>間<rp>(</rp><rt>あいだ</rt><rp>)</rp></ruby>に　どろぼうに　<ruby>入<rp>(</rp><rt>はい</rt><rp>)</rp></ruby>られて、<ruby>気<rp>(</rp><rt>き</rt><rp>)</rp></ruby>が　つかなかったんですか。
+<ruby>寝<rp>(</rp><rt>ね</rt><rp>)</rp></ruby>ている<ruby>間<rp>(</rp><rt>あいだ</rt><rp>)</rp></ruby>に　どろぼうに　<ruby>入<rp>(</rp><rt>はい</rt><rp>)</rp></ruby>られて、<ruby>気<rp>(</rp><rt>き</rt><rp>)</rp></ruby>が　つかなかったん　ですか。
 
 **ジョン：对不起（我想没有）。**
 すみません。
 
 **几天后**
 **大家：约翰，你不在家时警察来电话了，说犯人抓到了，想让你去一趟警察局。**
-ジョンさん、<ruby>留<rp>(</rp><rt>る</rt><rp>)</rp></ruby><ruby>守<rp>(</rp><rt>す</rt><rp>)</rp></ruby>の<ruby>間<rp>(</rp><rt>あいだ</rt><rp>)</rp></ruby>に　<ruby>警<rp>(</rp><rt>けい</rt><rp>)</rp></ruby><ruby>察<rp>(</rp><rt>さつ</rt><rp>)</rp></ruby>から<ruby>電<rp>(</rp><rt>でん</rt><rp>)</rp></ruby><ruby>話<rp>(</rp><rt>わ</rt><rp>)</rp></ruby>が　ありましたよ。<ruby>犯<rp>(</rp><rt>はん</rt><rp>)</rp></ruby><ruby>人<rp>(</rp><rt>にん</rt><rp>)</rp></ruby>が<ruby>捕<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>まったので、<ruby>警<rp>(</rp><rt>けい</rt><rp>)</rp></ruby><ruby>察<rp>(</rp><rt>さつ</rt><rp>)</rp></ruby>に　来てほしい　そうです。
+ジョンさん、<ruby>留<rp>(</rp><rt>る</rt><rp>)</rp></ruby><ruby>守<rp>(</rp><rt>す</rt><rp>)</rp></ruby>の<ruby>間<rp>(</rp><rt>あいだ</rt><rp>)</rp></ruby>に　<ruby>警<rp>(</rp><rt>けい</rt><rp>)</rp></ruby><ruby>察<rp>(</rp><rt>さつ</rt><rp>)</rp></ruby>から　<ruby>電<rp>(</rp><rt>でん</rt><rp>)</rp></ruby><ruby>話<rp>(</rp><rt>わ</rt><rp>)</rp></ruby>が　ありましたよ。<ruby>犯<rp>(</rp><rt>はん</rt><rp>)</rp></ruby><ruby>人<rp>(</rp><rt>にん</rt><rp>)</rp></ruby>が<ruby>捕<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>まった　ので、<ruby>警<rp>(</rp><rt>けい</rt><rp>)</rp></ruby><ruby>察<rp>(</rp><rt>さつ</rt><rp>)</rp></ruby>に　来てほしい　そうです。
 
 **ジョン：谢谢。太好了。**
 ありがとう　ございます。よかった。
 
 **大家：另外，我换了新锁，给你钥匙，你真够倒霉的。**
-それから、かざを　<ruby>新<rp>(</rp><rt>あたら</rt><rp>)</rp></ruby>しくしました　から、どうぞ。<ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby><ruby>当<rp>(</rp><rt>とう</rt><rp>)</rp></ruby>に<ruby>大<rp>(</rp><rt>たい</rt><rp>)</rp></ruby><ruby>変<rp>(</rp><rt>へん</rt><rp>)</rp></ruby>でしたね。
+それから、かざを　<ruby>新<rp>(</rp><rt>あたら</rt><rp>)</rp></ruby>しく　しました　から、どうぞ。<ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby><ruby>当<rp>(</rp><rt>とう</rt><rp>)</rp></ruby>に　<ruby>大<rp>(</rp><rt>たい</rt><rp>)</rp></ruby><ruby>変<rp>(</rp><rt>へん</rt><rp>)</rp></ruby>でしたね。
 
 **ジョン：是啊，不过，因此也有不少令我高兴的事情，例如：大家给我送各种东西，请我吃饭等等。**
 ええ。でも、そのおかげで、いいことも　ありました。みんな　いろいろな　<ruby>物<rp>(</rp><rt>もの</rt><rp>)</rp></ruby>をくれたり、おごってくれたり　したんです。
 
-**大家：约翰，仰真幸运有这么多好朋友。**
+**大家：约翰，你真幸运有这么多好朋友。**
 ジョンさんは、いい<ruby>友<rp>(</rp><rt>とも</rt><rp>)</rp></ruby>だちが　たくさんいて、<ruby>幸<rp>(</rp><rt>しあわ</rt><rp>)</rp></ruby>せですね。
 
 ---
@@ -185,19 +185,19 @@
 
 **玛丽寄宿家庭的女主人和他女儿的谈话**
 **お母さん：由美，学习去！下周有期末考试，你一点儿都没学，对吧？**
-ゆみ、<ruby>勉<rp>(</rp><rt>べん</rt><rp>)</rp></ruby><ruby>強<rp>(</rp><rt>きょう</rt><rp>)</rp></ruby>しなさい。<ruby>来<rp>(</rp><rt>らい</rt><rp>)</rp></ruby><ruby>週<rp>(</rp><rt>しゅう</rt><rp>)</rp></ruby>は　<ruby>期<rp>(</rp><rt>き</rt><rp>)</rp></ruby><ruby>末<rp>(</rp><rt>まつ</rt><rp>)</rp></ruby><ruby>試<rp>(</rp><rt>し</rt><rp>)</rp></ruby><ruby>験<rp>(</rp><rt>けん</rt><rp>)</rp></ruby>があるのに　ぜんぜん<ruby>勉<rp>(</rp><rt>べん</rt><rp>)</rp></ruby><ruby>強<rp>(</rp><rt>きょう</rt><rp>)</rp></ruby>していないでしょ。
+ゆみ、<ruby>勉<rp>(</rp><rt>べん</rt><rp>)</rp></ruby><ruby>強<rp>(</rp><rt>きょう</rt><rp>)</rp></ruby>しなさい。<ruby>来<rp>(</rp><rt>らい</rt><rp>)</rp></ruby><ruby>週<rp>(</rp><rt>しゅう</rt><rp>)</rp></ruby>は　<ruby>期<rp>(</rp><rt>き</rt><rp>)</rp></ruby><ruby>末<rp>(</rp><rt>まつ</rt><rp>)</rp></ruby><ruby>試<rp>(</rp><rt>し</rt><rp>)</rp></ruby><ruby>験<rp>(</rp><rt>けん</rt><rp>)</rp></ruby>がある　のに　ぜんぜん<ruby>勉<rp>(</rp><rt>べん</rt><rp>)</rp></ruby><ruby>強<rp>(</rp><rt>きょう</rt><rp>)</rp></ruby>していない　でしょ。
 
 **ゆみ：妈，我都17岁了，别管我了。**
-お<ruby>母<rp>(</rp><rt>かあ</rt><rp>)</rp></ruby>さん、<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>、もう<ruby>十<rp>(</rp><rt>じゅう</rt><rp>)</rp></ruby><ruby>七<rp>(</rp><rt>なな</rt><rp>)</rp></ruby>なんだ　から、<ruby>少<rp>(</rp><rt>すこ</rt><rp>)</rp></ruby>し　ほっておいてよ。
+お<ruby>母<rp>(</rp><rt>かあ</rt><rp>)</rp></ruby>さん、<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>、もう<ruby>十<rp>(</rp><rt>じゅう</rt><rp>)</rp></ruby><ruby>七<rp>(</rp><rt>なな</rt><rp>)</rp></ruby>なんだ　から、<ruby>少<rp>(</rp><rt>すこ</rt><rp>)</rp></ruby>し　ほって　おいてよ。
 
 **お母さん：现在努力考进好大学，将来就轻松了。**
-<ruby>今<rp>(</rp><rt>いま</rt><rp>)</rp></ruby>、がんばって　おけば、いい<ruby>大<rp>(</rp><rt>だい</rt><rp>)</rp></ruby><ruby>学<rp>(</rp><rt>がく</rt><rp>)</rp></ruby>に<ruby>入<rp>(</rp><rt>い</rt><rp>)</rp></ruby>れて、<ruby>後<rp>(</rp><rt>のち</rt><rp>)</rp></ruby>で　<ruby>楽<rp>(</rp><rt>らく</rt><rp>)</rp></ruby>になるんだ　から。
+<ruby>今<rp>(</rp><rt>いま</rt><rp>)</rp></ruby>、がんばって　おけば、いい<ruby>大<rp>(</rp><rt>だい</rt><rp>)</rp></ruby><ruby>学<rp>(</rp><rt>がく</rt><rp>)</rp></ruby>に　<ruby>入<rp>(</rp><rt>い</rt><rp>)</rp></ruby>れて、<ruby>後<rp>(</rp><rt>あと</rt><rp>)</rp></ruby>で　<ruby>楽<rp>(</rp><rt>らく</rt><rp>)</rp></ruby>になるんだ　から。
 
 **ゆみ：不进好大学也没什么。**
-<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>、<ruby>別<rp>(</rp><rt>べつ</rt><rp>)</rp></ruby>にいい<ruby>大<rp>(</rp><rt>だい</rt><rp>)</rp></ruby><ruby>学<rp>(</rp><rt>がく</rt><rp>)</rp></ruby>に　<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>けなくてもいい。
+<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>、<ruby>別<rp>(</rp><rt>べつ</rt><rp>)</rp></ruby>に　いい<ruby>大<rp>(</rp><rt>だい</rt><rp>)</rp></ruby><ruby>学<rp>(</rp><rt>がく</rt><rp>)</rp></ruby>に　<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>けなくても　いい。
 
 **お母さん：爸爸妈妈想让你进好大学。妈妈家里穷，所以没让我上大学。**
-お<ruby>父<rp>(</rp><rt>とう</rt><rp>)</rp></ruby>さんと　お<ruby>母<rp>(</rp><rt>かあ</rt><rp>)</rp></ruby>さんは　あなたを　いい<ruby>大<rp>(</rp><rt>だい</rt><rp>)</rp></ruby><ruby>学<rp>(</rp><rt>がく</rt><rp>)</rp></ruby>に　<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>かせて　あげたいの。お<ruby>母<rp>(</rp><rt>かあ</rt><rp>)</rp></ruby>さんのうちは　<ruby>貧<rp>(</rp><rt>びん</rt><rp>)</rp></ruby><ruby>乏<rp>(</rp><rt>ぼう</rt><rp>)</rp></ruby>だった　から、<ruby>大<rp>(</rp><rt>だい</rt><rp>)</rp></ruby><ruby>学<rp>(</rp><rt>がく</rt><rp>)</rp></ruby>に<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>かせて　くれなかったのよ。
+お<ruby>父<rp>(</rp><rt>とう</rt><rp>)</rp></ruby>さんと　お<ruby>母<rp>(</rp><rt>かあ</rt><rp>)</rp></ruby>さんは　あなたを　いい<ruby>大<rp>(</rp><rt>だい</rt><rp>)</rp></ruby><ruby>学<rp>(</rp><rt>がく</rt><rp>)</rp></ruby>に　<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>かせて　あげたいの。お<ruby>母<rp>(</rp><rt>かあ</rt><rp>)</rp></ruby>さんのうちは　<ruby>貧<rp>(</rp><rt>びん</rt><rp>)</rp></ruby><ruby>乏<rp>(</rp><rt>ぼう</rt><rp>)</rp></ruby>だった　から、<ruby>大<rp>(</rp><rt>だい</rt><rp>)</rp></ruby><ruby>学<rp>(</rp><rt>がく</rt><rp>)</rp></ruby>に<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>かせて　くれなかった　のよ。
 
 **ゆみ：知道了，知道了。我已经听了好多遍了。**
 わかった、わかった。その<ruby>話<rp>(</rp><rt>はなし</rt><rp>)</rp></ruby>、もう　<ruby>何<rp>(</rp><rt>なん</rt><rp>)</rp></ruby><ruby>度<rp>(</rp><rt>ど</rt><rp>)</rp></ruby>も<ruby>聞<rp>(</rp><rt>き</rt><rp>)</rp></ruby>いた。
@@ -207,29 +207,29 @@
 メアリーも、<ruby>高<rp>(</rp><rt>こう</rt><rp>)</rp></ruby><ruby>校<rp>(</rp><rt>こう</rt><rp>)</rp></ruby>の<ruby>時<rp>(</rp><rt>とき</rt><rp>)</rp></ruby>、こんな　そうだった?
 
 **メアリー：嗯，我父母也挺严的。不过比你能自由一点儿。**
-そうねえ、やっばり　<ruby>親<rp>(</rp><rt>おや</rt><rp>)</rp></ruby>は　うるさかった　けど、もう<ruby>少<rp>(</rp><rt>すこ</rt><rp>)</rp></ruby>し<ruby>自<rp>(</rp><rt>じ</rt><rp>)</rp></ruby><ruby>由<rp>(</rp><rt>ゆう</rt><rp>)</rp></ruby>が　あったかな。
+そうねえ、やっばり　<ruby>親<rp>(</rp><rt>おや</rt><rp>)</rp></ruby>は　うるさかった　けど、もう　<ruby>少<rp>(</rp><rt>すこ</rt><rp>)</rp></ruby>し<ruby>自<rp>(</rp><rt>じ</rt><rp>)</rp></ruby><ruby>由<rp>(</rp><rt>ゆう</rt><rp>)</rp></ruby>が　あったか　な。
 
 **ゆみ：你觉得我父母有点儿奇怪吧。**
-うちの<ruby>親<rp>(</rp><rt>おや</rt><rp>)</rp></ruby>、ちょっと<ruby>変<rp>(</rp><rt>へん</rt><rp>)</rp></ruby>だ　と<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>う　でしょ。
+うちの<ruby>親<rp>(</rp><rt>おや</rt><rp>)</rp></ruby>、ちょっと　<ruby>変<rp>(</rp><rt>へん</rt><rp>)</rp></ruby>だ　と<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>う　でしょ。
 
 **メアリー：没有。或许有点儿严，不过，这也是关心你啊。**
-そんなこと　ないよ。ちょっと　<ruby>厳<rp>(</rp><rt>きび</rt><rp>)</rp></ruby>しい　かもしれない　けど、ゆみちゃんのことを　<ruby>心<rp>(</rp><rt>しん</rt><rp>)</rp></ruby><ruby>配<rp>(</rp><rt>ぱい</rt><rp>)</rp></ruby>しているんだよ。
+そんなこと　ないよ。ちょっと　<ruby>厳<rp>(</rp><rt>きび</rt><rp>)</rp></ruby>しい　かもしれない　けど、ゆみちゃんの　ことを　<ruby>心<rp>(</rp><rt>しん</rt><rp>)</rp></ruby><ruby>配<rp>(</rp><rt>ぱい</rt><rp>)</rp></ruby>しているん　だよ。
 
 **第二天玛丽和阿武正在约会**
 **メアリー：我寄宿家庭的女儿由美都上高中了。忙得好像连玩的时间都没有。**
-うちのゆみちゃん、　<ruby>高<rp>(</rp><rt>こう</rt><rp>)</rp></ruby><ruby>校<rp>(</rp><rt>こう</rt><rp>)</rp></ruby><ruby>生<rp>(</rp><rt>せい</rt><rp>)</rp></ruby>なのに　<ruby>忙<rp>(</rp><rt>いそが</rt><rp>)</rp></ruby>しくて、ぜんぜん　<ruby>遊<rp>(</rp><rt>あそ</rt><rp>)</rp></ruby>ぶ<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby><ruby>間<rp>(</rp><rt>かん</rt><rp>)</rp></ruby>がない　みたい。
+うちの　ゆみちゃん、　<ruby>高<rp>(</rp><rt>こう</rt><rp>)</rp></ruby><ruby>校<rp>(</rp><rt>こう</rt><rp>)</rp></ruby><ruby>生<rp>(</rp><rt>せい</rt><rp>)</rp></ruby>なのに　<ruby>忙<rp>(</rp><rt>いそが</rt><rp>)</rp></ruby>しくて、ぜんぜん　<ruby>遊<rp>(</rp><rt>あそ</rt><rp>)</rp></ruby>ぶ<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby><ruby>間<rp>(</rp><rt>かん</rt><rp>)</rp></ruby>がない　みたい。
 
 **たけし：孩子不容易，父母也不轻松。又让孩子上补习校，又让孩子学英语会话，开销一定很大的。**
-<ruby>子<rp>(</rp><rt>こど</rt><rp>)</rp></ruby><ruby>供<rp>(</rp><rt>も</rt><rp>)</rp></ruby>も<ruby>大<rp>(</rp><rt>たい</rt><rp>)</rp></ruby><ruby>変<rp>(</rp><rt>へん</rt><rp>)</rp></ruby>だ　けど、<ruby>親<rp>(</rp><rt>おや</rt><rp>)</rp></ruby>も<ruby>大<rp>(</rp><rt>たい</rt><rp>)</rp></ruby><ruby>変<rp>(</rp><rt>へん</rt><rp>)</rp></ruby>だ　と<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>うよ。<ruby>塾<rp>(</rp><rt>じゅく</rt><rp>)</rp></ruby>に　<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>かせたり、英<ruby>会<rp>(</rp><rt>かい</rt><rp>)</rp></ruby><ruby>話<rp>(</rp><rt>わ</rt><rp>)</rp></ruby>を　<ruby>習<rp>(</rp><rt>なら</rt><rp>)</rp></ruby>わせたり、お<ruby>金<rp>(</rp><rt>かね</rt><rp>)</rp></ruby>が　かかる　だろうなあ。
+<ruby>子<rp>(</rp><rt>こど</rt><rp>)</rp></ruby><ruby>供<rp>(</rp><rt>も</rt><rp>)</rp></ruby>も　<ruby>大<rp>(</rp><rt>たい</rt><rp>)</rp></ruby><ruby>変<rp>(</rp><rt>へん</rt><rp>)</rp></ruby>だ　けど、<ruby>親<rp>(</rp><rt>おや</rt><rp>)</rp></ruby>も　<ruby>大<rp>(</rp><rt>たい</rt><rp>)</rp></ruby><ruby>変<rp>(</rp><rt>へん</rt><rp>)</rp></ruby>だ　と<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>うよ。<ruby>塾<rp>(</rp><rt>じゅく</rt><rp>)</rp></ruby>に　<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>かせたり、<ruby>英<rp>(</rp><rt>えい</rt><rp>)</rp></ruby><ruby>会<rp>(</rp><rt>かい</rt><rp>)</rp></ruby><ruby>話<rp>(</rp><rt>わ</rt><rp>)</rp></ruby>を　<ruby>習<rp>(</rp><rt>なら</rt><rp>)</rp></ruby>わせたり、お<ruby>金<rp>(</rp><rt>かね</rt><rp>)</rp></ruby>が　かかる　だろう　なあ。
 
 **メアリー：阿武小时候也像由美那样去上补习校吗？**
-たけしくんも<ruby>子<rp>(</rp><rt>こど</rt><rp>)</rp></ruby><ruby>供<rp>(</rp><rt>も</rt><rp>)</rp></ruby>の<ruby>時<rp>(</rp><rt>とき</rt><rp>)</rp></ruby>、ゆみちゃんのように　<ruby>塾<rp>(</rp><rt>じゅく</rt><rp>)</rp></ruby>に<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>ってた?
+たけしくんも　<ruby>子<rp>(</rp><rt>こど</rt><rp>)</rp></ruby><ruby>供<rp>(</rp><rt>も</rt><rp>)</rp></ruby>の<ruby>時<rp>(</rp><rt>とき</rt><rp>)</rp></ruby>、ゆみちゃんの　ように　<ruby>塾<rp>(</rp><rt>じゅく</rt><rp>)</rp></ruby>に　<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>ってた?
 
 **たけし：我成天玩。我想让自己的孩子也能开开心心的玩。**
-ほくは　ずっと　<ruby>遊<rp>(</rp><rt>あそ</rt><rp>)</rp></ruby>んでた。<ruby>自<rp>(</rp><rt>じ</rt><rp>)</rp></ruby><ruby>分<rp>(</rp><rt>ぶん</rt><rp>)</rp></ruby>の<ruby>子<rp>(</rp><rt>こど</rt><rp>)</rp></ruby><ruby>供<rp>(</rp><rt>も</rt><rp>)</rp></ruby>にも、のんびり　<ruby>遊<rp>(</rp><rt>あそ</rt><rp>)</rp></ruby>ばせて　あげ　たいなあ。
+ほくは　ずっと　<ruby>遊<rp>(</rp><rt>あそ</rt><rp>)</rp></ruby>んでた。<ruby>自<rp>(</rp><rt>じ</rt><rp>)</rp></ruby><ruby>分<rp>(</rp><rt>ぶん</rt><rp>)</rp></ruby>の　<ruby>子<rp>(</rp><rt>こど</rt><rp>)</rp></ruby><ruby>供<rp>(</rp><rt>も</rt><rp>)</rp></ruby>にも、のんびり　<ruby>遊<rp>(</rp><rt>あそ</rt><rp>)</rp></ruby>ばせて　あげ　たい　なあ。
 
 **メアリー：不过看样子在日本养孩子真不容易啊。**
-でも、<ruby>日<rp>(</rp><rt>にっ</rt><rp>)</rp></ruby><ruby>本<rp>(</rp><rt>ぽん</rt><rp>)</rp></ruby>で　<ruby>子<rp>(</rp><rt>こど</rt><rp>)</rp></ruby><ruby>供<rp>(</rp><rt>も</rt><rp>)</rp></ruby>を<ruby>育<rp>(</rp><rt>そだ</rt><rp>)</rp></ruby>てるのは　<ruby>大<rp>(</rp><rt>たい</rt><rp>)</rp></ruby><ruby>変<rp>(</rp><rt>へん</rt><rp>)</rp></ruby>そうだ　ね。
+でも、<ruby>日<rp>(</rp><rt>にっ</rt><rp>)</rp></ruby><ruby>本<rp>(</rp><rt>ぽん</rt><rp>)</rp></ruby>で　<ruby>子<rp>(</rp><rt>こど</rt><rp>)</rp></ruby><ruby>供<rp>(</rp><rt>も</rt><rp>)</rp></ruby>を　<ruby>育<rp>(</rp><rt>そだ</rt><rp>)</rp></ruby>てるのは　<ruby>大<rp>(</rp><rt>たい</rt><rp>)</rp></ruby><ruby>変<rp>(</rp><rt>へん</rt><rp>)</rp></ruby>そうだ　ね。
 
 ---
 ## 第23课　別れ・告别 #0_20

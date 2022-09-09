@@ -1,0 +1,14 @@
+{
+  "" : [
+    "2022-09-04.md",
+    "readme.md"
+  ],
+  "__raw_positions" : {
+    "readme.md" : 2,
+    "2022-09-04.md" : 1
+  },
+  "__positions" : {
+    "2022-09-04.md" : 1,
+    "readme.md" : 2
+  }
+}

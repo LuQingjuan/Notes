@@ -18,7 +18,7 @@
 この<ruby>本<rp>(</rp><rt>もと</rt><rp>)</rp></ruby>は　テキストとして　<ruby>使<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>われている。
 3. **作为我本人相信这个商品。**
 <ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>としては、この<ruby>商<rp>(</rp><rt>しょう</rt><rp>)</rp></ruby><ruby>品<rp>(</rp><rt>ひん</rt><rp>)</rp></ruby>を　<ruby>信<rp>(</rp><rt>しん</rt><rp>)</rp></ruby><ruby>用<rp>(</rp><rt>よう</rt><rp>)</rp></ruby>している。
-4. **她虽然是个老师，但作为画家毯很优秀。**
+4. **她虽然是个老师，但作为画家也优秀。**
 <ruby>彼<rp>(</rp><rt>かの</rt><rp>)</rp></ruby><ruby>女<rp>(</rp><rt>じょ</rt><rp>)</rp></ruby>は　<ruby>先<rp>(</rp><rt>せん</rt><rp>)</rp></ruby><ruby>生<rp>(</rp><rt>せい</rt><rp>)</rp></ruby>　であるが、<ruby>画<rp>(</rp><rt>が</rt><rp>)</rp></ruby><ruby>家<rp>(</rp><rt>か</rt><rp>)</rp></ruby>としても　<ruby>優<rp>(</rp><rt>ゆう</rt><rp>)</rp></ruby><ruby>秀<rp>(</rp><rt>しゅう</rt><rp>)</rp></ruby>　である。
 5. **我们必须起到作为公民一员的作用。**
 <ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>たちは　<ruby>国<rp>(</rp><rt>こく</rt><rp>)</rp></ruby><ruby>民<rp>(</rp><rt>みん</rt><rp>)</rp></ruby>の<ruby>一<rp>(</rp><rt>いち</rt><rp>)</rp></ruby><ruby>員<rp>(</rp><rt>いん</rt><rp>)</rp></ruby>としての　<ruby>役<rp>(</rp><rt>やく</rt><rp>)</rp></ruby><ruby>割<rp>(</rp><rt>わり</rt><rp>)</rp></ruby>を　<ruby>果<rp>(</rp><rt>は</rt><rp>)</rp></ruby>たさ　なければ　ならない。
@@ -30,21 +30,21 @@
 >**用法**：和「上一緒花」的用法相同。
 >**说明**：「和心一起～」「和～都一」
 
-1. **这次出差租社长一起去。**
+1. **这次出差和社长一起去。**
 <ruby>今<rp>(</rp><rt>こん</rt><rp>)</rp></ruby><ruby>度<rp>(</rp><rt>ど</rt><rp>)</rp></ruby>の　<ruby>出<rp>(</rp><rt>しゅっ</rt><rp>)</rp></ruby><ruby>張<rp>(</rp><rt>ちょう</rt><rp>)</rp></ruby>は　<ruby>社<rp>(</rp><rt>しゃ</rt><rp>)</rp></ruby><ruby>長<rp>(</rp><rt>ちょう</rt><rp>)</rp></ruby>と　ともに　<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>く。
-2. **上海和比京都是中国有名的城市。**
+2. **上海和北京都是中国有名的城市。**
 <ruby>上<rp>(</rp><rt>しゃん</rt><rp>)</rp></ruby><ruby>海<rp>(</rp><rt>はい</rt><rp>)</rp></ruby>は　<ruby>北<rp>(</rp><rt>ぺ</rt><rp>)</rp></ruby><ruby>京<rp>(</rp><rt>きん</rt><rp>)</rp></ruby>と　ともに　<ruby>中<rp>(</rp><rt>ちゅう</rt><rp>)</rp></ruby><ruby>国<rp>(</rp><rt>ごく</rt><rp>)</rp></ruby>の　<ruby>有<rp>(</rp><rt>ゆう</rt><rp>)</rp></ruby><ruby>名<rp>(</rp><rt>めい</rt><rp>)</rp></ruby>な　<ruby>都<rp>(</rp><rt>と</rt><rp>)</rp></ruby><ruby>市<rp>(</rp><rt>し</rt><rp>)</rp></ruby>である。
 
 >**B.接法**：「用言連体形+とともに
 >**用法**：和「であると同時に」的用法相同。
 >**说明**：「一的同时，还一」
 
-1. **李先尘教我英语的园时，还给我人生方面的指点。**
+1. **李先生教我英语的同时，还给我人生方面的指点。**
 <ruby>李<rp>(</rp><rt>り</rt><rp>)</rp></ruby>さんは　<ruby>英<rp>(</rp><rt>えい</rt><rp>)</rp></ruby><ruby>語<rp>(</rp><rt>ご</rt><rp>)</rp></ruby>を　<ruby>教<rp>(</rp><rt>おし</rt><rp>)</rp></ruby>えて　くれると　ともに、<ruby>人<rp>(</rp><rt>じん</rt><rp>)</rp></ruby><ruby>生<rp>(</rp><rt>せい</rt><rp>)</rp></ruby>に　ついての　<ruby>相<rp>(</rp><rt>そう</rt><rp>)</rp></ruby><ruby>談<rp>(</rp><rt>だん</rt><rp>)</rp></ruby>にも　<ruby>乗<rp>(</rp><rt>の</rt><rp>)</rp></ruby>って　くれる。
-2. **被选为负责人在高兴的园时，还多少有点担心的心情。**
-<ruby>責<rp>(</rp><rt>せき</rt><rp>)</rp></ruby><ruby>任<rp>(</rp><rt>にん</rt><rp>)</rp></ruby><ruby>者<rp>(</rp><rt>もの</rt><rp>)</rp></ruby>に　<ruby>選<rp>(</rp><rt>えら</rt><rp>)</rp></ruby>ばれて　<ruby>嬉<rp>(</rp><rt>うれ</rt><rp>)</rp></ruby>しいと　ともに、<ruby>心<rp>(</rp><rt>しん</rt><rp>)</rp></ruby><ruby>配<rp>(</rp><rt>ぱい</rt><rp>)</rp></ruby>する　<ruby>気<rp>(</rp><rt>き</rt><rp>)</rp></ruby><ruby>持<rp>(</rp><rt>も</rt><rp>)</rp></ruby>ちも　<ruby>少<rp>(</rp><rt>すこ</rt><rp>)</rp></ruby>しある。
+2. **被选为负责人在高兴的同时，还多少有点担心的心情。**
+<ruby>責<rp>(</rp><rt>せき</rt><rp>)</rp></ruby><ruby>任<rp>(</rp><rt>にん</rt><rp>)</rp></ruby><ruby>者<rp>(</rp><rt>しゃ</rt><rp>)</rp></ruby>に　<ruby>選<rp>(</rp><rt>えら</rt><rp>)</rp></ruby>ばれて　<ruby>嬉<rp>(</rp><rt>うれ</rt><rp>)</rp></ruby>しいと　ともに、<ruby>心<rp>(</rp><rt>しん</rt><rp>)</rp></ruby><ruby>配<rp>(</rp><rt>ぱい</rt><rp>)</rp></ruby>する　<ruby>気<rp>(</rp><rt>き</rt><rp>)</rp></ruby><ruby>持<rp>(</rp><rt>も</rt><rp>)</rp></ruby>ちも　<ruby>少<rp>(</rp><rt>すこ</rt><rp>)</rp></ruby>しある。
 3. **他是负责人，同时还是学者。**
-<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>は　<ruby>責<rp>(</rp><rt>せき</rt><rp>)</rp></ruby><ruby>任<rp>(</rp><rt>にん</rt><rp>)</rp></ruby><ruby>者<rp>(</rp><rt>もの</rt><rp>)</rp></ruby>であると　ともに、<ruby>学<rp>(</rp><rt>がく</rt><rp>)</rp></ruby><ruby>者<rp>(</rp><rt>しゃ</rt><rp>)</rp></ruby>でも　ある。
+<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>は　<ruby>責<rp>(</rp><rt>せき</rt><rp>)</rp></ruby><ruby>任<rp>(</rp><rt>にん</rt><rp>)</rp></ruby><ruby>者<rp>(</rp><rt>しゃ</rt><rp>)</rp></ruby>であると　ともに、<ruby>学<rp>(</rp><rt>がく</rt><rp>)</rp></ruby><ruby>者<rp>(</rp><rt>しゃ</rt><rp>)</rp></ruby>　でもある。
 
 ## 3. ～に対して（は）/～に対しても/に対する～ #1_3
 * [[ N2_Menu_0.md | Menu #1_3 ]]
@@ -54,13 +54,13 @@
 >**说明**：「对j
 
 1. **对女性不可使用粗暴的语言。**
-<ruby>女<rp>(</rp><rt>じょ</rt><rp>)</rp></ruby><ruby>性<rp>(</rp><rt>せい</rt><rp>)</rp></ruby>に　<ruby>対<rp>(</rp><rt>たい</rt><rp>)</rp></ruby>して　<ruby>乱<rp>(</rp><rt>らん</rt><rp>)</rp></ruby><ruby>暴<rp>(</rp><rt>ぼう</rt><rp>)</rp></ruby>な　<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>い<ruby>方<rp>(</rp><rt>ほう</rt><rp>)</rp></ruby>を　してはいけない。
+<ruby>女<rp>(</rp><rt>じょ</rt><rp>)</rp></ruby><ruby>性<rp>(</rp><rt>せい</rt><rp>)</rp></ruby>に　<ruby>対<rp>(</rp><rt>たい</rt><rp>)</rp></ruby>して　<ruby>乱<rp>(</rp><rt>らん</rt><rp>)</rp></ruby><ruby>暴<rp>(</rp><rt>ぼう</rt><rp>)</rp></ruby>な　<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>い<ruby>方<rp>(</rp><rt>かた</rt><rp>)</rp></ruby>を　しては　いけない。
 2. **对有实际业绩的人给予奖金。**
-<ruby>実<rp>(</rp><rt>じっ</rt><rp>)</rp></ruby><ruby>績<rp>(</rp><rt>せき</rt><rp>)</rp></ruby>のある<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>に　<ruby>対<rp>(</rp><rt>たい</rt><rp>)</rp></ruby>しては、ボーナスを　<ruby>与<rp>(</rp><rt>あた</rt><rp>)</rp></ruby>える。
+<ruby>実<rp>(</rp><rt>じっ</rt><rp>)</rp></ruby><ruby>績<rp>(</rp><rt>せき</rt><rp>)</rp></ruby>のある　<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>に　<ruby>対<rp>(</rp><rt>たい</rt><rp>)</rp></ruby>しては、ボーナスを　<ruby>与<rp>(</rp><rt>あた</rt><rp>)</rp></ruby>える。
 3. **山田先生不仅擅长外语，而且对计算机也很精通。**
-<ruby>山<rp>(</rp><rt>やま</rt><rp>)</rp></ruby><ruby>田<rp>(</rp><rt>だ</rt><rp>)</rp></ruby>さんは　<ruby>外<rp>(</rp><rt>がい</rt><rp>)</rp></ruby><ruby>国<rp>(</rp><rt>こく</rt><rp>)</rp></ruby><ruby>語<rp>(</rp><rt>ご</rt><rp>)</rp></ruby>だけ　でなく、コンピューターに　<ruby>対<rp>(</rp><rt>たい</rt><rp>)</rp></ruby>しても　<ruby>詳<rp>(</rp><rt>くわし</rt><rp>)</rp></ruby>しい。
-4. **作为公民应该具有对社会的赉任感。**
-<ruby>国<rp>(</rp><rt>こく</rt><rp>)</rp></ruby><ruby>民<rp>(</rp><rt>みん</rt><rp>)</rp></ruby>としては　<ruby>社<rp>(</rp><rt>しゃ</rt><rp>)</rp></ruby><ruby>会<rp>(</rp><rt>かい</rt><rp>)</rp></ruby>に　<ruby>対<rp>(</rp><rt>たい</rt><rp>)</rp></ruby>する　<ruby>責<rp>(</rp><rt>せき</rt><rp>)</rp></ruby><ruby>任<rp>(</rp><rt>にん</rt><rp>)</rp></ruby><ruby>感<rp>(</rp><rt>かん</rt><rp>)</rp></ruby>を　<ruby>持<rp>(</rp><rt>も</rt><rp>)</rp></ruby>つ　べきである。
+<ruby>山<rp>(</rp><rt>やま</rt><rp>)</rp></ruby><ruby>田<rp>(</rp><rt>だ</rt><rp>)</rp></ruby>さんは　<ruby>外<rp>(</rp><rt>がい</rt><rp>)</rp></ruby><ruby>国<rp>(</rp><rt>こく</rt><rp>)</rp></ruby><ruby>語<rp>(</rp><rt>ご</rt><rp>)</rp></ruby>だけ　でなく、コンピューターに　<ruby>対<rp>(</rp><rt>たい</rt><rp>)</rp></ruby>しても　<ruby>詳<rp>(</rp><rt>くわ</rt><rp>)</rp></ruby>しい。
+4. **作为公民应该具有对社会的责任感。**
+<ruby>国<rp>(</rp><rt>こく</rt><rp>)</rp></ruby><ruby>民<rp>(</rp><rt>みん</rt><rp>)</rp></ruby>としては　<ruby>社<rp>(</rp><rt>しゃ</rt><rp>)</rp></ruby><ruby>会<rp>(</rp><rt>かい</rt><rp>)</rp></ruby>に　<ruby>対<rp>(</rp><rt>たい</rt><rp>)</rp></ruby>する　<ruby>責<rp>(</rp><rt>せき</rt><rp>)</rp></ruby><ruby>任<rp>(</rp><rt>にん</rt><rp>)</rp></ruby><ruby>感<rp>(</rp><rt>かん</rt><rp>)</rp></ruby>を　<ruby>持<rp>(</rp><rt>も</rt><rp>)</rp></ruby>つ　べき　である。
 
 ## 4. ～に伴って/～に伴う～ #1_4
 * [[ N2_Menu_0.md | Menu #1_4 ]]
@@ -69,20 +69,20 @@
 >**用法1**：表示…方发生变化的同时，另一方也发生变化。 和「～にしたがって」「～につれて」的用法相同。
 >**说明**：「随着心」
 
-1. **随着汽军数量的增多，交通事故也变多了。**
+1. **随着汽车数量的增多，交通事故也变多了。**
 <ruby>自<rp>(</rp><rt>じ</rt><rp>)</rp></ruby><ruby>動<rp>(</rp><rt>どう</rt><rp>)</rp></ruby><ruby>車<rp>(</rp><rt>しゃ</rt><rp>)</rp></ruby>の<ruby>数<rp>(</rp><rt>かず</rt><rp>)</rp></ruby>が　<ruby>増<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby>えるに　<ruby>伴<rp>(</rp><rt>ともな</rt><rp>)</rp></ruby>って、<ruby>交<rp>(</rp><rt>こう</rt><rp>)</rp></ruby><ruby>通<rp>(</rp><rt>つう</rt><rp>)</rp></ruby><ruby>事<rp>(</rp><rt>じ</rt><rp>)</rp></ruby><ruby>故<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>も　<ruby>多<rp>(</rp><rt>おお</rt><rp>)</rp></ruby>くなった。
-2. **随着日语水平的提高，潤友也增多了。**
+2. **随着日语水平的提高，朋友也增多了。**
 <ruby>日<rp>(</rp><rt>に</rt><rp>)</rp></ruby><ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby><ruby>語<rp>(</rp><rt>ご</rt><rp>)</rp></ruby>の　<ruby>上<rp>(</rp><rt>じょう</rt><rp>)</rp></ruby><ruby>達<rp>(</rp><rt>たつ</rt><rp>)</rp></ruby>に　<ruby>伴<rp>(</rp><rt>ともな</rt><rp>)</rp></ruby>って、<ruby>友<rp>(</rp><rt>とも</rt><rp>)</rp></ruby><ruby>達<rp>(</rp><rt>だち</rt><rp>)</rp></ruby>も　<ruby>増<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby>えた。
 
 >**用法2**：和「～之一绪℃」的用法基本相简。
 >**说明**：「和一起」「伴随上
 
-1. **制造商应负担修理所噩费州。**
+1. **制造商应负担修理所需费用。**
 メーカーは　<ruby>修<rp>(</rp><rt>しゅう</rt><rp>)</rp></ruby><ruby>理<rp>(</rp><rt>り</rt><rp>)</rp></ruby>に　<ruby>伴<rp>(</rp><rt>ともな</rt><rp>)</rp></ruby>う　<ruby>費<rp>(</rp><rt>ひ</rt><rp>)</rp></ruby><ruby>用<rp>(</rp><rt>よう</rt><rp>)</rp></ruby>を　<ruby>負<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby><ruby>担<rp>(</rp><rt>たん</rt><rp>)</rp></ruby>す　べきである。
 2. **伴随台风，常有暴雨。**
 <ruby>台<rp>(</rp><rt>たい</rt><rp>)</rp></ruby><ruby>風<rp>(</rp><rt>ふう</rt><rp>)</rp></ruby>に　<ruby>伴<rp>(</rp><rt>ともな</rt><rp>)</rp></ruby>って、<ruby>豪<rp>(</rp><rt>ごう</rt><rp>)</rp></ruby><ruby>雨<rp>(</rp><rt>う</rt><rp>)</rp></ruby>が　<ruby>降<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby>ることが　<ruby>多<rp>(</rp><rt>おお</rt><rp>)</rp></ruby>い。
 3. **权利也有伴随的义务。**
-<ruby>権<rp>(</rp><rt>けん</rt><rp>)</rp></ruby><ruby>利<rp>(</rp><rt>り</rt><rp>)</rp></ruby>には、それに　<ruby>伴<rp>(</rp><rt>ともな</rt><rp>)</rp></ruby>う　<ruby>義<rp>(</rp><rt>ぎ</rt><rp>)</rp></ruby><ruby>務<rp>(</rp><rt>む</rt><rp>)</rp></ruby>もある。
+<ruby>権<rp>(</rp><rt>けん</rt><rp>)</rp></ruby><ruby>利<rp>(</rp><rt>り</rt><rp>)</rp></ruby>には、それに　<ruby>伴<rp>(</rp><rt>ともな</rt><rp>)</rp></ruby>う<ruby>義<rp>(</rp><rt>ぎ</rt><rp>)</rp></ruby><ruby>務<rp>(</rp><rt>む</rt><rp>)</rp></ruby>も　ある。
 
 ## 5. ～につれて #1_5
 * [[ N2_Menu_0.md | Menu #1_5 ]]
@@ -94,7 +94,7 @@
 1. **随着生活变好，人的价值观也发生了变化。**
 <ruby>生<rp>(</rp><rt>せい</rt><rp>)</rp></ruby><ruby>活<rp>(</rp><rt>かつ</rt><rp>)</rp></ruby>が　<ruby>良<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>くなるに　つれて、<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>の<ruby>価<rp>(</rp><rt>か</rt><rp>)</rp></ruby><ruby>値<rp>(</rp><rt>ち</rt><rp>)</rp></ruby><ruby>観<rp>(</rp><rt>かん</rt><rp>)</rp></ruby>も　<ruby>変<rp>(</rp><rt>か</rt><rp>)</rp></ruby>わる。
 2. **随着年龄的增长，记忆力也会变弱。**
-<ruby>年<rp>(</rp><rt>ねん</rt><rp>)</rp></ruby>を　<ruby>取<rp>(</rp><rt>と</rt><rp>)</rp></ruby>るに　つれて、<ruby>記<rp>(</rp><rt>きお</rt><rp>)</rp></ruby><ruby>憶<rp>(</rp><rt>く</rt><rp>)</rp></ruby><ruby>力<rp>(</rp><rt>りょく</rt><rp>)</rp></ruby>も　<ruby>弱<rp>(</rp><rt>よわ</rt><rp>)</rp></ruby>くなる。
+<ruby>年<rp>(</rp><rt>とし</rt><rp>)</rp></ruby>を　<ruby>取<rp>(</rp><rt>と</rt><rp>)</rp></ruby>るに　つれて、<ruby>記<rp>(</rp><rt>き</rt><rp>)</rp></ruby><ruby>憶<rp>(</rp><rt>おく</rt><rp>)</rp></ruby><ruby>力<rp>(</rp><rt>りょく</rt><rp>)</rp></ruby>も　<ruby>弱<rp>(</rp><rt>よわ</rt><rp>)</rp></ruby>くなる。
 3. **随着英特网的普及，人们的生活习惯也发生了变化。**
 インターネットの　<ruby>普<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby><ruby>及<rp>(</rp><rt>きゅう</rt><rp>)</rp></ruby>に　つれて、<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby><ruby>々<rp>(</rp><rt>びと</rt><rp>)</rp></ruby>の　<ruby>生<rp>(</rp><rt>せい</rt><rp>)</rp></ruby><ruby>活<rp>(</rp><rt>かつ</rt><rp>)</rp></ruby><ruby>習<rp>(</rp><rt>しゅう</rt><rp>)</rp></ruby><ruby>慣<rp>(</rp><rt>かん</rt><rp>)</rp></ruby>も　<ruby>変<rp>(</rp><rt>か</rt><rp>)</rp></ruby>わってきた。
 
@@ -105,10 +105,10 @@
 >**用法**：和「～につれて」和「～に伴って」的用法基本相同。
 >**说明**：「随着一」
 
-1. **随着考试的临近，变得越米越不安了。**
+1. **随着考试的临近，变得越来越不安了。**
 <ruby>試<rp>(</rp><rt>し</rt><rp>)</rp></ruby><ruby>験<rp>(</rp><rt>けん</rt><rp>)</rp></ruby>が　<ruby>近<rp>(</rp><rt>ちか</rt><rp>)</rp></ruby>づくに　したがって、ますます　<ruby>不<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby><ruby>安<rp>(</rp><rt>あん</rt><rp>)</rp></ruby>に　なった。
-2. **随着各种各样冷冻食品的上市，生活变得方便起米了。**
-いろいるな　<ruby>冷<rp>(</rp><rt>れい</rt><rp>)</rp></ruby><ruby>凍<rp>(</rp><rt>とう</rt><rp>)</rp></ruby><ruby>食<rp>(</rp><rt>しょく</rt><rp>)</rp></ruby><ruby>品<rp>(</rp><rt>ひん</rt><rp>)</rp></ruby>の　<ruby>発<rp>(</rp><rt>はつ</rt><rp>)</rp></ruby><ruby>売<rp>(</rp><rt>ばい</rt><rp>)</rp></ruby>に　したがって、<ruby>生<rp>(</rp><rt>せい</rt><rp>)</rp></ruby><ruby>活<rp>(</rp><rt>かつ</rt><rp>)</rp></ruby>が　<ruby>便<rp>(</rp><rt>べん</rt><rp>)</rp></ruby><ruby>利<rp>(</rp><rt>り</rt><rp>)</rp></ruby>に　なってきた。
+2. **随着各种各样冷冻食品的上市，生活变得方便起来了。**
+いろいろな　<ruby>冷<rp>(</rp><rt>れい</rt><rp>)</rp></ruby><ruby>凍<rp>(</rp><rt>とう</rt><rp>)</rp></ruby><ruby>食<rp>(</rp><rt>しょく</rt><rp>)</rp></ruby><ruby>品<rp>(</rp><rt>ひん</rt><rp>)</rp></ruby>の　<ruby>発<rp>(</rp><rt>はつ</rt><rp>)</rp></ruby><ruby>売<rp>(</rp><rt>ばい</rt><rp>)</rp></ruby>に　したがって、<ruby>生<rp>(</rp><rt>せい</rt><rp>)</rp></ruby><ruby>活<rp>(</rp><rt>かつ</rt><rp>)</rp></ruby>が　<ruby>便<rp>(</rp><rt>べん</rt><rp>)</rp></ruby><ruby>利<rp>(</rp><rt>り</rt><rp>)</rp></ruby>に　なってきた。
 
 ## 7. ～によって（は）/～による～ #1_7
 * [[ N2_Menu_0.md | Menu #1_7 ]]
@@ -117,25 +117,25 @@
 >**用法1**：表示根据情况而各不相同。 
 >**说明**：根据～而一」
 
-1. **蔬菜的价格想据季节而不同。**
+1. **蔬菜的价格根据季节而不同。**
 <ruby>野<rp>(</rp><rt>や</rt><rp>)</rp></ruby><ruby>菜<rp>(</rp><rt>さい</rt><rp>)</rp></ruby>の　<ruby>値<rp>(</rp><rt>ね</rt><rp>)</rp></ruby><ruby>段<rp>(</rp><rt>だん</rt><rp>)</rp></ruby>は　<ruby>季<rp>(</rp><rt>き</rt><rp>)</rp></ruby><ruby>節<rp>(</rp><rt>せつ</rt><rp>)</rp></ruby>によって　<ruby>違<rp>(</rp><rt>ちが</rt><rp>)</rp></ruby>う。
-2. **价值观根据人面不同。**
+2. **价值观根据人而不同。**
 <ruby>価<rp>(</rp><rt>か</rt><rp>)</rp></ruby><ruby>値<rp>(</rp><rt>ち</rt><rp>)</rp></ruby><ruby>観<rp>(</rp><rt>かん</rt><rp>)</rp></ruby>は　<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>によって　<ruby>違<rp>(</rp><rt>ちが</rt><rp>)</rp></ruby>う。
 
 >**用法2**：表示原因或理由。
 >**说明**：「由于心而～」「由于～面心的～」
 
-1. **由于地震，而受到了很火的损害。**
+1. **由于地震，而受到了很大的损害。**
 <ruby>地<rp>(</rp><rt>じ</rt><rp>)</rp></ruby><ruby>震<rp>(</rp><rt>しん</rt><rp>)</rp></ruby>によって、<ruby>大<rp>(</rp><rt>おお</rt><rp>)</rp></ruby>きな　<ruby>被<rp>(</rp><rt>ひ</rt><rp>)</rp></ruby><ruby>害<rp>(</rp><rt>がい</rt><rp>)</rp></ruby>を　<ruby>受<rp>(</rp><rt>う</rt><rp>)</rp></ruby>けた。
-2. **由于孩子面起的夫妻妙架很多。**
+2. **由于孩子而引起的夫妻吵架很多。**
 <ruby>子<rp>(</rp><rt>こど</rt><rp>)</rp></ruby><ruby>供<rp>(</rp><rt>も</rt><rp>)</rp></ruby>による　<ruby>夫<rp>(</rp><rt>ふう</rt><rp>)</rp></ruby><ruby>婦<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby>　<ruby>喧<rp>(</rp><rt>けん</rt><rp>)</rp></ruby><ruby>嘩<rp>(</rp><rt>か</rt><rp>)</rp></ruby>が　<ruby>多<rp>(</rp><rt>おお</rt><rp>)</rp></ruby>い。
 
 >**用法3**：表示动作的主体（多用于被动态）
 >**说明**：「由w」「由～的J
 
-1. **这本书是由村计先生翻译的。**
+1. **这本书是由村井先生翻译的。**
 この<ruby>本<rp>(</rp><rt>もと</rt><rp>)</rp></ruby>は　<ruby>村<rp>(</rp><rt>むら</rt><rp>)</rp></ruby><ruby>井<rp>(</rp><rt>い</rt><rp>)</rp></ruby><ruby>先<rp>(</rp><rt>せん</rt><rp>)</rp></ruby><ruby>生<rp>(</rp><rt>せい</rt><rp>)</rp></ruby>によって　<ruby>翻<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby><ruby>訳<rp>(</rp><rt>やく</rt><rp>)</rp></ruby>された。
-2. **新的医保制度被全国人民代表大会通。**
+2. **新的医保制度被全国人民代表大会通过。**
 <ruby>新<rp>(</rp><rt>あたら</rt><rp>)</rp></ruby>しい　<ruby>医<rp>(</rp><rt>い</rt><rp>)</rp></ruby><ruby>療<rp>(</rp><rt>りょう</rt><rp>)</rp></ruby><ruby>保<rp>(</rp><rt>ほ</rt><rp>)</rp></ruby><ruby>険<rp>(</rp><rt>けん</rt><rp>)</rp></ruby><ruby>制<rp>(</rp><rt>せい</rt><rp>)</rp></ruby><ruby>度<rp>(</rp><rt>ど</rt><rp>)</rp></ruby>は　<ruby>全<rp>(</rp><rt>ぜん</rt><rp>)</rp></ruby><ruby>国<rp>(</rp><rt>こく</rt><rp>)</rp></ruby><ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby><ruby>大<rp>(</rp><rt>おお</rt><rp>)</rp></ruby>により　<ruby>承<rp>(</rp><rt>しょう</rt><rp>)</rp></ruby><ruby>認<rp>(</rp><rt>にん</rt><rp>)</rp></ruby>された。
 
 >**用法4**：表示工具、方法、手段。
