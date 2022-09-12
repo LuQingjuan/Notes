@@ -55,11 +55,11 @@
 
 
 ## 第17课　ぐちとうわさ話・牢骚和闲聊 #0_14
-* [[ Dialogue_Detail_0.md | Detail #0_14 ]]
+* [[ Dialogue_Detail_1.md | Detail #0_14 ]]
 
 
 ## 第18课　ジョンさんのアルバイト・约翰打工 #0_15
-* [[ Dialogue_Detail_0.md | Detail #0_15 ]]
+* [[ Dialogue_Detail_1.md | Detail #0_15 ]]
 
 
 ## 第19课　出迎え・迎接 #0_16
@@ -95,15 +95,15 @@
 
 
 ## 上海夜 #0_24
-* [[ Dialogue_Detail_1.md | Detail #0_24 ]]
+* [[ Dialogue_Detail_2.md | Detail #0_24 ]]
 
 
 ## 国際電話をかける #0_25
-* [[ Dialogue_Detail_1.md | Detail #0_25 ]]
+* [[ Dialogue_Detail_2.md | Detail #0_25 ]]
 
 
 ## 書く習慣 #0_26
-* [[ Dialogue_Detail_1.md | Detail #0_26 ]]
+* [[ Dialogue_Detail_2.md | Detail #0_26 ]]
 
 
 ## P295「猫の皿」 #0_27
@@ -111,11 +111,11 @@
 
 
 ## 「P313「顔文字」 #0_28
-* [[ Dialogue_Detail_2.md | Detail #0_28 ]]
+* [[ Dialogue_Detail_3.md | Detail #0_28 ]]
 
 
 ## 「友美の日記」会话 #0_29
-* [[ Dialogue_Detail_2.md | Detail #0_29 ]]
+* [[ Dialogue_Detail_3.md | Detail #0_29 ]]
 
 
 ## 「趣味を尋ねる」会话 #0_30
@@ -123,11 +123,11 @@
 
 
 ## 「お寿司を食べに行く」会话 #0_31
-* [[ Dialogue_Detail_3.md | Detail #0_31 ]]
+* [[ Dialogue_Detail_4.md | Detail #0_31 ]]
 
 
 ## 実用会話「写真を撮る」对话的读音 #0_32
-* [[ Dialogue_Detail_3.md | Detail #0_32 ]]
+* [[ Dialogue_Detail_4.md | Detail #0_32 ]]
 
 
 ---

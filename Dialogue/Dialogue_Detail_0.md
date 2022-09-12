@@ -148,7 +148,7 @@
 ロバートさん、<ruby>今日<rp>(</rp><rt>きょう</rt><rp>)</rp></ruby>は<ruby>大<rp>(</rp><rt>たい</rt><rp>)</rp></ruby><ruby>変<rp>(</rp><rt>へん</rt><rp>)</rp></ruby>でしたね。
 
 **ロバート：是的，我能借你的笔记吗？**
-ええ。<ruby>後<rp>(</rp><rt>のち</rt><rp>)</rp></ruby>でスーさんのノートを<ruby>借<rp>(</rp><rt>か</rt><rp>)</rp></ruby>りてもいいですか
+ええ。<ruby>後<rp>(</rp><rt>あと</rt><rp>)</rp></ruby>でスーさんのノートを<ruby>借<rp>(</rp><rt>か</rt><rp>)</rp></ruby>りてもいいですか
 
 **スー：当然。**
 ええ、いいですよ。
@@ -551,7 +551,7 @@
 
 **在饭店**
 **店長：王先生，你为什么对这份工作感兴趣呢？**
-王さんはどうしてこのアルバイトに<ruby>興<rp>(</rp><rt>きょう</rt><rp>)</rp></ruby><ruby>味<rp>(</rp><rt>み</rt><rp>)</rp></ruby>があるんですか。
+<ruby>王<rp>(</rp><rt>おう</rt><rp>)</rp></ruby>さんはどうしてこのアルバイトに<ruby>興<rp>(</rp><rt>きょう</rt><rp>)</rp></ruby><ruby>味<rp>(</rp><rt>み</rt><rp>)</rp></ruby>があるんですか。
 
 **ジョン：看样子挺有意思。我能见到很多人，还能用日语……**
 <ruby>面<rp>(</rp><rt>おも</rt><rp>)</rp></ruby><ruby>白<rp>(</rp><rt>しろ</rt><rp>)</rp></ruby>そうですから。いろいろな<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>に<ruby>会<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>えるし、<ruby>日<rp>(</rp><rt>に</rt><rp>)</rp></ruby><ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby><ruby>語<rp>(</rp><rt>ご</rt><rp>)</rp></ruby>も<ruby>使<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>えるし。
@@ -772,116 +772,6 @@
 
 **ジョン：是的，车站工作人员帮了我。**
 ええ。<ruby>駅<rp>(</rp><rt>えき</rt><rp>)</rp></ruby><ruby>員<rp>(</rp><rt>いん</rt><rp>)</rp></ruby>さんに<ruby>手<rp>(</rp><rt>て</rt><rp>)</rp></ruby><ruby>伝<rp>(</rp><rt>つだ</rt><rp>)</rp></ruby>ってもらいましたから。
-
----
-## 第17课　ぐちとうわさ話・牢骚和闲聊 #0_14
-* [[ Dialogue_Menu_0.md | Menu #0_14 ]]
-
-![](src/17-1.PNG)
-![](src/17-2.PNG)
-
-**スー：阿武好久不见了，听说你在旅行社找到工作了。祝贺你!**
-たけしさん、<ruby>久<rp>(</rp><rt>ひさ</rt><rp>)</rp></ruby>しぶりですね。<ruby>旅<rp>(</rp><rt>りょ</rt><rp>)</rp></ruby><ruby>行<rp>(</rp><rt>こう</rt><rp>)</rp></ruby><ruby>会<rp>(</rp><rt>かい</rt><rp>)</rp></ruby><ruby>社<rp>(</rp><rt>しゃ</rt><rp>)</rp></ruby>に<ruby>就<rp>(</rp><rt>しゅう</rt><rp>)</rp></ruby><ruby>職<rp>(</rp><rt>しょく</rt><rp>)</rp></ruby>したそうですね。おめでとうございます。
-
-**たけし：谢谢你。**
-ありがとうございます。
-
-**スー：工作已经习惯了吗?**
-もう<ruby>仕<rp>(</rp><rt>し</rt><rp>)</rp></ruby><ruby>事<rp>(</rp><rt>ごと</rt><rp>)</rp></ruby>に<ruby>慣<rp>(</rp><rt>な</rt><rp>)</rp></ruby>れましたか。
-
-**たけし：习惯了。不过和学生时代相比忙了一些，一点儿没有自己的时间。**
-ええ。でも<ruby>学<rp>(</rp><rt>がく</rt><rp>)</rp></ruby><ruby>生<rp>(</rp><rt>せい</rt><rp>)</rp></ruby>の<ruby>時<rp>(</rp><rt>とき</rt><rp>)</rp></ruby>に<ruby>比<rp>(</rp><rt>くら</rt><rp>)</rp></ruby>べてすごく<ruby>忙<rp>(</rp><rt>いそが</rt><rp>)</rp></ruby>しくなりました。<ruby>自<rp>(</rp><rt>じ</rt><rp>)</rp></ruby><ruby>分<rp>(</rp><rt>ぶん</rt><rp>)</rp></ruby>の<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby><ruby>間<rp>(</rp><rt>かん</rt><rp>)</rp></ruby>がぜんぜんないんです。
-
-**スー：那可真辛苦。听说我朋友的公司经常放假，而且不用加班。**
-<ruby>大<rp>(</rp><rt>たい</rt><rp>)</rp></ruby><ruby>変<rp>(</rp><rt>へん</rt><rp>)</rp></ruby>ですねん。<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>の<ruby>友<rp>(</rp><rt>とも</rt><rp>)</rp></ruby><ruby>達<rp>(</rp><rt>だち</rt><rp>)</rp></ruby>の<ruby>会<rp>(</rp><rt>かい</rt><rp>)</rp></ruby><ruby>社<rp>(</rp><rt>しゃ</rt><rp>)</rp></ruby>は<ruby>休<rp>(</rp><rt>やす</rt><rp>)</rp></ruby>みが<ruby>多<rp>(</rp><rt>おお</rt><rp>)</rp></ruby>くて、<ruby>残<rp>(</rp><rt>ざん</rt><rp>)</rp></ruby><ruby>業<rp>(</rp><rt>ぎょう</rt><rp>)</rp></ruby>をしなくてもいいそうですよ。
-
-**たけし：我真羡慕。我们公司假期少，而且工资也低，真是糟透了。**
-うらやましいですよ。ぼくの<ruby>会<rp>(</rp><rt>かい</rt><rp>)</rp></ruby><ruby>社<rp>(</rp><rt>しゃ</rt><rp>)</rp></ruby>は<ruby>休<rp>(</rp><rt>やす</rt><rp>)</rp></ruby>みも<ruby>少<rp>(</rp><rt>すく</rt><rp>)</rp></ruby>ないし、<ruby>給<rp>(</rp><rt>きゅう</rt><rp>)</rp></ruby><ruby>料<rp>(</rp><rt>りょう</rt><rp>)</rp></ruby>も<ruby>安<rp>(</rp><rt>やす</rt><rp>)</rp></ruby>いし、<ruby>最<rp>(</rp><rt>さい</rt><rp>)</rp></ruby><ruby>低<rp>(</rp><rt>てい</rt><rp>)</rp></ruby>です。
-
-**スー：你进公司前为什么不好好调查一下情况呢?**
-<ruby>会<rp>(</rp><rt>かい</rt><rp>)</rp></ruby><ruby>社<rp>(</rp><rt>しゃ</rt><rp>)</rp></ruby>に<ruby>入<rp>(</rp><rt>はい</rt><rp>)</rp></ruby>る<ruby>前<rp>(</rp><rt>まえ</rt><rp>)</rp></ruby>にどうしてもっと<ruby>調<rp>(</rp><rt>しら</rt><rp>)</rp></ruby>べなかったんですか。
-
-**たけし：我以为进了旅行社就能旅行了呢。**
-<ruby>旅<rp>(</rp><rt>りょ</rt><rp>)</rp></ruby><ruby>行<rp>(</rp><rt>こう</rt><rp>)</rp></ruby><ruby>会<rp>(</rp><rt>かい</rt><rp>)</rp></ruby><ruby>社<rp>(</rp><rt>しゃ</rt><rp>)</rp></ruby>に<ruby>入<rp>(</rp><rt>はい</rt><rp>)</rp></ruby>ったら、<ruby>旅<rp>(</rp><rt>りょ</rt><rp>)</rp></ruby><ruby>行<rp>(</rp><rt>こう</rt><rp>)</rp></ruby>ができると<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>ったんです。
-
-**スー：今天早上我在车站看见阿武了。**
-けさ、<ruby>駅<rp>(</rp><rt>えき</rt><rp>)</rp></ruby>でたけしさんに<ruby>会<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>ったよ。
-
-**けん：毕业之后一直再没见过他，他好吗?**
-たけしさんが<ruby>卒<rp>(</rp><rt>そつ</rt><rp>)</rp></ruby><ruby>業<rp>(</rp><rt>ぎょう</rt><rp>)</rp></ruby>してからぜんぜん<ruby>会<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>ってないけど。<ruby>元<rp>(</rp><rt>げん</rt><rp>)</rp></ruby><ruby>気<rp>(</rp><rt>き</rt><rp>)</rp></ruby>だった？
-
-**スー：看样子他挺辛苦的。听说每晚只睡4、5个小时。**
-ずいぶん<ruby>疲<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>れているみたい。<ruby>毎<rp>(</rp><rt>まい</rt><rp>)</rp></ruby><ruby>晩<rp>(</rp><rt>ばん</rt><rp>)</rp></ruby><ruby>四<rp>(</rp><rt>し</rt><rp>)</rp></ruby>、<ruby>五<rp>(</rp><rt>ご</rt><rp>)</rp></ruby><ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby><ruby>間<rp>(</rp><rt>かん</rt><rp>)</rp></ruby>しか<ruby>寝<rp>(</rp><rt>ね</rt><rp>)</rp></ruby>ていないそうだよ。
-
-**けん：工薪阶层还是不容易啊。**
-やっぱりサラリーマンは<ruby>大<rp>(</rp><rt>たい</rt><rp>)</rp></ruby><ruby>変<rp>(</rp><rt>へん</rt><rp>)</rp></ruby>だなあ。
-
-**スー：还有，他说忙得连和玛丽约会的时间都没有。**
-それに、<ruby>忙<rp>(</rp><rt>いそが</rt><rp>)</rp></ruby>しすぎてメアリーとデートする<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby><ruby>間<rp>(</rp><rt>かん</rt><rp>)</rp></ruby>もないって。
-
-**けん：是吗。如果是我，我会选择女朋友而不是工作。但愿他们俩交往顺利。**
-そうか。ぼくだったら、<ruby>仕<rp>(</rp><rt>し</rt><rp>)</rp></ruby><ruby>事<rp>(</rp><rt>ごと</rt><rp>)</rp></ruby>より<ruby>彼<rp>(</rp><rt>かの</rt><rp>)</rp></ruby><ruby>女<rp>(</rp><rt>じょ</rt><rp>)</rp></ruby>を<ruby>選<rp>(</rp><rt>えら</rt><rp>)</rp></ruby>ぶけど。あの<ruby>二人<rp>(</rp><rt>ふたり</rt><rp>)</rp></ruby>、<ruby>大<rp>(</rp><rt>だい</rt><rp>)</rp></ruby><ruby>丈<rp>(</rp><rt>じょう</rt><rp>)</rp></ruby><ruby>夫<rp>(</rp><rt>ぶ</rt><rp>)</rp></ruby>かなあ。
-
----
-## 第18课　ジョンさんのアルバイト・约翰打工 #0_15
-* [[ Dialogue_Menu_0.md | Menu #0_15 ]]
-
-![](src/18-1.PNG)
-![](src/18-2.PNG)
-
-**在小亚洲饭店**
-**店長：约翰，今天听说森田君感冒了不能来，到了晚上会忙起来，全靠你了。**
-ジョンさん、<ruby>今日<rp>(</rp><rt>きょう</rt><rp>)</rp></ruby>は<ruby>森<rp>(</rp><rt>もり</rt><rp>)</rp></ruby><ruby>田<rp>(</rp><rt>た</rt><rp>)</rp></ruby>くん、かぜで　来られないそうだ。<ruby>夕<rp>(</rp><rt>ゆう</rt><rp>)</rp></ruby><ruby>方<rp>(</rp><rt>がた</rt><rp>)</rp></ruby>になると　<ruby>忙<rp>(</rp><rt>いそが</rt><rp>)</rp></ruby>しくなるから、<ruby>頼<rp>(</rp><rt>たの</rt><rp>)</rp></ruby>むよ。
-
-**ジョン：知道了，我会尽力的。**
-はい。がんばります。
-
-**店長：首先，冰箱里放有蔬菜，所以先拿出来。之后呢，外面的灯开着吗?**
-まず、<ruby>冷<rp>(</rp><rt>れい</rt><rp>)</rp></ruby><ruby>蔵<rp>(</rp><rt>ぞう</rt><rp>)</rp></ruby><ruby>庫<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>に<ruby>野<rp>(</rp><rt>や</rt><rp>)</rp></ruby><ruby>菜<rp>(</rp><rt>さい</rt><rp>)</rp></ruby>が<ruby>入<rp>(</rp><rt>はい</rt><rp>)</rp></ruby>っているから、<ruby>出<rp>(</rp><rt>で</rt><rp>)</rp></ruby>しておいて。それから、<ruby>外<rp>(</rp><rt>よそ</rt><rp>)</rp></ruby>の<ruby>電<rp>(</rp><rt>でん</rt><rp>)</rp></ruby><ruby>機<rp>(</rp><rt>き</rt><rp>)</rp></ruby>はついている？
-
-**ジョン：没开呢。打开吗?**
-いいえ、ついていません。つけましょうか。
-
-**店長：嗯。按一下那个开关就亮了。**
-うん。そこのスイッチを<ruby>押<rp>(</rp><rt>お</rt><rp>)</rp></ruby>すと　つくよ。
-
-**ジョン：好的。**
-はい。
-
-**顾客与约翰**
-**客：对不起，我弄洒了酱油，真不好意思。**
-しみません。<ruby>醤<rp>(</rp><rt>しょう</rt><rp>)</rp></ruby><ruby>油<rp>(</rp><rt>ゆ</rt><rp>)</rp></ruby>を　<ruby>落<rp>(</rp><rt>お</rt><rp>)</rp></ruby>とし　ちゃったんです。ごめんなさい。
-
-**ジョン：没关系。哎呀，你的裙子弄脏了。**
-いえ、<ruby>大<rp>(</rp><rt>だい</rt><rp>)</rp></ruby><ruby>丈<rp>(</rp><rt>じょう</rt><rp>)</rp></ruby><ruby>夫<rp>(</rp><rt>ぶ</rt><rp>)</rp></ruby>です。あっ、スカートが<ruby>汚<rp>(</rp><rt>よご</rt><rp>)</rp></ruby>れて　しまいましたね。
-
-**客：真是啊，这可怎么办。**
-<ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby><ruby>当<rp>(</rp><rt>とう</rt><rp>)</rp></ruby>だ。どうしよう。
-
-**ジョン：我马上拿毛巾来。**
-<ruby>今<rp>(</rp><rt>いま</rt><rp>)</rp></ruby>すぐ。タオルを<ruby>持<rp>(</rp><rt>も</rt><rp>)</rp></ruby>ってきます。
-
-**闭店后**
-**店長：今天你可帮了我的大忙了。**
-<ruby>今日<rp>(</rp><rt>きょう</rt><rp>)</rp></ruby>はジョンさんのおかげで、<ruby>助<rp>(</rp><rt>たす</rt><rp>)</rp></ruby>かったよ。
-
-**ジョン：没什么。不过可真忙啊。**
-いいえ。でも<ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby><ruby>当<rp>(</rp><rt>とう</rt><rp>)</rp></ruby>に<ruby>忙<rp>(</rp><rt>いそが</rt><rp>)</rp></ruby>しかったですね。
-
-**店長：明天你有课吧。边打工边上学真不容易啊。**
-あしたは　<ruby>学<rp>(</rp><rt>がっ</rt><rp>)</rp></ruby><ruby>校<rp>(</rp><rt>こう</rt><rp>)</rp></ruby>があるんだろう。アルバイトをしながら　<ruby>学<rp>(</rp><rt>がっ</rt><rp>)</rp></ruby><ruby>校<rp>(</rp><rt>こう</rt><rp>)</rp></ruby>に<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>くのは<ruby>大<rp>(</rp><rt>たい</rt><rp>)</rp></ruby><ruby>変<rp>(</rp><rt>へん</rt><rp>)</rp></ruby>だね。
-
-**ジョン：是啊，有时上课就迟到。**
-ええ、ときどき、<ruby>遅<rp>(</rp><rt>ち</rt><rp>)</rp></ruby><ruby>刻<rp>(</rp><rt>こく</rt><rp>)</rp></ruby>し　ちゃうんですよ。
-
-**店長：学生时代我也常逃课。当时真应该好好学啊。剩下的放着我来做。**
-ぼくも<ruby>学<rp>(</rp><rt>がく</rt><rp>)</rp></ruby><ruby>生<rp>(</rp><rt>せい</rt><rp>)</rp></ruby>の<ruby>時<rp>(</rp><rt>とき</rt><rp>)</rp></ruby>は　よく<ruby>授<rp>(</rp><rt>じゅ</rt><rp>)</rp></ruby><ruby>業<rp>(</rp><rt>ぎょう</rt><rp>)</rp></ruby>をサボったよ。もっと<ruby>勉<rp>(</rp><rt>べん</rt><rp>)</rp></ruby><ruby>強<rp>(</rp><rt>きょう</rt><rp>)</rp></ruby>すれば　よかったなあ。<ruby>後<rp>(</rp><rt>のち</rt><rp>)</rp></ruby>は　ぼくが　やっておくから。
-
-**ジョン：那么我先走了。您辛苦了。**
-じゃあ、お<ruby>先<rp>(</rp><rt>さき</rt><rp>)</rp></ruby>に<ruby>失<rp>(</rp><rt>しつ</rt><rp>)</rp></ruby><ruby>礼<rp>(</rp><rt>れい</rt><rp>)</rp></ruby>します。お<ruby>疲<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>れさまでした。
-
-**店長：你也辛苦了。**
-お<ruby>疲<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>れさま。
 
 ---
 

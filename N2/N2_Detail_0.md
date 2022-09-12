@@ -15,10 +15,10 @@
 1. **她作为研修生来到了日本。**
 <ruby>彼<rp>(</rp><rt>かの</rt><rp>)</rp></ruby><ruby>女<rp>(</rp><rt>じょ</rt><rp>)</rp></ruby>は　<ruby>研<rp>(</rp><rt>けん</rt><rp>)</rp></ruby><ruby>修<rp>(</rp><rt>しゅう</rt><rp>)</rp></ruby><ruby>生<rp>(</rp><rt>なま</rt><rp>)</rp></ruby>として　<ruby>日<rp>(</rp><rt>にっ</rt><rp>)</rp></ruby><ruby>本<rp>(</rp><rt>ぽん</rt><rp>)</rp></ruby>に　やってきた。
 2. **这本书作为教科书使用。**
-この<ruby>本<rp>(</rp><rt>もと</rt><rp>)</rp></ruby>は　テキストとして　<ruby>使<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>われている。
+この<ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby>は　テキストとして　<ruby>使<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>われている。
 3. **作为我本人相信这个商品。**
 <ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>としては、この<ruby>商<rp>(</rp><rt>しょう</rt><rp>)</rp></ruby><ruby>品<rp>(</rp><rt>ひん</rt><rp>)</rp></ruby>を　<ruby>信<rp>(</rp><rt>しん</rt><rp>)</rp></ruby><ruby>用<rp>(</rp><rt>よう</rt><rp>)</rp></ruby>している。
-4. **她虽然是个老师，但作为画家也优秀。**
+4. **她虽然是个老师，但作为画家也很优秀。**
 <ruby>彼<rp>(</rp><rt>かの</rt><rp>)</rp></ruby><ruby>女<rp>(</rp><rt>じょ</rt><rp>)</rp></ruby>は　<ruby>先<rp>(</rp><rt>せん</rt><rp>)</rp></ruby><ruby>生<rp>(</rp><rt>せい</rt><rp>)</rp></ruby>　であるが、<ruby>画<rp>(</rp><rt>が</rt><rp>)</rp></ruby><ruby>家<rp>(</rp><rt>か</rt><rp>)</rp></ruby>としても　<ruby>優<rp>(</rp><rt>ゆう</rt><rp>)</rp></ruby><ruby>秀<rp>(</rp><rt>しゅう</rt><rp>)</rp></ruby>　である。
 5. **我们必须起到作为公民一员的作用。**
 <ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>たちは　<ruby>国<rp>(</rp><rt>こく</rt><rp>)</rp></ruby><ruby>民<rp>(</rp><rt>みん</rt><rp>)</rp></ruby>の<ruby>一<rp>(</rp><rt>いち</rt><rp>)</rp></ruby><ruby>員<rp>(</rp><rt>いん</rt><rp>)</rp></ruby>としての　<ruby>役<rp>(</rp><rt>やく</rt><rp>)</rp></ruby><ruby>割<rp>(</rp><rt>わり</rt><rp>)</rp></ruby>を　<ruby>果<rp>(</rp><rt>は</rt><rp>)</rp></ruby>たさ　なければ　ならない。
@@ -44,7 +44,7 @@
 2. **被选为负责人在高兴的同时，还多少有点担心的心情。**
 <ruby>責<rp>(</rp><rt>せき</rt><rp>)</rp></ruby><ruby>任<rp>(</rp><rt>にん</rt><rp>)</rp></ruby><ruby>者<rp>(</rp><rt>しゃ</rt><rp>)</rp></ruby>に　<ruby>選<rp>(</rp><rt>えら</rt><rp>)</rp></ruby>ばれて　<ruby>嬉<rp>(</rp><rt>うれ</rt><rp>)</rp></ruby>しいと　ともに、<ruby>心<rp>(</rp><rt>しん</rt><rp>)</rp></ruby><ruby>配<rp>(</rp><rt>ぱい</rt><rp>)</rp></ruby>する　<ruby>気<rp>(</rp><rt>き</rt><rp>)</rp></ruby><ruby>持<rp>(</rp><rt>も</rt><rp>)</rp></ruby>ちも　<ruby>少<rp>(</rp><rt>すこ</rt><rp>)</rp></ruby>しある。
 3. **他是负责人，同时还是学者。**
-<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>は　<ruby>責<rp>(</rp><rt>せき</rt><rp>)</rp></ruby><ruby>任<rp>(</rp><rt>にん</rt><rp>)</rp></ruby><ruby>者<rp>(</rp><rt>しゃ</rt><rp>)</rp></ruby>であると　ともに、<ruby>学<rp>(</rp><rt>がく</rt><rp>)</rp></ruby><ruby>者<rp>(</rp><rt>しゃ</rt><rp>)</rp></ruby>　でもある。
+<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>は　<ruby>責<rp>(</rp><rt>せき</rt><rp>)</rp></ruby><ruby>任<rp>(</rp><rt>にん</rt><rp>)</rp></ruby><ruby>者<rp>(</rp><rt>しゃ</rt><rp>)</rp></ruby>であると　ともに、<ruby>学<rp>(</rp><rt>がく</rt><rp>)</rp></ruby><ruby>者<rp>(</rp><rt>しゃ</rt><rp>)</rp></ruby>でも　ある。
 
 ## 3. ～に対して（は）/～に対しても/に対する～ #1_3
 * [[ N2_Menu_0.md | Menu #1_3 ]]
@@ -54,13 +54,13 @@
 >**说明**：「对j
 
 1. **对女性不可使用粗暴的语言。**
-<ruby>女<rp>(</rp><rt>じょ</rt><rp>)</rp></ruby><ruby>性<rp>(</rp><rt>せい</rt><rp>)</rp></ruby>に　<ruby>対<rp>(</rp><rt>たい</rt><rp>)</rp></ruby>して　<ruby>乱<rp>(</rp><rt>らん</rt><rp>)</rp></ruby><ruby>暴<rp>(</rp><rt>ぼう</rt><rp>)</rp></ruby>な　<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>い<ruby>方<rp>(</rp><rt>かた</rt><rp>)</rp></ruby>を　しては　いけない。
+<ruby>女<rp>(</rp><rt>じょ</rt><rp>)</rp></ruby><ruby>性<rp>(</rp><rt>せい</rt><rp>)</rp></ruby>に　<ruby>対<rp>(</rp><rt>たい</rt><rp>)</rp></ruby>して　<ruby>乱<rp>(</rp><rt>らん</rt><rp>)</rp></ruby><ruby>暴<rp>(</rp><rt>ぼう</rt><rp>)</rp></ruby>な　<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>い<ruby>方<rp>(</rp><rt>ほう</rt><rp>)</rp></ruby>を　してはいけない。
 2. **对有实际业绩的人给予奖金。**
-<ruby>実<rp>(</rp><rt>じっ</rt><rp>)</rp></ruby><ruby>績<rp>(</rp><rt>せき</rt><rp>)</rp></ruby>のある　<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>に　<ruby>対<rp>(</rp><rt>たい</rt><rp>)</rp></ruby>しては、ボーナスを　<ruby>与<rp>(</rp><rt>あた</rt><rp>)</rp></ruby>える。
+<ruby>実<rp>(</rp><rt>じっ</rt><rp>)</rp></ruby><ruby>績<rp>(</rp><rt>せき</rt><rp>)</rp></ruby>のある<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>に　<ruby>対<rp>(</rp><rt>たい</rt><rp>)</rp></ruby>しては、ボーナスを　<ruby>与<rp>(</rp><rt>あた</rt><rp>)</rp></ruby>える。
 3. **山田先生不仅擅长外语，而且对计算机也很精通。**
-<ruby>山<rp>(</rp><rt>やま</rt><rp>)</rp></ruby><ruby>田<rp>(</rp><rt>だ</rt><rp>)</rp></ruby>さんは　<ruby>外<rp>(</rp><rt>がい</rt><rp>)</rp></ruby><ruby>国<rp>(</rp><rt>こく</rt><rp>)</rp></ruby><ruby>語<rp>(</rp><rt>ご</rt><rp>)</rp></ruby>だけ　でなく、コンピューターに　<ruby>対<rp>(</rp><rt>たい</rt><rp>)</rp></ruby>しても　<ruby>詳<rp>(</rp><rt>くわ</rt><rp>)</rp></ruby>しい。
+<ruby>山<rp>(</rp><rt>やま</rt><rp>)</rp></ruby><ruby>田<rp>(</rp><rt>だ</rt><rp>)</rp></ruby>さんは　<ruby>外<rp>(</rp><rt>がい</rt><rp>)</rp></ruby><ruby>国<rp>(</rp><rt>こく</rt><rp>)</rp></ruby><ruby>語<rp>(</rp><rt>ご</rt><rp>)</rp></ruby>だけ　でなく、コンピューターに　<ruby>対<rp>(</rp><rt>たい</rt><rp>)</rp></ruby>しても　<ruby>詳<rp>(</rp><rt>くわし</rt><rp>)</rp></ruby>しい。
 4. **作为公民应该具有对社会的责任感。**
-<ruby>国<rp>(</rp><rt>こく</rt><rp>)</rp></ruby><ruby>民<rp>(</rp><rt>みん</rt><rp>)</rp></ruby>としては　<ruby>社<rp>(</rp><rt>しゃ</rt><rp>)</rp></ruby><ruby>会<rp>(</rp><rt>かい</rt><rp>)</rp></ruby>に　<ruby>対<rp>(</rp><rt>たい</rt><rp>)</rp></ruby>する　<ruby>責<rp>(</rp><rt>せき</rt><rp>)</rp></ruby><ruby>任<rp>(</rp><rt>にん</rt><rp>)</rp></ruby><ruby>感<rp>(</rp><rt>かん</rt><rp>)</rp></ruby>を　<ruby>持<rp>(</rp><rt>も</rt><rp>)</rp></ruby>つ　べき　である。
+<ruby>国<rp>(</rp><rt>こく</rt><rp>)</rp></ruby><ruby>民<rp>(</rp><rt>みん</rt><rp>)</rp></ruby>としては　<ruby>社<rp>(</rp><rt>しゃ</rt><rp>)</rp></ruby><ruby>会<rp>(</rp><rt>かい</rt><rp>)</rp></ruby>に　<ruby>対<rp>(</rp><rt>たい</rt><rp>)</rp></ruby>する　<ruby>責<rp>(</rp><rt>せき</rt><rp>)</rp></ruby><ruby>任<rp>(</rp><rt>にん</rt><rp>)</rp></ruby><ruby>感<rp>(</rp><rt>かん</rt><rp>)</rp></ruby>を　<ruby>持<rp>(</rp><rt>も</rt><rp>)</rp></ruby>つ　べきである。
 
 ## 4. ～に伴って/～に伴う～ #1_4
 * [[ N2_Menu_0.md | Menu #1_4 ]]
@@ -82,7 +82,7 @@
 2. **伴随台风，常有暴雨。**
 <ruby>台<rp>(</rp><rt>たい</rt><rp>)</rp></ruby><ruby>風<rp>(</rp><rt>ふう</rt><rp>)</rp></ruby>に　<ruby>伴<rp>(</rp><rt>ともな</rt><rp>)</rp></ruby>って、<ruby>豪<rp>(</rp><rt>ごう</rt><rp>)</rp></ruby><ruby>雨<rp>(</rp><rt>う</rt><rp>)</rp></ruby>が　<ruby>降<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby>ることが　<ruby>多<rp>(</rp><rt>おお</rt><rp>)</rp></ruby>い。
 3. **权利也有伴随的义务。**
-<ruby>権<rp>(</rp><rt>けん</rt><rp>)</rp></ruby><ruby>利<rp>(</rp><rt>り</rt><rp>)</rp></ruby>には、それに　<ruby>伴<rp>(</rp><rt>ともな</rt><rp>)</rp></ruby>う<ruby>義<rp>(</rp><rt>ぎ</rt><rp>)</rp></ruby><ruby>務<rp>(</rp><rt>む</rt><rp>)</rp></ruby>も　ある。
+<ruby>権<rp>(</rp><rt>けん</rt><rp>)</rp></ruby><ruby>利<rp>(</rp><rt>り</rt><rp>)</rp></ruby>には、それに　<ruby>伴<rp>(</rp><rt>ともな</rt><rp>)</rp></ruby>う　<ruby>義<rp>(</rp><rt>ぎ</rt><rp>)</rp></ruby><ruby>務<rp>(</rp><rt>む</rt><rp>)</rp></ruby>もある。
 
 ## 5. ～につれて #1_5
 * [[ N2_Menu_0.md | Menu #1_5 ]]
@@ -134,7 +134,7 @@
 >**说明**：「由w」「由～的J
 
 1. **这本书是由村井先生翻译的。**
-この<ruby>本<rp>(</rp><rt>もと</rt><rp>)</rp></ruby>は　<ruby>村<rp>(</rp><rt>むら</rt><rp>)</rp></ruby><ruby>井<rp>(</rp><rt>い</rt><rp>)</rp></ruby><ruby>先<rp>(</rp><rt>せん</rt><rp>)</rp></ruby><ruby>生<rp>(</rp><rt>せい</rt><rp>)</rp></ruby>によって　<ruby>翻<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby><ruby>訳<rp>(</rp><rt>やく</rt><rp>)</rp></ruby>された。
+この<ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby>は　<ruby>村<rp>(</rp><rt>むら</rt><rp>)</rp></ruby><ruby>井<rp>(</rp><rt>い</rt><rp>)</rp></ruby><ruby>先<rp>(</rp><rt>せん</rt><rp>)</rp></ruby><ruby>生<rp>(</rp><rt>せい</rt><rp>)</rp></ruby>によって　<ruby>翻<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby><ruby>訳<rp>(</rp><rt>やく</rt><rp>)</rp></ruby>された。
 2. **新的医保制度被全国人民代表大会通过。**
 <ruby>新<rp>(</rp><rt>あたら</rt><rp>)</rp></ruby>しい　<ruby>医<rp>(</rp><rt>い</rt><rp>)</rp></ruby><ruby>療<rp>(</rp><rt>りょう</rt><rp>)</rp></ruby><ruby>保<rp>(</rp><rt>ほ</rt><rp>)</rp></ruby><ruby>険<rp>(</rp><rt>けん</rt><rp>)</rp></ruby><ruby>制<rp>(</rp><rt>せい</rt><rp>)</rp></ruby><ruby>度<rp>(</rp><rt>ど</rt><rp>)</rp></ruby>は　<ruby>全<rp>(</rp><rt>ぜん</rt><rp>)</rp></ruby><ruby>国<rp>(</rp><rt>こく</rt><rp>)</rp></ruby><ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby><ruby>大<rp>(</rp><rt>おお</rt><rp>)</rp></ruby>により　<ruby>承<rp>(</rp><rt>しょう</rt><rp>)</rp></ruby><ruby>認<rp>(</rp><rt>にん</rt><rp>)</rp></ruby>された。
 
@@ -270,7 +270,7 @@
 >**说明**：「以～为主」「以～为首」
 
 1. **上海图书馆以中文书为主，有许多各种各样语言的书籍。**
-<ruby>上<rp>(</rp><rt>しゃん</rt><rp>)</rp></ruby><ruby>海<rp>(</rp><rt>はい</rt><rp>)</rp></ruby><ruby>図<rp>(</rp><rt>と</rt><rp>)</rp></ruby><ruby>書<rp>(</rp><rt>しょ</rt><rp>)</rp></ruby><ruby>館<rp>(</rp><rt>かん</rt><rp>)</rp></ruby>には　<ruby>中<rp>(</rp><rt>Nじゅう・Vちゅう</rt><rp>)</rp></ruby><ruby>国<rp>(</rp><rt>こく</rt><rp>)</rp></ruby><ruby>語<rp>(</rp><rt>ご</rt><rp>)</rp></ruby>の<ruby>本<rp>(</rp><rt>もと</rt><rp>)</rp></ruby>を　はじめ、いろいろな　<ruby>言<rp>(</rp><rt>こと</rt><rp>)</rp></ruby><ruby>葉<rp>(</rp><rt>ば</rt><rp>)</rp></ruby>の<ruby>本<rp>(</rp><rt>もと</rt><rp>)</rp></ruby>が　たくさん　ある。
+<ruby>上<rp>(</rp><rt>しゃん</rt><rp>)</rp></ruby><ruby>海<rp>(</rp><rt>はい</rt><rp>)</rp></ruby><ruby>図<rp>(</rp><rt>と</rt><rp>)</rp></ruby><ruby>書<rp>(</rp><rt>しょ</rt><rp>)</rp></ruby><ruby>館<rp>(</rp><rt>かん</rt><rp>)</rp></ruby>には　<ruby>中<rp>(</rp><rt>Nじゅう・Vちゅう</rt><rp>)</rp></ruby><ruby>国<rp>(</rp><rt>こく</rt><rp>)</rp></ruby><ruby>語<rp>(</rp><rt>ご</rt><rp>)</rp></ruby>の<ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby>を　はじめ、いろいろな　<ruby>言<rp>(</rp><rt>こと</rt><rp>)</rp></ruby><ruby>葉<rp>(</rp><rt>ば</rt><rp>)</rp></ruby>の<ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby>が　たくさん　ある。
 2. **以首相为首的代表团访问了美国。**
 <ruby>首<rp>(</rp><rt>しゅ</rt><rp>)</rp></ruby><ruby>相<rp>(</rp><rt>しょう</rt><rp>)</rp></ruby>を　はじめとする　<ruby>代<rp>(</rp><rt>だい</rt><rp>)</rp></ruby><ruby>表<rp>(</rp><rt>ひょう</rt><rp>)</rp></ruby><ruby>団<rp>(</rp><rt>だん</rt><rp>)</rp></ruby>が　アメリカを　<ruby>訪<rp>(</rp><rt>おとず</rt><rp>)</rp></ruby>れた。
 
@@ -296,7 +296,7 @@
 1. **无论平时或休息日，如有急事请随时联系。**
 平<ruby>日<rp>(</rp><rt>ひ</rt><rp>)</rp></ruby>、<ruby>休<rp>(</rp><rt>きゅう</rt><rp>)</rp></ruby><ruby>日<rp>(</rp><rt>じつ</rt><rp>)</rp></ruby>を　<ruby>問<rp>(</rp><rt>と</rt><rp>)</rp></ruby>わず、<ruby>急<rp>(</rp><rt>きゅう</rt><rp>)</rp></ruby><ruby>用<rp>(</rp><rt>よう</rt><rp>)</rp></ruby>なら　いつでも　<ruby>連<rp>(</rp><rt>れん</rt><rp>)</rp></ruby><ruby>絡<rp>(</rp><rt>らく</rt><rp>)</rp></ruby>して　ください。
 2. **不论年龄学历，招聘胜任者。**
-<ruby>年<rp>(</rp><rt>ねん</rt><rp>)</rp></ruby><ruby>齢<rp>(</rp><rt>れい</rt><rp>)</rp></ruby>、<ruby>学<rp>(</rp><rt>がく</rt><rp>)</rp></ruby><ruby>歴<rp>(</rp><rt>れき</rt><rp>)</rp></ruby>は　<ruby>問<rp>(</rp><rt>と</rt><rp>)</rp></ruby>わず、適任<ruby>者<rp>(</rp><rt>もの</rt><rp>)</rp></ruby>を　<ruby>募<rp>(</rp><rt>ぼ</rt><rp>)</rp></ruby><ruby>集<rp>(</rp><rt>しゅう</rt><rp>)</rp></ruby>する。
+<ruby>年<rp>(</rp><rt>ねん</rt><rp>)</rp></ruby><ruby>齢<rp>(</rp><rt>れい</rt><rp>)</rp></ruby>、<ruby>学<rp>(</rp><rt>がく</rt><rp>)</rp></ruby><ruby>歴<rp>(</rp><rt>れき</rt><rp>)</rp></ruby>は　<ruby>問<rp>(</rp><rt>と</rt><rp>)</rp></ruby>わず、適任<ruby>者<rp>(</rp><rt>しゃ</rt><rp>)</rp></ruby>を　<ruby>募<rp>(</rp><rt>ぼ</rt><rp>)</rp></ruby><ruby>集<rp>(</rp><rt>しゅう</rt><rp>)</rp></ruby>する。
 
 ## 19. ～うちに/～ないうちに #1_19
 * [[ N2_Menu_0.md | Menu #1_19 ]]
@@ -343,339 +343,6 @@
 このマンションは　<ruby>周<rp>(</rp><rt>まわ</rt><rp>)</rp></ruby>りが　<ruby>静<rp>(</rp><rt>しず</rt><rp>)</rp></ruby>かな　うえに、<ruby>環<rp>(</rp><rt>かん</rt><rp>)</rp></ruby><ruby>境<rp>(</rp><rt>きょう</rt><rp>)</rp></ruby>も　きれいだ。
 4. **这工作不但待遇好，再加上上下班也近，所以决定做。**
 この<ruby>仕<rp>(</rp><rt>し</rt><rp>)</rp></ruby><ruby>事<rp>(</rp><rt>ごと</rt><rp>)</rp></ruby>は、<ruby>良<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>い<ruby>待<rp>(</rp><rt>たい</rt><rp>)</rp></ruby><ruby>遇<rp>(</rp><rt>ぐう</rt><rp>)</rp></ruby>の　うえに　<ruby>通<rp>(</rp><rt>つう</rt><rp>)</rp></ruby><ruby>勤<rp>(</rp><rt>きん</rt><rp>)</rp></ruby>も　<ruby>近<rp>(</rp><rt>ちか</rt><rp>)</rp></ruby>い　ので、やることに　した。
-
-## 单元练习 #1_21
-* [[ N2_Menu_0.md | Menu #1_21 ]]
-
-1. <ruby>世<rp>(</rp><rt>せ</rt><rp>)</rp></ruby><ruby>界<rp>(</rp><rt>かい</rt><rp>)</rp></ruby>でエズの<ruby>患<rp>(</rp><rt>かん</rt><rp>)</rp></ruby><ruby>者<rp>(</rp><rt>じゃ</rt><rp>)</rp></ruby>は<ruby>一<rp>(</rp><rt>いっ</rt><rp>)</rp></ruby><ruby>方<rp>(</rp><rt>ぽう</rt><rp>)</rp></ruby>だ。
-A)<ruby>増<rp>(</rp><rt>ぞう</rt><rp>)</rp></ruby><ruby>加<rp>(</rp><rt>か</rt><rp>)</rp></ruby>している
-B)<ruby>増<rp>(</rp><rt>ぞう</rt><rp>)</rp></ruby><ruby>加<rp>(</rp><rt>か</rt><rp>)</rp></ruby>する
-C)<ruby>増<rp>(</rp><rt>ぞう</rt><rp>)</rp></ruby><ruby>加<rp>(</rp><rt>か</rt><rp>)</rp></ruby>して
-D)<ruby>増<rp>(</rp><rt>ぞう</rt><rp>)</rp></ruby><ruby>加<rp>(</rp><rt>か</rt><rp>)</rp></ruby>した
-    ><details>
-    ><summary>
-    >详解</summary>
-    >
-    >**答案**：
-    **解析**：
-    ></details>
-
-2. <ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>は<ruby>料<rp>(</rp><rt>りょう</rt><rp>)</rp></ruby><ruby>理<rp>(</rp><rt>り</rt><rp>)</rp></ruby>の<ruby>専<rp>(</rp><rt>せん</rt><rp>)</rp></ruby><ruby>門<rp>(</rp><rt>もん</rt><rp>)</rp></ruby><ruby>学<rp>(</rp><rt>がっ</rt><rp>)</rp></ruby><ruby>校<rp>(</rp><rt>こう</rt><rp>)</rp></ruby>を<ruby>出<rp>(</rp><rt>で</rt><rp>)</rp></ruby>たの　だから、<ruby>料<rp>(</rp><rt>りょう</rt><rp>)</rp></ruby><ruby>理<rp>(</rp><rt>り</rt><rp>)</rp></ruby>がわけがない
-A)<ruby>下<rp>(</rp><rt>へ</rt><rp>)</rp></ruby><ruby>手<rp>(</rp><rt>た</rt><rp>)</rp></ruby>
-B)<ruby>下<rp>(</rp><rt>へ</rt><rp>)</rp></ruby><ruby>手<rp>(</rp><rt>た</rt><rp>)</rp></ruby>だ
-C)<ruby>下<rp>(</rp><rt>へ</rt><rp>)</rp></ruby><ruby>手<rp>(</rp><rt>た</rt><rp>)</rp></ruby>な
-D)<ruby>下<rp>(</rp><rt>へ</rt><rp>)</rp></ruby><ruby>手<rp>(</rp><rt>た</rt><rp>)</rp></ruby>で
-    ><details>
-    ><summary>
-    >详解</summary>
-    >
-    >**答案**：
-    **解析**：
-    ></details>
-
-3. おそれがあるそうです　から、<ruby>気<rp>(</rp><rt>き</rt><rp>)</rp></ruby>を<ruby>付<rp>(</rp><rt>つ</rt><rp>)</rp></ruby>けてください。
-A)<ruby>台<rp>(</rp><rt>たい</rt><rp>)</rp></ruby><ruby>風<rp>(</rp><rt>ふう</rt><rp>)</rp></ruby>が<ruby>接<rp>(</rp><rt>せっ</rt><rp>)</rp></ruby><ruby>近<rp>(</rp><rt>きん</rt><rp>)</rp></ruby>しない
-B)<ruby>台<rp>(</rp><rt>たい</rt><rp>)</rp></ruby><ruby>風<rp>(</rp><rt>ふう</rt><rp>)</rp></ruby>が<ruby>接<rp>(</rp><rt>せっ</rt><rp>)</rp></ruby><ruby>近<rp>(</rp><rt>きん</rt><rp>)</rp></ruby>した
-C)<ruby>台<rp>(</rp><rt>たい</rt><rp>)</rp></ruby><ruby>風<rp>(</rp><rt>ふう</rt><rp>)</rp></ruby>が<ruby>接<rp>(</rp><rt>せっ</rt><rp>)</rp></ruby><ruby>近<rp>(</rp><rt>きん</rt><rp>)</rp></ruby>する
-D)<ruby>台<rp>(</rp><rt>たい</rt><rp>)</rp></ruby><ruby>風<rp>(</rp><rt>ふう</rt><rp>)</rp></ruby>が<ruby>接<rp>(</rp><rt>せっ</rt><rp>)</rp></ruby><ruby>近<rp>(</rp><rt>きん</rt><rp>)</rp></ruby>している
-    ><details>
-    ><summary>
-    >详解</summary>
-    >
-    >**答案**：
-    **解析**：
-    ></details>
-
-4. これは<ruby>生<rp>(</rp><rt>せい</rt><rp>)</rp></ruby><ruby>徒<rp>(</rp><rt>と</rt><rp>)</rp></ruby>から<ruby>預<rp>(</rp><rt>あず</rt><rp>)</rp></ruby>かったお<ruby>金<rp>(</rp><rt>かね</rt><rp>)</rp></ruby>　だから、わけにはいかない。
-A)<ruby>使<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>わない
-B)<ruby>使<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>う
-C)<ruby>借<rp>(</rp><rt>か</rt><rp>)</rp></ruby>りたい
-D)<ruby>借<rp>(</rp><rt>か</rt><rp>)</rp></ruby>りた
-    ><details>
-    ><summary>
-    >详解</summary>
-    >
-    >**答案**：
-    **解析**：
-    ></details>
-
-5. <ruby>福<rp>(</rp><rt>ふっ</rt><rp>)</rp></ruby><ruby>建<rp>(</rp><rt>けん</rt><rp>)</rp></ruby><ruby>省<rp>(</rp><rt>しょう</rt><rp>)</rp></ruby>から<ruby>台<rp>(</rp><rt>だい</rt><rp>)</rp></ruby><ruby>湾<rp>(</rp><rt>わん</rt><rp>)</rp></ruby><ruby>大<rp>(</rp><rt>おお</rt><rp>)</rp></ruby><ruby>雨<rp>(</rp><rt>あめ</rt><rp>)</rp></ruby>が<ruby>降<rp>(</rp><rt>お</rt><rp>)</rp></ruby>りました。
-A)まで
-B)にかけて
-C)について
-D)に<ruby>対<rp>(</rp><rt>たい</rt><rp>)</rp></ruby>して
-    ><details>
-    ><summary>
-    >详解</summary>
-    >
-    >**答案**：
-    **解析**：
-    ></details>
-
-6. <ruby>人<rp>(</rp><rt>じん</rt><rp>)</rp></ruby><ruby>生<rp>(</rp><rt>せい</rt><rp>)</rp></ruby>には<ruby>苦<rp>(</rp><rt>くる</rt><rp>)</rp></ruby>しみあれば<ruby>楽<rp>(</rp><rt>たの</rt><rp>)</rp></ruby>しみもある。
-A)や
-B)と
-C)さえ
-D)も
-    ><details>
-    ><summary>
-    >详解</summary>
-    >
-    >**答案**：
-    **解析**：
-    ></details>
-
-7. 王さんは<ruby>暇<rp>(</rp><rt>ひま</rt><rp>)</rp></ruby>_______あれば<ruby>本<rp>(</rp><rt>もと</rt><rp>)</rp></ruby>を<ruby>読<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>んでいる。
-A)など
-B)さえ
-C)でも
-D)だけ
-    ><details>
-    ><summary>
-    >详解</summary>
-    >
-    >**答案**：
-    **解析**：
-    ></details>
-
-8. <ruby>急<rp>(</rp><rt>きゅう</rt><rp>)</rp></ruby>に<ruby>引<rp>(</rp><rt>ひ</rt><rp>)</rp></ruby>っ<ruby>越<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>すことになって、<ruby>荷<rp>(</rp><rt>に</rt><rp>)</rp></ruby><ruby>作<rp>(</rp><rt>つく</rt><rp>)</rp></ruby>り_______いろいろな<ruby>手<rp>(</rp><rt>て</rt><rp>)</rp></ruby><ruby>続<rp>(</rp><rt>つづ</rt><rp>)</rp></ruby>き_______で忙い。
-A)でも
-B)も
-C)に
-D)やら
-    ><details>
-    ><summary>
-    >详解</summary>
-    >
-    >**答案**：
-    **解析**：
-    ></details>
-
-9. この<ruby>画<rp>(</rp><rt>が</rt><rp>)</rp></ruby><ruby>面<rp>(</rp><rt>めん</rt><rp>)</rp></ruby>は<ruby>片<rp>(</rp><rt>かた</rt><rp>)</rp></ruby><ruby>仮<rp>(</rp><rt>か</rt><rp>)</rp></ruby><ruby>名<rp>(</rp><rt>な</rt><rp>)</rp></ruby>_______でわかりにくい。
-A)せい
-B)氨<ruby>味<rp>(</rp><rt>み</rt><rp>)</rp></ruby>
-C)がち
-D)だらけ
-    ><details>
-    ><summary>
-    >详解</summary>
-    >
-    >**答案**：
-    **解析**：
-    ></details>
-
-10. たとえ_______<ruby>文<rp>(</rp><rt>ぶん</rt><rp>)</rp></ruby><ruby>法<rp>(</rp><rt>ぽう</rt><rp>)</rp></ruby>の<ruby>本<rp>(</rp><rt>もと</rt><rp>)</rp></ruby>は<ruby>勉<rp>(</rp><rt>べん</rt><rp>)</rp></ruby><ruby>強<rp>(</rp><rt>きょう</rt><rp>)</rp></ruby>に<ruby>必<rp>(</rp><rt>ひつ</rt><rp>)</rp></ruby><ruby>要<rp>(</rp><rt>よう</rt><rp>)</rp></ruby>　だから<ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>おう　と<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>う。
-A)<ruby>高<rp>(</rp><rt>たか</rt><rp>)</rp></ruby>くないのでも
-B)<ruby>高<rp>(</rp><rt>たか</rt><rp>)</rp></ruby>ければ
-C)<ruby>高<rp>(</rp><rt>たか</rt><rp>)</rp></ruby>いのに
-D)<ruby>高<rp>(</rp><rt>たか</rt><rp>)</rp></ruby>くても
-    ><details>
-    ><summary>
-    >详解</summary>
-    >
-    >**答案**：
-    **解析**：
-    ></details>
-
-11. <ruby>上<rp>(</rp><rt>しゃん</rt><rp>)</rp></ruby><ruby>海<rp>(</rp><rt>はい</rt><rp>)</rp></ruby>から<ruby>北<rp>(</rp><rt>ぺ</rt><rp>)</rp></ruby><ruby>京<rp>(</rp><rt>きん</rt><rp>)</rp></ruby>まで<ruby>飛<rp>(</rp><rt>ひ</rt><rp>)</rp></ruby><ruby><ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby><rp>(</rp><rt>こう</rt><rp>)</rp></ruby><ruby>機<rp>(</rp><rt>き</rt><rp>)</rp></ruby>で1<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby><ruby>間<rp>(</rp><rt>かん</rt><rp>)</rp></ruby>で<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>ける_______がない。
-A)わけ
-B)こと
-C)もの
-D)ほど
-    ><details>
-    ><summary>
-    >详解</summary>
-    >
-    >**答案**：
-    **解析**：
-    ></details>
-
-12. <ruby>新<rp>(</rp><rt>しん</rt><rp>)</rp></ruby><ruby>聞<rp>(</rp><rt>ぶん</rt><rp>)</rp></ruby>によれば、<ruby>大<rp>(</rp><rt>おお</rt><rp>)</rp></ruby><ruby>勢<rp>(</rp><rt>ぜい</rt><rp>)</rp></ruby>の<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>が<ruby>医<rp>(</rp><rt>い</rt><rp>)</rp></ruby><ruby>療<rp>(</rp><rt>りょう</rt><rp>)</rp></ruby><ruby>保<rp>(</rp><rt>ほ</rt><rp>)</rp></ruby><ruby>険<rp>(</rp><rt>けん</rt><rp>)</rp></ruby>の<ruby>改<rp>(</rp><rt>かい</rt><rp>)</rp></ruby><ruby>革<rp>(</rp><rt>かく</rt><rp>)</rp></ruby>を<ruby>支<rp>(</rp><rt>し</rt><rp>)</rp></ruby><ruby>持<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>している　という_______だ。
-A)ほど
-B)もの
-C)くらい
-D)こと
-    ><details>
-    ><summary>
-    >详解</summary>
-    >
-    >**答案**：
-    **解析**：
-    ></details>
-
-13. <ruby>課<rp>(</rp><rt>か</rt><rp>)</rp></ruby><ruby>長<rp>(</rp><rt>ちょう</rt><rp>)</rp></ruby>の<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>った_______やってみたんですが、あまりうまくできなかった。
-A)とおりに
-B)せいで
-C)おかげで
-D)ばかりに
-    ><details>
-    ><summary>
-    >详解</summary>
-    >
-    >**答案**：
-    **解析**：
-    ></details>
-
-14. <ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>の<ruby>病<rp>(</rp><rt>びょう</rt><rp>)</rp></ruby><ruby>気<rp>(</rp><rt>き</rt><rp>)</rp></ruby>が<ruby>悪<rp>(</rp><rt>わる</rt><rp>)</rp></ruby>くなる_______で<ruby>回<rp>(</rp><rt>かい</rt><rp>)</rp></ruby><ruby>復<rp>(</rp><rt>ふく</rt><rp>)</rp></ruby>の<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby><ruby>込<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>みがない。
-A)おそれ
-B)せい
-C)<ruby>一<rp>(</rp><rt>いっ</rt><rp>)</rp></ruby><ruby>方<rp>(</rp><rt>ぽう</rt><rp>)</rp></ruby>
-D)ばかりに
-    ><details>
-    ><summary>
-    >详解</summary>
-    >
-    >**答案**：
-    **解析**：
-    ></details>
-
-15. <ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べ<ruby>物<rp>(</rp><rt>もの</rt><rp>)</rp></ruby>がなくても、<ruby>水<rp>(</rp><rt>みず</rt><rp>)</rp></ruby>_______<ruby>飲<rp>(</rp><rt>の</rt><rp>)</rp></ruby>めば、<ruby>人<rp>(</rp><rt>にん</rt><rp>)</rp></ruby><ruby>間<rp>(</rp><rt>げん</rt><rp>)</rp></ruby>は<ruby>何<rp>(</rp><rt>なん</rt><rp>)</rp></ruby><ruby>日<rp>(</rp><rt>にち</rt><rp>)</rp></ruby>か<ruby>生<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きていられる。
-A)こそ
-B)さえ
-C)ほど
-D)しか
-    ><details>
-    ><summary>
-    >详解</summary>
-    >
-    >**答案**：
-    **解析**：
-    ></details>
-
-16. そんなに<ruby>体<rp>(</rp><rt>からだ</rt><rp>)</rp></ruby>が<ruby>弱<rp>(</rp><rt>よわ</rt><rp>)</rp></ruby>そうだった山<ruby>下<rp>(</rp><rt>もと</rt><rp>)</rp></ruby>さんが<ruby>登<rp>(</rp><rt>と</rt><rp>)</rp></ruby><ruby>山<rp>(</rp><rt>ざん</rt><rp>)</rp></ruby>に<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>ける_______。
-A)ものがない
-B)べきではない
-C)わけがない
-D)に<ruby>違<rp>(</rp><rt>ちが</rt><rp>)</rp></ruby>いない
-    ><details>
-    ><summary>
-    >详解</summary>
-    >
-    >**答案**：
-    **解析**：
-    ></details>
-
-17. <ruby>先<rp>(</rp><rt>せん</rt><rp>)</rp></ruby><ruby>生<rp>(</rp><rt>せい</rt><rp>)</rp></ruby>からお<ruby>借<rp>(</rp><rt>か</rt><rp>)</rp></ruby>りした<ruby>辞<rp>(</rp><rt>じ</rt><rp>)</rp></ruby><ruby>書<rp>(</rp><rt>しょ</rt><rp>)</rp></ruby>　だから、あげる_______にはいかない。
-A)ところ
-B)こと℃。もの
-D)わけ
-    ><details>
-    ><summary>
-    >详解</summary>
-    >
-    >**答案**：
-    **解析**：
-    ></details>
-
-18. お<ruby>土<rp>(</rp><rt>み</rt><rp>)</rp></ruby><ruby>産<rp>(</rp><rt>やげ</rt><rp>)</rp></ruby>にお<ruby>菓<rp>(</rp><rt>か</rt><rp>)</rp></ruby><ruby>子<rp>(</rp><rt>し</rt><rp>)</rp></ruby>を<ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>って<ruby>帰<rp>(</rp><rt>かえ</rt><rp>)</rp></ruby>ったら、母もお<ruby>菓<rp>(</rp><rt>か</rt><rp>)</rp></ruby><ruby>子<rp>(</rp><rt>し</rt><rp>)</rp></ruby>を<ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>って来ていた。さらに<ruby>友<rp>(</rp><rt>とも</rt><rp>)</rp></ruby><ruby>達<rp>(</rp><rt>だち</rt><rp>)</rp></ruby>がお棄<ruby>子<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>さ必ってくれたので、<ruby>今<rp>(</rp><rt>いま</rt><rp>)</rp></ruby>、<ruby>家<rp>(</rp><rt>うち・いえ</rt><rp>)</rp></ruby>の<ruby>中<rp>(</rp><rt>なか</rt><rp>)</rp></ruby>はお<ruby>菓<rp>(</rp><rt>か</rt><rp>)</rp></ruby><ruby>子<rp>(</rp><rt>し</rt><rp>)</rp></ruby>_______である。
-A)かぎり
-B)どころ
-C)だらけ
-D)なんか
-    ><details>
-    ><summary>
-    >详解</summary>
-    >
-    >**答案**：
-    **解析**：
-    ></details>
-
-19. <ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby><ruby>屋<rp>(</rp><rt>や</rt><rp>)</rp></ruby>へ本を<ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>いに<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>った_______、<ruby>隣<rp>(</rp><rt>となり</rt><rp>)</rp></ruby>にある<ruby>郵<rp>(</rp><rt>ゆう</rt><rp>)</rp></ruby><ruby>便<rp>(</rp><rt>びん</rt><rp>)</rp></ruby><ruby>局<rp>(</rp><rt>きょく</rt><rp>)</rp></ruby>で<ruby>切<rp>(</rp><rt>きっ</rt><rp>)</rp></ruby><ruby>手<rp>(</rp><rt>て</rt><rp>)</rp></ruby>を<ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>って来た。
-A)ばかりに
-B)ために
-C)とおりに
-D)ついでに
-    ><details>
-    ><summary>
-    >详解</summary>
-    >
-    >**答案**：
-    **解析**：
-    ></details>
-
-20. <ruby>上<rp>(</rp><rt>しゃん</rt><rp>)</rp></ruby><ruby>海<rp>(</rp><rt>はい</rt><rp>)</rp></ruby>では、<ruby>毎<rp>(</rp><rt>まい</rt><rp>)</rp></ruby><ruby>年<rp>(</rp><rt>とし</rt><rp>)</rp></ruby>、<ruby>六<rp>(</rp><rt>ろく</rt><rp>)</rp></ruby>月から<ruby>七<rp>(</rp><rt>しち</rt><rp>)</rp></ruby><ruby>月<rp>(</rp><rt>がつ</rt><rp>)</rp></ruby>_______、<ruby>雨<rp>(</rp><rt>あめ</rt><rp>)</rp></ruby>がたくさん<ruby>降<rp>(</rp><rt>お</rt><rp>)</rp></ruby>ります。
-A)にあたって
-B)にかけて
-C)に<ruby>比<rp>(</rp><rt>くら</rt><rp>)</rp></ruby>べて
-D)にそって
-    ><details>
-    ><summary>
-    >详解</summary>
-    >
-    >**答案**：
-    **解析**：
-    ></details>
-
-21. <ruby>鈴<rp>(</rp><rt>すず</rt><rp>)</rp></ruby><ruby>木<rp>(</rp><rt>き</rt><rp>)</rp></ruby>さん_______くれば、この<ruby>手<rp>(</rp><rt>て</rt><rp>)</rp></ruby><ruby>紙<rp>(</rp><rt>がみ</rt><rp>)</rp></ruby>をすぐ<ruby>日<rp>(</rp><rt>に</rt><rp>)</rp></ruby><ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby><ruby>語<rp>(</rp><rt>ご</rt><rp>)</rp></ruby>に<ruby>訳<rp>(</rp><rt>やく</rt><rp>)</rp></ruby>してもらえるでしょう。
-A)かぎり
-B)さえ
-C)すら
-D)こそ
-    ><details>
-    ><summary>
-    >详解</summary>
-    >
-    >**答案**：
-    **解析**：
-    ></details>
-
-22. <ruby>石<rp>(</rp><rt>いし</rt><rp>)</rp></ruby><ruby>川<rp>(</rp><rt>かわ</rt><rp>)</rp></ruby>さんは<ruby>子<rp>(</rp><rt>こど</rt><rp>)</rp></ruby><ruby>供<rp>(</rp><rt>も</rt><rp>)</rp></ruby>を<ruby>育<rp>(</rp><rt>そだ</rt><rp>)</rp></ruby>てる_______、<ruby>大<rp>(</rp><rt>だい</rt><rp>)</rp></ruby><ruby>学<rp>(</rp><rt>がく</rt><rp>)</rp></ruby>に<ruby>通<rp>(</rp><rt>かよ</rt><rp>)</rp></ruby>い<ruby>法<rp>(</rp><rt>ほう</rt><rp>)</rp></ruby><ruby>律<rp>(</rp><rt>りつ</rt><rp>)</rp></ruby>の<ruby>勉<rp>(</rp><rt>べん</rt><rp>)</rp></ruby><ruby>強<rp>(</rp><rt>きょう</rt><rp>)</rp></ruby>をしている。
-A)ことか
-B)までか
-C)<ruby>一<rp>(</rp><rt>いっ</rt><rp>)</rp></ruby><ruby>方<rp>(</rp><rt>ぽう</rt><rp>)</rp></ruby>で
-D)<ruby>次<rp>(</rp><rt>し</rt><rp>)</rp></ruby><ruby>第<rp>(</rp><rt>だい</rt><rp>)</rp></ruby>
-    ><details>
-    ><summary>
-    >详解</summary>
-    >
-    >**答案**：
-    **解析**：
-    ></details>
-
-23. <ruby>息<rp>(</rp><rt>むす</rt><rp>)</rp></ruby><ruby>子<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>はCDを<ruby>勉<rp>(</rp><rt>べん</rt><rp>)</rp></ruby><ruby>強<rp>(</rp><rt>きょう</rt><rp>)</rp></ruby>しています。
-A)かけたり
-B)かけやすくて
-C)かけっぱなし
-D)かけるとき
-    ><details>
-    ><summary>
-    >详解</summary>
-    >
-    >**答案**：
-    **解析**：
-    ></details>
-
-24. <ruby>朝<rp>(</rp><rt>あさ</rt><rp>)</rp></ruby>から<ruby>晩<rp>(</rp><rt>ばん</rt><rp>)</rp></ruby>まで<ruby>少<rp>(</rp><rt>すこ</rt><rp>)</rp></ruby>しも<ruby>休<rp>(</rp><rt>きゅう</rt><rp>)</rp></ruby><ruby>憩<rp>(</rp><rt>けい</rt><rp>)</rp></ruby>できなかった。
-A)<ruby>働<rp>(</rp><rt>はたら</rt><rp>)</rp></ruby>きっぱなし
-B)<ruby>働<rp>(</rp><rt>はたら</rt><rp>)</rp></ruby>いてばかり
-C)<ruby>働<rp>(</rp><rt>はたら</rt><rp>)</rp></ruby>いたりして
-D)<ruby>働<rp>(</rp><rt>はたら</rt><rp>)</rp></ruby>くままで
-    ><details>
-    ><summary>
-    >详解</summary>
-    >
-    >**答案**：
-    **解析**：
-    ></details>
-
-25. <ruby>家<rp>(</rp><rt>うち・いえ</rt><rp>)</rp></ruby>の<ruby>近<rp>(</rp><rt>ちか</rt><rp>)</rp></ruby>くのスーパーは、<ruby>明日<rp>(</rp><rt>あした</rt><rp>)</rp></ruby>新装<ruby>開<rp>(</rp><rt>かい</rt><rp>)</rp></ruby><ruby>店<rp>(</rp><rt>てん</rt><rp>)</rp></ruby>をひかえて<ruby>準<rp>(</rp><rt>じゅん</rt><rp>)</rp></ruby><ruby>備<rp>(</rp><rt>び</rt><rp>)</rp></ruby>がすっかりでき、あとは<ruby>客<rp>(</rp><rt>きゃく</rt><rp>)</rp></ruby>を
-A)<ruby>待<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>つほどとなっている
-B)<ruby>待<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>たないほどとなっている
-C)<ruby>待<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>つばかりとなっている
-D)<ruby>待<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>たないばかりとなっている
-    ><details>
-    ><summary>
-    >详解</summary>
-    >
-    >**答案**：
-    **解析**：
-    ></details>
-
-
----
-# 第2节 #2_0
-* [[ N2_Menu_0.md | Menu #2_0 ]]
-
 
 
 ---
